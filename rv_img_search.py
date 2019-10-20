@@ -6,6 +6,9 @@ from urllib2 import urlopen
 from cookielib import CookieJar
 import time
 from bs4 import BeautifulSoup
+import wikipedia
+import scrapy
+from scrapy import *
 cj = CookieJar()
 opener = urllib2.build_opener(urllib2.HTTPCookieProcessor(cj))
 
@@ -31,10 +34,10 @@ soup = BeautifulSoup(sourceCode,'html.parser')
  
 city_tags = soup.find_all('input', title="Search")
 print(city_tags[0]['value'])
-   
+eachthing = wikipedia.page(city_tags[0]['value']).categories
+print(eachthing)
 
 
-#imageLookup()
 
 
 
