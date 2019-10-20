@@ -38,8 +38,7 @@ print(city_tags[0]['value'])
 #eachthing = wikipedia.page(city_tags[0]['value']).categories
 #print(eachthing)
 wikipedia.set_lang("en")
-#query = (city_tags[0]['value'])
-query = "Python"
+query = (city_tags[0]['value'])
 WikiPage = wikipedia.page(title = query,auto_suggest = True)
 var1="Articles"
 var2="articles"
