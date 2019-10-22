@@ -26,16 +26,23 @@ content = opener.open(wikipedia.page(query).url).read()
 #print(content)
 soup2 = BeautifulSoup(content,'html.parser')
 cat1 = soup2.find_all("div",{'class':'mw-normal-catlinks'})
-#soup3 = BeautifulSoup(cat1,'lxml')
-text1="Categories:"
+#cat2 = cat1.find_all('a');
 
-for i in cat1:
-  print(i.text)
-  
+#print(type(cat1))
+cat2 = cat1[0].find_all('a')
+
+#print(cat2)
+
+#print(type(cat2))
+
+#print(cat2[1]['title'][0])
+for i in cat2:
+   #if 'Category:' in i['title']:
+   #i['title'].replace('Category:','')
+   print(i['title'])
+   print("1")#forconformation that these are different
 
 
-
-#cat1 = soup2.find_all("div",{'class':'catlinks'})
 
 
 
