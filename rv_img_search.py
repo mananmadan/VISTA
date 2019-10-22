@@ -38,7 +38,8 @@ print(city_tags[0]['value'])
 #eachthing = wikipedia.page(city_tags[0]['value']).categories
 #print(eachthing)
 wikipedia.set_lang("en")
-query = (city_tags[0]['value'])
+#query = (city_tags[0]['value'])
+query = "Vehicle"
 WikiPage = wikipedia.page(title = query,auto_suggest = True)
 var1="Articles"
 var2="articles"
@@ -53,17 +54,17 @@ for i in cat:
     if result  == -4: 
         print (i)
         print("*******************************************************\n")
-        query=i
-        WikiPage = wikipedia.page(title = query,auto_suggest = True)
-        cat1 = WikiPage.categories
-        for j in cat1:
-         result1=j.find(var1)
-         result1+=j.find(var2)
-         result1+=j.find(var3)
-         result1+=j.find(var4)
-         if result1  == -4: 
-          print (j)
-        print("--------------------------------------------------------\n")
+        #query=i
+        #WikiPage = wikipedia.page(title = query,auto_suggest = True)
+        #cat1 = WikiPage.categories
+        #for j in cat1:
+        #result1=j.find(var1)
+        #result1+=j.find(var2)
+        #result1+=j.find(var3)
+        #result1+=j.find(var4)
+        #if result1  == -4: 
+        #print (j)
+        #print("--------------------------------------------------------\n")
       
 
 
