@@ -36,13 +36,19 @@ cat2 = cat1[0].find_all('a')
 #print(type(cat2))
 
 #print(cat2[1]['title'][0])
+temp ='Category:'
+count=0
 for i in cat2:
-   #if 'Category:' in i['title']:
-   #i['title'].replace('Category:','')
-   print(i['title'])
-   print("1")#forconformation that these are different
-
-
+ print(type(i['title']))
+ temp1 = i['title'].encode('utf-8') 
+ for j in temp1:
+  count = count+1     
+  if(count<=7):
+   print('')
+  else:
+   print(j)
+ 
+  count=0
 
 
 
