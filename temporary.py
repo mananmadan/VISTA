@@ -9,6 +9,7 @@ from bs4 import BeautifulSoup
 import wikipedia
 import scrapy
 from scrapy import *
+
 cj = CookieJar()
 opener = urllib2.build_opener(urllib2.HTTPCookieProcessor(cj))
 
@@ -19,37 +20,33 @@ opener.addheaders = [('User-agent', 'Mozilla/5.0 (X11; Linux i686) AppleWebKit/5
 #eachthing = wikipedia.page(city_tags[0]['value']).categories
 #print(eachthing)
 wikipedia.set_lang("en")
-#query = "Rock Concert"
-query = "Python"
 
-content = opener.open(wikipedia.page(query).url).read()
-#print(content)
-soup2 = BeautifulSoup(content,'html.parser')
-cat1 = soup2.find_all("div",{'class':'mw-normal-catlinks'})
-#cat2 = cat1.find_all('a');
+def my_f(query):
+ content = opener.open(wikipedia.page(query).url).read()
+ soup2 = BeautifulSoup(content,'html.parser')
+ cat1 = soup2.find_all("div",{'class':'mw-normal-catlinks'})
+ cat2 = cat1[0].find_all('a')
+ d=0
+ list=[]
+ for i in cat2:
+  if d != 0:
+   list.append(str(i.text))
+  d=d+1
+ print(query,":",list,"\n")
+ return list
 
-#print(type(cat1))
-cat2 = cat1[0].find_all('a')
+query = "Rock Concert"
 
-#print(cat2)
-
-#print(type(cat2))
-
-#print(cat2[1]['title'][0])
-temp ='Category:'
-count=0
-for i in cat2:
- print(type(i['title']))
- temp1 = i['title'].encode('utf-8') 
- for j in temp1:
-  count = count+1     
-  if(count<=7):
-   print('')
-  else:
-   print(j)
+templist = my_f(query)
  
-  count=0
 
+ 
+
+   
+ 
+   
+ 
+ 
 
 
 

@@ -2,7 +2,7 @@
 import wikipedia
 import requests
 import pprint
-import urllib3
+
 from urllib3 import PoolManager
 import time
 from bs4 import BeautifulSoup
