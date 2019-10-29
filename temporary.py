@@ -86,9 +86,9 @@ wikipedia.set_lang("en")
 
 
 def my_f(query):
- content = opener.open(wikipedia.page(query).url).read()
- if urllib.urlopen(wikipedia.page(query).url).getcode() == 200 :
  
+ if urllib.urlopen(wikipedia.page(query).url).getcode() == 200 : 
+  content = opener.open(wikipedia.page(query).url).read()
   soup2 = BeautifulSoup(content,'html.parser')
   cat1 = soup2.find_all("div",{'class':'mw-normal-catlinks'})
   cat2 = cat1[0].find_all('a')
@@ -101,17 +101,18 @@ def my_f(query):
    
   return list
 
-query = "Rock Concert"
+query = "Food"
 
 def create_graph(query,lvl,g):
  lvl = lvl + 1
  templist = my_f(query)
- print(query,"\t",templist)
+ print(query," ",templist)
  print("\n")
  for i in templist:
   g.addEdge(query, i)
  for j in templist:
-  if lvl<2 :
+  #print(j)
+  if lvl<3 :
    if j !=query :
     create_graph(j,lvl,g)
   else :
