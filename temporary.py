@@ -5,6 +5,7 @@ import urllib2
 from urllib2 import urlopen
 from cookielib import CookieJar
 import time
+import urllib
 from bs4 import BeautifulSoup
 import wikipedia
 import scrapy
@@ -52,7 +53,7 @@ class Graph:
                 print("(",node,", ",neighbour,")")
 
     
-def find_path(self, start_vertex, end_vertex, path=None):
+    def find_path(self, start_vertex, end_vertex, path=None):
         if path == None:
             path = []
         graph = self.__graph_dict
@@ -86,36 +87,39 @@ wikipedia.set_lang("en")
 
 def my_f(query):
  content = opener.open(wikipedia.page(query).url).read()
- soup2 = BeautifulSoup(content,'html.parser')
- cat1 = soup2.find_all("div",{'class':'mw-normal-catlinks'})
- cat2 = cat1[0].find_all('a')
- d=0
- list=[]
- for i in cat2:
-  if d != 0:
-   list.append(str(i.text))
-  d=d+1
- #print(query,":",list,"\n")
- return list
+ if urllib.urlopen(wikipedia.page(query).url).getcode() == 200 :
+ 
+  soup2 = BeautifulSoup(content,'html.parser')
+  cat1 = soup2.find_all("div",{'class':'mw-normal-catlinks'})
+  cat2 = cat1[0].find_all('a')
+  d=0
+  list=[]
+  for i in cat2:
+   if d != 0:
+    list.append(str(i.text))
+   d=d+1
+   
+  return list
 
 query = "Rock Concert"
 
 def create_graph(query,lvl,g):
  lvl = lvl + 1
  templist = my_f(query)
- print(templist)
+ print(query,"\t",templist)
  print("\n")
  for i in templist:
   g.addEdge(query, i)
  for j in templist:
-  if lvl<15 :
-   create_graph(j,lvl,g)
+  if lvl<2 :
+   if j !=query :
+    create_graph(j,lvl,g)
   else :
    return 0
    
 
 create_graph(query,0,g)
- 
+g.show_edges()
 
  
 
