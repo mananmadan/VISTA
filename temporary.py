@@ -101,7 +101,7 @@ def my_f(query):
    
   return list
 
-query = "Food"
+query = "Rock Concert"
 
 def create_graph(query,lvl,g):
  lvl = lvl + 1
@@ -112,7 +112,7 @@ def create_graph(query,lvl,g):
   g.addEdge(query, i)
  for j in templist:
   #print(j)
-  if lvl<3 :
+  if lvl<4 :
    if j !=query :
     create_graph(j,lvl,g)
   else :
