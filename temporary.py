@@ -14,16 +14,16 @@ from scrapy import *
 class Graph:
 
 
-    
+
 
 
     graph_dict={}
 
 
-    
 
 
-    def addEdge(self,node,neighbour):  
+
+    def addEdge(self,node,neighbour):
 
 
         if node not in self.graph_dict:
@@ -38,7 +38,7 @@ class Graph:
             self.graph_dict[node].append(neighbour)
 
 
-            
+
 
 
     def show_edges(self):
@@ -51,9 +51,9 @@ class Graph:
 
 
                 print("(",node,", ",neighbour,")")
-  
+
     def find_shortest_path(self, start, end, path=[]):
-        #print(type(path))        
+        #print(type(path))
         #print(type(start))
         path.append(start)
         #print(type(path))
@@ -88,8 +88,8 @@ wikipedia.set_lang("en")
 
 
 def my_f(query):
- 
- if urllib.urlopen(wikipedia.page(query).url).getcode() == 200 : 
+
+ if urllib.urlopen(wikipedia.page(query).url).getcode() == 200 :
   content = opener.open(wikipedia.page(query).url).read()
   soup2 = BeautifulSoup(content,'html.parser')
   cat1 = soup2.find_all("div",{'class':'mw-normal-catlinks'})
@@ -100,10 +100,10 @@ def my_f(query):
    if d != 0:
     list.append(str(i.text))
    d=d+1
-   
+
   return list
 
-query = "Food"
+query = "Foods"
 
 def create_graph(query,lvl,g):
  lvl = lvl + 1
@@ -119,7 +119,7 @@ def create_graph(query,lvl,g):
     create_graph(j,lvl,g)
   else :
    return 0
-   
+
 
 create_graph(query,0,g)
 g.show_edges()
@@ -127,13 +127,13 @@ path2=[]
 p1=g.find_shortest_path('Cooking','Domestic life')
 print(p1)
 print(len(p1))
- 
 
-   
- 
-   
- 
- 
+
+
+
+
+
+
 
 
 
