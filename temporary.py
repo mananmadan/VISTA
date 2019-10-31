@@ -8,8 +8,8 @@ import time
 import urllib
 from bs4 import BeautifulSoup
 import wikipedia
-import scrapy
-from scrapy import *
+#import scrapy
+#from scrapy import *
 
 class Graph:
 
