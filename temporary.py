@@ -51,25 +51,27 @@ class Graph:
 
 
                 print("(",node,", ",neighbour,")")
-
-    
-    def find_path(self, start_vertex, end_vertex, path=None):
-        if path == None:
-            path = []
-        graph = self.__graph_dict
-        path = path + [start_vertex]
-        if start_vertex == end_vertex:
+  
+    def find_shortest_path(self, start, end, path=[]):
+        #print(type(path))        
+        #print(type(start))
+        path.append(start)
+        #print(type(path))
+        if start == end:
             return path
-        if start_vertex not in graph:
+        if not start in self.graph_dict:
             return None
-        for vertex in graph[start_vertex]:
-            if vertex not in path:
-                extended_path = self.find_path(vertex, 
-                                               end_vertex, 
-                                               path)
-                if extended_path: 
-                    return extended_path
-        return None
+        shortest = None
+        for node in self.graph_dict[start]:
+            #print(type(path))
+            #print(type(node))
+            if node not in path:
+                newpath = self.find_shortest_path(node, end, path)
+                print(newpath)
+                if newpath:
+                    if not shortest or len(newpath) < len(shortest):
+                        shortest = newpath
+        return shortest
 
 
 g= Graph()
@@ -101,7 +103,7 @@ def my_f(query):
    
   return list
 
-query = "Rock Concert"
+query = "Food"
 
 def create_graph(query,lvl,g):
  lvl = lvl + 1
@@ -121,7 +123,10 @@ def create_graph(query,lvl,g):
 
 create_graph(query,0,g)
 g.show_edges()
-
+path2=[]
+p1=g.find_shortest_path('Cooking','Domestic life')
+print(p1)
+print(len(p1))
  
 
    
