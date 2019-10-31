@@ -96,6 +96,7 @@ def my_f(query):
   cat2 = cat1[0].find_all('a')
   d=0
   list=[]
+
   for i in cat2:
    if d != 0:
     list.append(str(i.text))
@@ -103,7 +104,7 @@ def my_f(query):
 
   return list
 
-query = "Foods"
+query = "Food"
 
 def create_graph(query,lvl,g):
  lvl = lvl + 1
