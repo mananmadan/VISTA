@@ -13,7 +13,8 @@ We uploaded the image to the google reverse image search algorithm and extracted
 Now that we had the description of the image , we had to form different categories from that result.
 So we decided to extract many levels of categories from wikipedia to ensure that we get may related field regarding the tag of the image.
 After doing that we put all that information in a graph.
-![/images/image.png]
+
+![test]()
 # Third Step
 
 We take the tags from the notes and try to search the terms related to them first in wikipedia.
