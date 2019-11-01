@@ -15,7 +15,7 @@ We uploaded the image to the google reverse image search algorithm and extracted
 Now that we had the description of the image , we had to form different categories from that result.
 So we decided to extract many levels of categories from wikipedia to ensure that we get may related field regarding the tag of the image.
 After doing that we put all that information in a graph.
-**For example for query food and number of levels = 3 we get**:
+**For example for query "food" and number of levels = 3 we get**:
 ![test](https://github.com/mananmadan/ProjectWork/blob/master/graph.jpg)
 # Third Step
 
