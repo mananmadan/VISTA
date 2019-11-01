@@ -1,5 +1,5 @@
 # ProjectWork
-Introductory line
+Our task was to build a tool such that it will be able to take the notes from the class for the student.Now when the student sees anything outside in the world,he is able to upload that photo to our tool.We shall be able to tell him about the application of the notes relating to that image.**Hence helping in better understanding of the real world applications of the material studied in the class**.
 
 
 # First Step
