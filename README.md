@@ -28,4 +28,4 @@ We order them according to their weights.
 
 # Fourth Step
 ## In Progress
- In order to recommend the links to user , we desighn a search query of the tags that had the most weight and then display them.
+ In order to recommend the links to user , we design a search query of the tags that had the most weight and then display them.
