@@ -14,7 +14,7 @@ Now that we had the description of the image , we had to form different categori
 So we decided to extract many levels of categories from wikipedia to ensure that we get may related field regarding the tag of the image.
 After doing that we put all that information in a graph.
 
-![test]()
+![test](https://github.com/mananmadan/ProjectWork/blob/master/graph.jpg)
 # Third Step
 
 We take the tags from the notes and try to search the terms related to them first in wikipedia.
