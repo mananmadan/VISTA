@@ -78,7 +78,7 @@ def my_f(query):
      return 0
  return list
 
-query = "traffic signals"
+query = "Mughal Empire"
 
 def create_graph(query,lvl):
  lvl = lvl + 1
@@ -90,7 +90,7 @@ def create_graph(query,lvl):
    addEdge(graph,query, i)
   for j in templist:
    #print(j)
-   if lvl<4 :
+   if lvl<6 :
     if j !=query :
      create_graph(j,lvl)
    else:
@@ -98,6 +98,7 @@ def create_graph(query,lvl):
  else:
     return 0
 create_graph(query,0)
+create_graph('machine learning',2)
 show_edges(graph)
 path2=[]
 p1=find_shortest_path(graph,'Cooking','Domestic life')
