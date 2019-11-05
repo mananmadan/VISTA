@@ -1,5 +1,3 @@
-#!/usr/bin/python
-
 import pysftp as sftp
 import urllib2
 from urllib2 import urlopen
@@ -111,9 +109,4 @@ for n in graph2[query2] :
     p=find_shortest_path(graph,"traffic signals",n)
     if p != None :
         print p
-
-
-
-
-
-
+#####
