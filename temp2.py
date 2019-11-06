@@ -90,7 +90,7 @@ def create_graph(query,lvl,graph):
    addEdge(graph,query, i)
   for j in templist:
    #print(j)
-   if lvl<5 :
+   if lvl<15 :
     if j !=query :
      create_graph(j,lvl,graph)
    else:
