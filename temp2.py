@@ -98,9 +98,9 @@ def create_graph(query,lvl,graph):
  else:
     return 0
 query2="Machine Learning"
-create_graph(query,0,graph)
+create_graph(query,9,graph)
 show_edges(graph)
-create_graph(query2,2,graph2)
+create_graph(query2,12,graph2)
 show_edges(graph2)
 for n in graph[query] :
     p=find_shortest_path(graph2,query2,n)
