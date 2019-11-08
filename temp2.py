@@ -1,5 +1,4 @@
 #!/usr/bin/python
-
 import pysftp as sftp
 import urllib2
 from urllib2 import urlopen
@@ -14,6 +13,7 @@ from collections import defaultdict
 
 
 graph = defaultdict(list)
+graph2=defaultdict(list)
 def addEdge(graph,u,v):
     graph[u].append(v)
 def generate_edges(graph):
@@ -25,7 +25,7 @@ def generate_edges(graph):
 def show_edges(graph):
     edges=generate_edges(graph)
     for n in edges:
-     print ("n")
+     print (n)
 def find_shortest_path(graph, start, end, path =[]):
         path = path + [start]
         if start == end:
@@ -72,7 +72,7 @@ def my_f(query):
    list=[]
    for i in cat2:
     if d != 0:
-     list.append(str(i.text))
+     list.append(str(i.text.encode('utf8')))
     d=d+1
  else:
      return 0
@@ -80,7 +80,7 @@ def my_f(query):
 
 query = "traffic signals"
 
-def create_graph(query,lvl):
+def create_graph(query,lvl,graph):
  lvl = lvl + 1
  templist = my_f(query)
  if templist != 0 and len(templist) != 0 :
@@ -90,29 +90,24 @@ def create_graph(query,lvl):
    addEdge(graph,query, i)
   for j in templist:
    #print(j)
-   if lvl<4 :
+   if lvl<15 :
     if j !=query :
-     create_graph(j,lvl)
+     create_graph(j,lvl,graph)
    else:
     return 0
  else:
     return 0
-create_graph(query,0)
+query2="Machine Learning"
+create_graph(query,9,graph)
 show_edges(graph)
-path2=[]
-p1=find_shortest_path(graph,'Cooking','Domestic life')
-print('\n')
-print(p1)
-#print(len(p1))
-
-
-
-
-
-
-
-
-
-
-
+create_graph(query2,12,graph2)
+show_edges(graph2)
+for n in graph[query] :
+    p=find_shortest_path(graph2,query2,n)
+    if p != None :
+        print p
+for n in graph2[query2] :
+    p=find_shortest_path(graph,"traffic signals",n)
+    if p != None :
+        print p
 
