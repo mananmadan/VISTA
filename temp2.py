@@ -118,7 +118,7 @@ def create_graph(query,lvl,graph):
     addEdge(graph,query, i)
   for j in templist:
    #print(j)
-   if lvl<10 :
+   if lvl<7:
     if j !=query :
      create_graph(j,lvl,graph)
    else:
@@ -175,5 +175,12 @@ create_graph(query,3,graph2)
 add_to_file(graph2,query)
 show_edges(graph2)
 
-
-
+xl=["waterfall model","flow - oriented design","data coupling","function cohesion","life cycle model","requirement specification ( srs )","actual time","available time","earliest start time","event or milestone"]
+for i in xl :
+    graph3 = defaultdict(list)
+    for no in range(8):
+        read_from_file(graph3,i)
+        create_graph(i,8-no,graph3)
+        add_to_file(graph3,i)
+        show_edges(graph3)
+        graph3.clear()
