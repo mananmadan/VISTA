@@ -24,16 +24,13 @@ Modern history of the United Kingdom
 Revolutions by type
 Theories of history
 -1
-Engineering disciplines
-Engineering occupations
-Engineering-related lists
-Engineering disciplines
--1
-History of technology
-History of technology
-History of science by discipline
-History of industries
-Engineering studies
+Traffic signals
+Traffic signals
+1868 introductions
+Pedestrian crossing components
+Street furniture
+Traffic law
+History of road transport
 -1
 Industrial Revolution
 Industrial Revolution
@@ -76,9 +73,17 @@ History of science and technology in China
 Chinese inventions
 History of science and technology in China
 -1
-Ancient Roman technology
-Technology-related lists
-Ancient Roman technology
+Industrial history
+Industrial Revolution
+Industrial history
+History of technology
+18th century in technology
+19th century in technology
+Early Modern Britain
+Modern Europe
+Modern history of the United Kingdom
+Revolutions by type
+Theories of history
 -1
 Chinese pottery
 Arts in China
@@ -86,6 +91,15 @@ History of ceramics
 Chinese art
 Chinese porcelain
 Chinese pottery
+-1
+Arts in China
+Arts in China
+-1
+Pedestrian crossing components
+Pedestrian crossing components
+Road transport
+Traffic law
+Transportation engineering
 -1
 History of ceramics
 Ceramic art
@@ -131,18 +145,24 @@ History of the English language
 English phonology
 Language histories
 -1
+traffic signals
+Traffic signals
+1868 introductions
+Pedestrian crossing components
+Street furniture
+Traffic law
+History of road transport
+-1
 Notation
 Notation
 Communication
 Modeling languages
 -1
-Steelmaking
-Steelmaking
-Ancient Roman technology
-Chinese inventions
-English inventions
+Lists of inventions or discoveries
+Science and technology in India
 Indian inventions
-Industrial Revolution in England
+Lists of inventions or discoveries
+India science and technology-related lists
 -1
 Chinese inventions
 China-related lists
@@ -166,6 +186,9 @@ Industrial buildings
 Manufacturing buildings and structures
 Industrial Revolution
 -1
+Steel industry of the United States
+Steel industry of the United States
+-1
 Industrial furnaces
 Fireplaces
 Residential heating appliances
@@ -186,11 +209,11 @@ Philosophy of language
 Philosophy of language
 Philosophy of science by discipline
 -1
-Lists of inventions or discoveries
-Science and technology in India
-Indian inventions
-Lists of inventions or discoveries
-India science and technology-related lists
+History of technology
+History of technology
+History of science by discipline
+History of industries
+Engineering studies
 -1
 Street furniture
 Street furniture
@@ -204,17 +227,9 @@ Pottery
 Modern history of the United Kingdom
 History of the United Kingdom
 -1
-Industrial history
-Industrial Revolution
-Industrial history
-History of technology
-18th century in technology
-19th century in technology
-Early Modern Britain
-Modern Europe
-Modern history of the United Kingdom
-Revolutions by type
-Theories of history
+Ancient Roman technology
+Technology-related lists
+Ancient Roman technology
 -1
 Philosophical concepts
 Philosophical concepts
@@ -285,14 +300,14 @@ Pottery
 Kilns
 Firing techniques
 -1
-China-related lists
-China-related lists
+Engineering-related lists
+Engineering occupations
+Engineering-related lists
+Engineering disciplines
 -1
-Pedestrian crossing components
-Pedestrian crossing components
-Road transport
-Traffic law
-Transportation engineering
+Architecture
+Architecture
+Architectural design
 -1
 Concepts
 Abstraction
@@ -309,14 +324,6 @@ Philosophy of mind
 Semantics
 Main topic articles
 -1
-Traffic signals
-Traffic signals
-1868 introductions
-Pedestrian crossing components
-Street furniture
-Traffic law
-History of road transport
--1
 Traffic signs
 Street furniture
 Traffic signs
@@ -329,11 +336,6 @@ Formal languages
 Metalogic
 Concepts in logic
 Philosophy of logic
--1
-Communication
-Communication
-Plant cognition
-Scoutcraft
 -1
 India science and technology-related lists
 Lists of satellites
@@ -349,14 +351,18 @@ Technological change
 Theories of history
 Science and technology studies
 -1
-Metaphysics
-Metaphysics
--1
 Modern Europe
 History of Europe
 -1
-Arts in China
-Arts in China
+Indian inventions
+Science and technology in India
+Indian inventions
+Lists of inventions or discoveries
+India science and technology-related lists
+-1
+Early Modern Britain
+Early Modern Britain
+16th century in Great Britain
 -1
 Main topic articles
 Law
@@ -366,9 +372,10 @@ Civil engineering
 Civil engineering
 Engineering disciplines
 -1
-Early Modern Britain
-Early Modern Britain
-16th century in Great Britain
+Communication
+Communication
+Plant cognition
+Scoutcraft
 -1
 Engineering occupations
 Engineering occupations
@@ -379,11 +386,8 @@ Road transport
 Iron and steel mills
 Steel industry of the United States
 -1
-Indian inventions
-Science and technology in India
-Indian inventions
-Lists of inventions or discoveries
-India science and technology-related lists
+China-related lists
+China-related lists
 -1
 Symbols
 Symbols
@@ -408,13 +412,13 @@ Grammar
 Meaning (philosophy of language)
 Social philosophy
 -1
-traffic signals
-Traffic signals
-1868 introductions
-Pedestrian crossing components
-Street furniture
-Traffic law
-History of road transport
+Steelmaking
+Steelmaking
+Ancient Roman technology
+Chinese inventions
+English inventions
+Indian inventions
+Industrial Revolution in England
 -1
 Theories of history
 Conspiracy theories
@@ -426,21 +430,17 @@ Chinese pottery
 Kilns
 Firing techniques
 -1
-Steel industry of the United States
-Steel industry of the United States
--1
-Engineering-related lists
-Engineering occupations
-Engineering-related lists
-Engineering disciplines
+Metaphysics
+Metaphysics
 -1
 English inventions
 English inventions
 English history-related lists
 Lists of inventions or discoveries
 -1
-Architecture
-Architecture
-Architectural design
+Engineering disciplines
+Engineering occupations
+Engineering-related lists
+Engineering disciplines
 -1
 -2
