@@ -14,8 +14,7 @@ from collections import defaultdict
 # graph is a dictionary whith list as its value for implementing the data structure graph
 # each graph variable stores revelent categories of thier respective query upto given level
 
-graph = defaultdict(list)
-graph2 = defaultdict(list)
+
 
 # making connection with given category to its revelant categories
 
@@ -141,13 +140,24 @@ def add_to_file(graph,name):
         fout.write("-1\n")
     fout.write("-2\n")
 
+def output_file(query,gname,path):
+    fout = open("output3.txt","a")
+    fout.write(query)
+    fout.write("\n")
+    fout.write(gname)
+    fout.write("\n")
+    for node in path:
+        fout.write(node)
+        fout.write("\n")
+    fout.write("-1\n")
+
 # Reading data from file
 def read_from_file(graph,name):
 
     try:
         fin = open("created_graph/"+name+".txt")
     except :
-        return
+        return 0
     query=fin.readline()
     query=query.replace("\n","")
     while(query and query!="-2"):
@@ -159,29 +169,60 @@ def read_from_file(graph,name):
             val=val.replace("\n","")
         query=fin.readline()
         query=query.replace("\n","")
+    return 1
+
+graph = defaultdict(list)
+
+#query = "supermarket"
+#read_from_file(graph,query)
+#create_graph(query,0,graph)
+#add_to_file(graph,query)
+#show_edges(graph)
+#print("\n")
+
+#query = "Machine Learning"
+#read_from_file(graph2,query)
+#create_graph(query,3,graph2)
+#add_to_file(graph2,query)
+#show_edges(graph2)
 
 
+xl=["waterfall model","flow - oriented design","data coupling","function cohesion",
+    "life cycle model","requirement specification ( srs )","actual time","available time",
+    "earliest start time","event or milestone","network diagram","putnam estimation model",
+    "computer assisted software system engineering ( cas )","min calculate unadjusted function points",
+    "engineering environment","reverse engineering","belady and lehman model","boehm ' s model",
+    "full reuse model","taute ' s maintenance model","Iterative enhancement model","yau and collofello ' s model",
+    "cost of software maintenance","quality assurance ( sqa )","capability maturity model ( cmm )",
+    "basic execution time model","calendar time",    "execution time","halstead ' s software science metrics",
+    "human engineering","boehm ' s software quality model","mccabe ' s cyclomatic comple mccall ' s model",
+    "Egineering quality","public domain software"
+    ]
 
-query = "traffic signals"
-read_from_file(graph,query)
-create_graph(query,3,graph)
-add_to_file(graph,query)
-show_edges(graph)
-print("\n")
+distance_from="business information system"
+read_from_file(graph,distance_from)
+ans=[]
+for query in xl :
+    del ans [:]
+    ans=[]
+    graph2 = defaultdict(list)
+    x=read_from_file(graph2,query)
+    if x:
+        print (query)
+        print("\n")
+        for key in graph2:
+            path=[]
+            del path [:]
+            path=find_shortest_path(graph,distance_from,key)
+            if ( path and (len(path) < len(ans) or not ans)):
+                ans=path
+                print(ans)
+            for value in graph[key]:
+                if value not in graph:
+                    path=find_shortest_path(graph,distance_from,key)
+                    if ( path and (len(path) < len(ans) or not ans)):
+                        ans=path
+                        print(ans)
+        if ans:
+            output_file(distance_from,query,ans)
 
-query = "Machine Learning"
-read_from_file(graph2,query)
-create_graph(query,3,graph2)
-add_to_file(graph2,query)
-show_edges(graph2)
-
-xl=["Quality engineering"]
-
-for i in xl :
-    graph3 = defaultdict(list)
-    for no in range(8):
-        read_from_file(graph3,i)
-        create_graph(i,8-no,graph3)
-        add_to_file(graph3,i)
-        show_edges(graph3)
-        graph3.clear()
