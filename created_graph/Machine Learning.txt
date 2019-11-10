@@ -27,9 +27,9 @@ Anti-aging substances
 Transhumanism
 Life
 -1
-Psychology
-Psychology
-Behavioural sciences
+Knowledge
+Knowledge
+Main topic articles
 -1
 International sports bodies based in Switzerland
 Research institutes in Switzerland
@@ -37,15 +37,9 @@ International sports bodies based in Switzerland
 Sports organizations established in 1995
 Association football organization stubs
 -1
-Buddhist philosophy
-Buddhist philosophy
-Chinese philosophy
-Indian philosophy
-Pyrrhonism
--1
-Parenting
-Parenting
-Childhood
+Multi-robot systems
+Multi-agent systems
+Multi-robot systems
 -1
 Carboxylate anions
 Carboxylate anions
@@ -94,16 +88,29 @@ Germany history-related lists
 German Empire-related lists
 Modern history of Germany
 -1
-Doping in sport
-Doping in sport
-Bioethics
+Phenethylamine alkaloids
+Drugs not assigned an ATC code
+Phenethylamines
+Phenethylamine alkaloids
+Amphetamine
+Biomolecules
+Euphoriants
+Norepinephrine-dopamine releasing agents
+Stimulants
+TAAR1 agonists
+Trace amines
+VMAT inhibitors
 -1
 Physical exercise
 Physical exercise
 Management of obesity
 -1
-Sigma agonists
-Receptors
+Reading (process)
+Reading (process)
+Writing systems
+Orthography
+Applied linguistics
+Educational psychology
 -1
 Pleasure
 Pleasure
@@ -144,10 +151,10 @@ Philosophy of mind
 Philosophy of religion
 Spirituality
 -1
-Clinical psychology
-Clinical psychology
-Health care occupations
-Behavioural sciences
+Computational science
+Applied mathematics
+Computational science
+Computational fields of study
 -1
 Life skills
 Life skills
@@ -166,15 +173,19 @@ Collective intelligence
 Artificial intelligence
 Multi-robot systems
 -1
-Complex dynamics
-Complex dynamics
-Emergence
-Mathematical analysis stubs
+Learning
+Learning
+Cognitive science
+Educational psychology
+Developmental psychology
+Intelligence
+Neuropsychological assessment
+Systems science
 -1
-Computational science
-Applied mathematics
-Computational science
-Computational fields of study
+Clinical psychology
+Clinical psychology
+Health care occupations
+Behavioural sciences
 -1
 Mathematical modeling
 Applied mathematics
@@ -189,9 +200,13 @@ Mathematical terminology
 Mathematical terminology
 Lemmas
 -1
-Behavioural sciences
-Behavioural sciences
-Cognitive science
+Literacy
+Literacy
+Applied linguistics
+Knowledge
+Reading (process)
+Social classes
+Writing
 -1
 Metaphysics
 Metaphysics
@@ -350,14 +365,10 @@ Lists by population
 Population models
 Demography
 -1
-Learning
-Learning
-Cognitive science
-Educational psychology
-Developmental psychology
-Intelligence
-Neuropsychological assessment
-Systems science
+Complex dynamics
+Complex dynamics
+Emergence
+Mathematical analysis stubs
 -1
 Norepinephrine-dopamine reuptake inhibitors
 Norepinephrine-dopamine reuptake inhibitors
@@ -390,13 +401,14 @@ G protein-coupled receptors
 TAAR1 agonists
 Amphetamine
 -1
-Karma
-Karma
-Buddhist philosophical concepts
-Hindu philosophical concepts
-Jain philosophical concepts
-Reincarnation
-Spirituality
+Old age
+Old age
+Gerontology
+Elder law
+Social constructionism
+Diseases and disorders
+Disability
+Biology
 -1
 Substituted amphetamines
 Substituted amphetamines
@@ -471,14 +483,13 @@ Philosophy of love
 Emotions
 Pleasure
 -1
-Old age
-Old age
-Gerontology
-Elder law
-Social constructionism
-Diseases and disorders
-Disability
-Biology
+Karma
+Karma
+Buddhist philosophical concepts
+Hindu philosophical concepts
+Jain philosophical concepts
+Reincarnation
+Spirituality
 -1
 Metaphysics of mind
 Metaphysics
@@ -504,9 +515,9 @@ Physical exercise
 Spiritual practice
 Sanskrit words and phrases
 -1
-Knowledge
-Knowledge
-Main topic articles
+Psychology
+Psychology
+Behavioural sciences
 -1
 Psychiatric diagnosis
 Psychiatric classification systems
@@ -517,18 +528,9 @@ Mood disorders
 Psychiatric diagnosis
 Depression (psychology)
 -1
-Phenethylamine alkaloids
-Drugs not assigned an ATC code
-Phenethylamines
-Phenethylamine alkaloids
-Amphetamine
-Biomolecules
-Euphoriants
-Norepinephrine-dopamine releasing agents
-Stimulants
-TAAR1 agonists
-Trace amines
-VMAT inhibitors
+Doping in sport
+Doping in sport
+Bioethics
 -1
 Writing
 Writing
@@ -619,10 +621,21 @@ Physical exercise
 Spiritual practice
 Sanskrit words and phrases
 -1
-Chaos theory
-Chaos theory
-Complex systems theory
-Computational fields of study
+Organizations based in Montreal
+1738 establishments in the French colonial empire
+Religious organizations established in the 1730s
+Christian organizations based in Canada
+History of Catholicism in Canada
+Catholic female orders and societies
+History of Montreal
+Organizations based in Montreal
+Christian organizations established in the 18th century
+Canadian women's history
+-1
+Stimulants
+Stimulants
+Attention deficit hyperactivity disorder
+Psychopharmacology
 -1
 Attention deficit hyperactivity disorder
 Attention deficit hyperactivity disorder
@@ -700,18 +713,24 @@ Samkhya
 Hindu philosophical concepts
 Movements in ancient Indian philosophy
 -1
-Systems theory
-Systems theory
-Emergence
+Sex and drugs
+Pharmacology
+Drug culture
+Sexology
+Sex and drugs
+Sexual health
+-1
+Mathematical and quantitative methods (economics)
+Mathematical economics
+Mathematical and quantitative methods (economics)
 -1
 Computational fields of study
 Applied mathematics
 Computational science
 Computational fields of study
 -1
-Formal sciences
-Formal sciences
-Scientific disciplines
+Concepts in metaphysics
+Metaphysics
 -1
 Chinese philosophy
 Chinese philosophy
@@ -765,11 +784,13 @@ Developmental neuroscience
 Neurological disorders
 Neurodevelopmental disorders
 -1
-Narcolepsy
-Ailments of unknown cause
+Trace amines
+TAAR1 agonists
+Amines
 Amphetamine
-Narcolepsy
-Sleep disorders
+Neurotransmitters
+Neurochemistry
+Trace amines
 -1
 Indian inventions
 Science and technology in India
@@ -807,9 +828,6 @@ Port cities and towns of the Adriatic Sea
 Syracusian colonies
 University towns in Italy
 -1
-Neuropsychological assessment
-Neuropsychological assessment
--1
 Conceptual modelling
 Conceptual modelling
 Concepts
@@ -826,10 +844,6 @@ Spiritual practice
 Personal development
 Silence
 Yoga
--1
-Psychological testing
-Psychological testing
-Clinical psychology
 -1
 Pyrrhonism
 Pyrrhonism
@@ -889,27 +903,18 @@ Treatment and management of attention deficit hyperactivity disorder
 VMAT inhibitors
 World Anti-Doping Agency prohibited substances
 -1
-Organizations based in Montreal
-1738 establishments in the French colonial empire
-Religious organizations established in the 1730s
-Christian organizations based in Canada
-History of Catholicism in Canada
-Catholic female orders and societies
-History of Montreal
-Organizations based in Montreal
-Christian organizations established in the 18th century
-Canadian women's history
+Chaos theory
+Chaos theory
+Complex systems theory
+Computational fields of study
 -1
 Scientific disciplines
 Scientific disciplines
 Science
 -1
-Sex and drugs
-Pharmacology
-Drug culture
-Sexology
-Sex and drugs
-Sexual health
+Systems theory
+Systems theory
+Emergence
 -1
 Spirituality
 Spirituality
@@ -919,13 +924,16 @@ Metaphysics of mind
 New Age
 Philosophy of mind
 -1
-Trace amines
-TAAR1 agonists
-Amines
+Narcolepsy
+Ailments of unknown cause
 Amphetamine
-Neurotransmitters
-Neurochemistry
-Trace amines
+Narcolepsy
+Sleep disorders
+-1
+Biology terminology
+Glossaries of biology
+Glossaries of science
+Wikipedia glossaries
 -1
 Consciousness–matter dualism
 Dualism
@@ -997,9 +1005,9 @@ Carboxylate esters
 Carboxylate anions
 Anions
 -1
-Multi-robot systems
-Multi-agent systems
-Multi-robot systems
+Parenting
+Parenting
+Childhood
 -1
 Knowledge representation
 Knowledge representation
@@ -1016,12 +1024,8 @@ Interdisciplinary subfields
 Interdisciplinary subfields of sociology
 Social theories
 -1
-Reading (process)
-Reading (process)
-Writing systems
-Orthography
-Applied linguistics
-Educational psychology
+Sigma agonists
+Receptors
 -1
 Nondualism
 Nondualism
@@ -1040,13 +1044,9 @@ Indian inventions
 Lists of inventions or discoveries
 India science and technology-related lists
 -1
-Literacy
-Literacy
-Applied linguistics
-Knowledge
-Reading (process)
-Social classes
-Writing
+Behavioural sciences
+Behavioural sciences
+Cognitive science
 -1
 Special education
 Special education
@@ -1061,10 +1061,11 @@ Attention deficit hyperactivity disorder
 Branches of psychology
 Educational psychology
 -1
-Biology terminology
-Glossaries of biology
-Glossaries of science
-Wikipedia glossaries
+Buddhist philosophy
+Buddhist philosophy
+Chinese philosophy
+Indian philosophy
+Pyrrhonism
 -1
 Ageing
 Ageing
@@ -1110,8 +1111,9 @@ Educational programs
 Educational programs
 Education stubs
 -1
-Concepts in metaphysics
-Metaphysics
+Formal sciences
+Formal sciences
+Scientific disciplines
 -1
 Vasoconstrictors
 Vasoconstrictors
@@ -1125,9 +1127,8 @@ Formal sciences
 Systems theory
 Emergence
 -1
-Mathematical and quantitative methods (economics)
-Mathematical economics
-Mathematical and quantitative methods (economics)
+Neuropsychological assessment
+Neuropsychological assessment
 -1
 Hindu philosophical concepts
 Karma
@@ -1166,9 +1167,8 @@ Organizations based in Montreal
 Sports organizations established in 1999
 Sports rules and regulations
 -1
-Stimulants
-Stimulants
-Attention deficit hyperactivity disorder
-Psychopharmacology
+Psychological testing
+Psychological testing
+Clinical psychology
 -1
 -2
