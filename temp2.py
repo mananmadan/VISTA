@@ -175,7 +175,7 @@ create_graph(query,3,graph2)
 add_to_file(graph2,query)
 show_edges(graph2)
 
-xl=["life cycle model","requirement specification ( srs )","actual time","available time","earliest start time","event or milestone"]
+xl=["available time","earliest start time","event or milestone"]
 
 for i in xl :
     graph3 = defaultdict(list)
