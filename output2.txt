@@ -1,0 +1,86 @@
+supermarket
+waterfall model
+supermarket
+American inventions
+Lists of inventions or discoveries
+India science and technology-related lists
+Space programme of India
+Space agencies
+Space lists
+Lists of lists
+-1
+supermarket
+data coupling
+supermarket
+American inventions
+Lists of inventions or discoveries
+-1
+supermarket
+function cohesion
+supermarket
+American inventions
+Lists of inventions or discoveries
+-1
+supermarket
+available time
+supermarket
+American inventions
+Technology timelines
+History of medicine
+History of science by discipline
+-1
+supermarket
+earliest start time
+supermarket
+American inventions
+Technology timelines
+History of medicine
+History of science by discipline
+-1
+supermarket
+quality assurance ( sqa )
+supermarket
+American inventions
+Lists of inventions or discoveries
+Science and technology in India
+-1
+supermarket
+capability maturity model ( cmm )
+supermarket
+American inventions
+Lists of inventions or discoveries
+India science and technology-related lists
+Space programme of India
+Space agencies
+Space lists
+Lists of lists
+-1
+supermarket
+execution time
+supermarket
+American inventions
+Lists of inventions or discoveries
+India science and technology-related lists
+Foreign relations of India
+India and the Commonwealth of Nations
+International organisations based in London
+Metadata
+-1
+supermarket
+human engineering
+supermarket
+American inventions
+Lists of inventions or discoveries
+-1
+supermarket
+boehm ' s software quality model
+supermarket
+American inventions
+Lists of inventions or discoveries
+Science and technology in India
+-1
+supermarket
+Egineering quality
+supermarket
+American inventions
+-1
