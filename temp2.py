@@ -175,7 +175,7 @@ create_graph(query,3,graph2)
 add_to_file(graph2,query)
 show_edges(graph2)
 
-xl = ["Iterative enhancement model","yau and collofello ' s model","cost of software maintenance","quality assurance ( sqa )","capability maturity model ( cmm )","basic execution time model","calendar time","execution time","halstead ' s software science metrics","human engineering","boehm ' s software quality model","mccabe ' s cyclomatic comple mccall ' s model","Egineering quality","public domain software"]
+xl=["life cycle model","requirement specification ( srs )","actual time","available time","earliest start time","event or milestone"]
 
 for i in xl :
     graph3 = defaultdict(list)
