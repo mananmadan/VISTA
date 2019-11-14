@@ -141,7 +141,7 @@ def add_to_file(graph,name):
     fout.write("-2\n")
 
 def output_file(query,gname,path):
-    fout = open("output2.txt","a")
+    fout = open("output5.txt","a")
     fout.write(query)
     fout.write("\n")
     fout.write(gname)
@@ -202,7 +202,7 @@ xl=["waterfall model","flow - oriented design","data coupling","function cohesio
     "Egineering quality","public domain software"
     ]
 
-distance_from="supermarket"
+distance_from="mobile device"
 read_from_file(graph,distance_from)
 ans=[]
 for query in xl :

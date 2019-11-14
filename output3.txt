@@ -1,0 +1,52 @@
+oven
+waterfall model
+4
+-1
+oven
+data coupling
+6
+-1
+oven
+function cohesion
+6
+-1
+oven
+life cycle model
+8
+-1
+oven
+actual time
+7
+-1
+oven
+Iterative enhancement model
+8
+-1
+oven
+quality assurance ( sqa )
+4
+-1
+oven
+capability maturity model ( cmm )
+4
+-1
+oven
+execution time
+4
+-1
+oven
+halstead ' s software science metrics
+8
+-1
+oven
+human engineering
+3
+-1
+oven
+boehm ' s software quality model
+4
+-1
+oven
+Egineering quality
+8
+-1
