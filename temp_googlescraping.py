@@ -8,11 +8,32 @@ def sort_urls(data):
     for word,text in zip(a,data):
         text=text.split()      
         i=0
-        print(text)
+        
         while(i<len(text)-4):
             j=0
             while(j<len(text)-4):
-                if(  ( abs(int(text[j+1])-int(text[j+2])) < abs(int(text[j+4])-int(text[j+5])) ) or ( text[j+4]!='0' and text[j+5]!='0' and (text[j+1]=='0' or text[j+2]=='0') )   ):
+                if(  int(text[j+1])<=int(text[j+4])  ):
+                    if( int(text[j+2]) <=int(text[j+5]) ):
+                        temp1=text[j]
+                        temp2=text[j+1]
+                        temp3=text[j+2]
+                        text[j]=text[j+3]
+                        text[j+1]=text[j+4]
+                        text[j+2]=text[j+5]
+                        text[j+3]=temp1
+                        text[j+4]=temp2
+                        text[j+5]=temp3
+                    elif(  min(int(text[j+1]),int(text[j+2])) < min(int(text[j+4]),int(text[j+5]))  ):
+                        temp1=text[j]
+                        temp2=text[j+1]
+                        temp3=text[j+2]
+                        text[j]=text[j+3]
+                        text[j+1]=text[j+4]
+                        text[j+2]=text[j+5]
+                        text[j+3]=temp1
+                        text[j+4]=temp2
+                        text[j+5]=temp3
+                elif(min(int(text[j+1]),int(text[j+2])) < min(int(text[j+4]),int(text[j+5]))):
                     temp1=text[j]
                     temp2=text[j+1]
                     temp3=text[j+2]
@@ -22,6 +43,7 @@ def sort_urls(data):
                     text[j+3]=temp1
                     text[j+4]=temp2
                     text[j+5]=temp3
+                        
                 elif( abs(int(text[j+1])-int(text[j+2]) ) == abs(int(text[j+4])-int(text[j+5])   ) and ( (text[j+1]=='0' or text[j+2]=='0') or int(text[j+1]+text[j+2])  < int(text[j+4]+text[j+5]))):
                     temp1=text[j]
                     temp2=text[j+1]
@@ -75,7 +97,7 @@ def read_from_file():
     return 1
 
 read_from_file()
-sort_urls(data)
+data=sort_urls(data)
 fout= open("urlw8.txt","w")
 for x,y in zip(a,data):
     fout.write(x+"\n")
