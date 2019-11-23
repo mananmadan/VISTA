@@ -1,0 +1,206 @@
+waterfall model
+https://labs.sogeti.com/bake-agile-cake/
+3 1
+https://www.softwaretestingtricks.com/2007/02/pros-and-cons-of-waterfall-model-and.html
+0 16
+https://www.xtrf.eu/the-why-what-and-how-of-agile-translation-and-localization-management/
+1 1
+http://www.cs.sjsu.edu/faculty/pearce/modules/labs/ooa/workflows.htm
+0 0
+https://www.slideshare.net/SyedZaidIrshad/re-processes-and-process-models
+2 0
+https://specialties.bayt.com/en/specialties/q/85151/when-to-use-waterfall-when-to-use-scrum/
+2 4
+https://www.pinterest.cl/pin/593208582138059265/?amp_client_id=CLIENT_ID(_)&mweb_unauth_id=%7B%7Bdefault.session%7D%7D&from_amp_pin_page=true
+81 0
+https://softwarekno.blogspot.com/2016/09/event-driven-modeling.html
+13 1
+-1
+data coupling
+https://www.crystec.com/kllinhe.htm
+16 1
+https://www.crystec.com/kllclhe.htm
+12 1
+https://www.researchgate.net/publication/258475715_Automated_valuation_of_leaves_area_for_large-scale_analysis_needing_data_coupling_or_petioles_deletion
+3 9
+http://www.cistradedata.com/en/russia/import-data/coupling-rod
+2 0
+https://www.infodriveindia.com/india-export-data/coupling-export/fc-denmark/hscode-84-report.aspx
+3 0
+https://www.semanticscholar.org/paper/ABSTRACT-SIMULATION-BASED-SCHEDULING-SYSTEM-IN-A-Perrone-Wieland/fbf5677ae08e8f392483eaf023f15d7aca6d3401/figure/12
+1 3
+https://www.semanticscholar.org/paper/ABSTRACT-SIMULATION-BASED-SCHEDULING-SYSTEM-IN-A-Perrone-Wieland/fbf5677ae08e8f392483eaf023f15d7aca6d3401/figure/7
+1 3
+https://insight.rpxcorp.com/pat/3000532/download
+1 0
+-1
+function cohesion
+http://docplayer.net/104167266-1-t-or-f-coupling-and-cohesion-are-closely-linked-in-that-as-one-increases-so-does-the-other.html
+2 3
+http://www.nehruelearning.in/images/325/UNIT-III.DOC
+0 0
+https://engineering.purdue.edu/CP3
+1 0
+https://www.researchgate.net/publication/274254440_Contribution_of_Particle_Size_and_Moisture_Content_to_Flowability_of_Fractionated_Ground_Loblolly_Pine
+2 0
+https://etd.auburn.edu/bitstream/handle/10415/851/BERNHART_MATTHEW_25.pdf.txt?sequence=2&isAllowed=y
+1 0
+-1
+life cycle model
+https://www.researchgate.net/figure/The-lifecycle-of-a-simple-microwave-oven_fig1_3850838
+18 0
+https://tel.archives-ouvertes.fr/tel-01706684/document
+1 0
+-1
+actual time
+https://libertypartyrental.com/galleryupload/webdoc/product%20operating%20instructions/Convection%20Oven%20with%20Cart%20Operating%20Instructions.pdf?v=32320AM
+0 0
+https://www.hunker.com/12361404/how-do-i-use-the-timer-on-a-whirlpool-digital-oven
+282 2
+https://quizlet.com/149902535/microwave-cooking-study-guide-flash-cards/
+36 2
+https://www.subzero-wolf.com/use-and-care/recipes/traditional-roast-turkey
+8 4
+-1
+Iterative enhancement model
+http://doeaccmantra.blogspot.com/p/notes-for-software-engg-and-case-tools.html
+1 1
+https://www.researchgate.net/publication/2413713_Software_Maintenance
+1 0
+https://www.academia.edu/35116057/Rakesh_kurana
+0 0
+https://www.slideshare.net/siddharthchaudhary39/automated-home-secuirty-project-86821068
+1 4
+https://slideplayer.com/slide/11753145/
+3 4
+https://zh.b-ok2.org/book/646858/eeaf19
+1 1
+-1
+quality assurance ( sqa )
+http://qa4software.blogspot.com/2010/05/baking-bread.html
+2 0
+https://ph.jora.com/Quality-Assurance-Specialist-jobs-in-Manila%2C-Metro-Manila
+4 0
+https://www.amazon.com/hz/reviews-render/lighthouse/0130104701?filterByKeyword=quality+assurance&pageNumber=1
+0 0
+https://www.indeed.com.ph/Engineering-Quality-Management-jobs-in-Ortigas
+11 0
+https://www.linkedin.com/jobs/quality-assurance-technician-jobs-meridian-id
+0 0
+https://www.linkedin.com/jobs/qa-qc-jobs-idaho
+0 0
+https://jobs.trovit.ph/manufacturing-quality-assurance-job-in-pasig,-metro-manila
+0 0
+https://sqa2016.sched.com/list/descriptions/
+2 0
+https://www.flipkart.com/software-quality-assurance-theory-implementation/p/itmf3ryyaunvvztn
+0 0
+-1
+capability maturity model ( cmm )
+https://www.science.gov/topicpages/c/capability+maturity+model
+4 0
+https://www.researchgate.net/publication/2954230_Comparing_contrasting_ISO_9001_and_the_SEI_capability_maturity_model
+0 0
+https://worldwidescience.org/topicpages/m/maturity+model+model.html
+1 0
+https://helponline.me/casual/what-is-cmmi-model.php
+2 0
+https://www.slideshare.net/brainybri/process-maturity-model-odn-20120914
+1 0
+https://www.scribd.com/document/246780277/12-LSCMTermpaper
+0 0
+https://www.scribd.com/doc/120807301/Rajib-Mall-Lecture-Notes
+0 0
+-1
+execution time
+https://www.yld.io/blog/cloud-deep-dive-serverless-pizza-oven/
+19 1
+https://en.wikipedia.org/wiki/Shadow_Play_(The_Twilight_Zone,_1959)
+2 1
+https://www.realdigital.org/doc/e970e217a1d90e783b9b07d57a078833
+1 1
+http://blog.atollic.com/cortex-m-debugging-measure-execution-time-using-swv/itm
+4 19
+https://readthedocs.web.cern.ch/display/MTA/%5BSNOL%5D+oven
+62 2
+https://www.researchgate.net/publication/329149621_Energy_and_Execution_Time_Comparison_of_Optical_Flow_Algorithms_on_SIMD_and_GPU_Architectures
+1 6
+-1
+halstead ' s software science metrics
+https://petobydydu.gq/baby-fark-mcgee.html
+0 0
+https://enconvabikvie.ml/thermos-grills-reviews.html
+0 0
+https://dholanabinmu.ml/warehouse-manager-job-description-and-skills.html
+0 0
+https://mejumpdekentku.gq/halstead%27-s-software-science-metrics-example.html
+0 0
+https://fimagetyketk.ga/freebsd-dhcp-server-restart.html
+0 0
+https://vidojakogi.tk/sims-3-geavanceerde-technologie.html
+0 0
+https://xofutohocevu.ml/handleiding-ikea-pax-garderobekast.html
+0 0
+https://dogerujewoki.cf/baby-hunger-cues-2-months.html
+0 0
+https://itprosarscower.ga/deska-rozdzielcza-w-samochodzie-po-angielsku.html
+0 0
+https://prophgalgamenletx.ga/verbe-recevoir-au-present-en-francais.html
+0 0
+-1
+human engineering
+http://www.herl.pitt.edu/research/cueing-kitchen
+1 3
+https://www.astm.org/Standards/F1360.htm
+9 1
+https://www.astm.org/Standards/F2092.htm
+10 1
+http://sbxsun.com/product.asp?id=2552&type=230
+53 0
+http://www.sbxsun.com/product.asp?id=2544&type=226
+31 0
+http://cavettrobert.org/downloads.html
+1 2
+https://apps.dtic.mil/docs/citations/AD0732430
+10 3
+http://citeseerx.ist.psu.edu/viewdoc/download?doi=10.1.1.898.2588&rep=rep1&type=pdf
+0 0
+https://www.walmart.com/ip/Oster-6-slice-Digital-Convection-Toaste/19673630
+0 0
+-1
+boehm ' s software quality model
+https://slideplayer.com/slide/6268760/
+3 0
+https://www.pinterest.com.au/pin/490751690618527528/
+4 0
+http://zorza.piekarnia-mika.pl/boehm-dwight-larry/
+1 0
+https://kupdf.net/download/crcpresssoftwaremetricspdf_5a43fbd6e2b6f55c6ad538da_pdf
+1 0
+https://www.academia.edu/3692178/IISTE_journals_publication_nearest_edition_May_30th
+0 0
+https://erswasguarriylee.gq/86-alton-mountain-road.html
+0 0
+-1
+Egineering quality
+https://www.snackandbakery.com/articles/93160-baker-perkins-trubake-hicirc-convection-oven
+40 0
+https://www.indiamart.com/kumar-heat/quality.html
+63 0
+https://www.internships.com/posting/bug_38639092154
+0 0
+http://www.des-res.com/QUALITY/quality.html
+2 0
+http://digital.bnpmedia.com/article/FNA_2018_Exhibitor_Booth_Descriptions/3193968/527603/article.html
+12 0
+https://www.indoheatengineering.co.in/quality.html
+68 0
+https://www.indeed.com/q-Manufacturing-Engineering-l-Morgantown,-KY-jobs.html
+0 0
+https://www.behnkematerialsengineering.com/index.php/quality-verification-quality-assurance-quality-control-testing
+1 0
+https://www.indeed.com/q-Quality-Assurance-Manager-l-Burlington,-VT-jobs.html
+0 0
+https://www.acecomposites.com/advanced-manufacturing/inspection-qc/
+1 0
+-1
