@@ -3,6 +3,50 @@ import requests
 import re
 a=[]
 data=[]
+def sort_urls(data):
+    newdata=[]
+    for word,text in zip(a,data):
+        text=text.split()      
+        i=0
+        print(text)
+        while(i<len(text)-4):
+            j=0
+            while(j<len(text)-4):
+                if(  ( abs(int(text[j+1])-int(text[j+2])) < abs(int(text[j+4])-int(text[j+5])) ) or ( text[j+4]!='0' and text[j+5]!='0' and (text[j+1]=='0' or text[j+2]=='0') )   ):
+                    temp1=text[j]
+                    temp2=text[j+1]
+                    temp3=text[j+2]
+                    text[j]=text[j+3]
+                    text[j+1]=text[j+4]
+                    text[j+2]=text[j+5]
+                    text[j+3]=temp1
+                    text[j+4]=temp2
+                    text[j+5]=temp3
+                elif( abs(int(text[j+1])-int(text[j+2]) ) == abs(int(text[j+4])-int(text[j+5])   ) and ( (text[j+1]=='0' or text[j+2]=='0') or int(text[j+1]+text[j+2])  < int(text[j+4]+text[j+5]))):
+                    temp1=text[j]
+                    temp2=text[j+1]
+                    temp3=text[j+2]
+                    text[j]=text[j+3]
+                    text[j+1]=text[j+4]
+                    text[j+2]=text[j+5]
+                    text[j+3]=temp1
+                    text[j+4]=temp2
+                    text[j+5]=temp3
+                j=j+3
+            i=i+3
+        strtemp=word+"\n"
+        i=0
+        while(i<len(text)-3):
+            strtemp+=text[i]+"\n"+text[i+1]+" "+text[i+2]+"\n"
+            i=i+3
+        strtemp=strtemp+"-1\n"
+        newdata.append(strtemp)
+    for x in newdata:
+        print (x)
+    return newdata
+   
+    
+
 def read_from_file():
 
     try:
@@ -22,7 +66,6 @@ def read_from_file():
         query=query.replace("\n","")
         if(query):
             a.append(var)
-            data.append(var+"\n")
             data.append(strtemp)
             strtemp=""
             var=query
@@ -32,9 +75,13 @@ def read_from_file():
     return 1
 
 read_from_file()
+sort_urls(data)
 fout= open("urlw8.txt","w")
-for y in data:
+for x,y in zip(a,data):
+    fout.write(x+"\n")
     fout.write(y)
+
+
 
 fin = open("output3.txt","r")
 words=fin.readlines()
@@ -65,5 +112,16 @@ while(i<len(words)) :
                     fout.write(str(len(re.findall(regex2, page ,  re.IGNORECASE) ) )  )
                     fout.write("\n")
         fout.write("-1\n")
+
+
+
+
+
+
+
+
+
+
+
 
 
