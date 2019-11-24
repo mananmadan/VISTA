@@ -18,14 +18,14 @@ After doing that we put all that information in a graph using google fusion tabl
 **For example for query "food" and number of levels = 3 we get**:
 ![test](https://github.com/mananmadan/ProjectWork/blob/master/graph.jpg)
 # Third Step
-## In Progress
 
 We take the tags from the notes and try to search the terms related to them first in wikipedia.
 Then we try to relate any of these terms to the graph that contains the terms from the image categories.
 We do the above process using the shortest path algorithm.
-No we calculate weight of each technical term(obtained from the notes) related to the terms in the image.
-We order them according to their weights.
+If the tag is found in the graph of pre-created graphs  ( image tag and the term which is related ) then we store it in a text file.
+We do this for all pre-created graphs. The final text files has names of all the graphs that can be related to the image
 
 # Fourth Step
 ## In Progress
- In order to recommend the links to user , we design a search query of the tags that had the most weight and then display them.
+In order to recommend the links to user , we first serach the graph name and the image tag on google and select upto 10 urls which are  then sorted as per the occurence of the two words. The criteria for the sort is that the url in which the occurence of both terms is maximum is recommended. For cases where occurence of one term is greater but the other term is smaller , the url in which minimun occurence of the two words is greater is selected. 
+
