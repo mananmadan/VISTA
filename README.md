@@ -27,5 +27,4 @@ We do this for all pre-created graphs. The final text files has names of all the
 
 # Fourth Step
 ## In Progress
-In order to recommend the links to user , we first serach the graph name and the image tag on google and select upto 10 urls which are  then sorted as per the occurence of the two words. The criteria for the sort is that the url in which the occurence of both terms is maximum is recommended. For cases where occurence of one term is greater but the other term is smaller , the url in which minimun occurence of the two words is greater is selected. 
-
+In order to recommend the links to user, we first search the graph name and the image tag on google and select up to 10 URLs which are then sorted as per the occurrence of the two words. The criteria for the sort is that the URL in which the occurrence of both terms is maximum is recommended. For cases where occurrence of one term is greater but the other term is smaller , the URL in which minimum occurrence of the two words is greater is selected.
