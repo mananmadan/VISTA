@@ -58,7 +58,7 @@ def sort_urls(data):
             i=i+3
         strtemp=word+"\n"
         i=0
-        while(i<len(text)-3):
+        while(i<len(text)-2):
             strtemp+=text[i]+"\n"+text[i+1]+" "+text[i+2]+"\n"
             i=i+3
         strtemp=strtemp+"-1\n"
@@ -91,6 +91,8 @@ def read_from_file():
             data.append(strtemp)
             strtemp=""
             var=query
+            
+     
     fin.close()
     open("urlw8.txt","w").close()
     
@@ -100,7 +102,7 @@ read_from_file()
 data=sort_urls(data)
 fout= open("urlw8.txt","w")
 for x,y in zip(a,data):
-    fout.write(x+"\n")
+    #fout.write(x+"\n")
     fout.write(y)
 
 
@@ -134,6 +136,8 @@ while(i<len(words)) :
                     fout.write(str(len(re.findall(regex2, page ,  re.IGNORECASE) ) )  )
                     fout.write("\n")
         fout.write("-1\n")
+fout.write("-2\n")
+
 
 
 
