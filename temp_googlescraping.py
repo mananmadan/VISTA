@@ -1,6 +1,7 @@
 from googlesearch import search
 import requests
 import re
+import csv
 a=[]
 data=[]
 def sort_urls(data):
@@ -63,8 +64,8 @@ def sort_urls(data):
             i=i+3
         strtemp=strtemp+"-1\n"
         newdata.append(strtemp)
-    for x in newdata:
-        print (x)
+    #for x in newdata:
+     #   print (x)
     return newdata
    
     
@@ -101,9 +102,35 @@ def read_from_file():
 read_from_file()
 data=sort_urls(data)
 fout= open("urlw8.txt","w")
-for x,y in zip(a,data):
-    #fout.write(x+"\n")
+list_1=[]
+for y in data:
     fout.write(y)
+    temp12=y
+    temp12=temp12.splitlines()
+    i=1
+    word=temp12[0]
+    while( i < len(temp12)-1):
+        templist=[]
+        if ( temp12[i]=="-1" or temp12[i+1]=="-1" ) :
+            i=i+2
+    
+        else:
+            templist.append(temp12[0])
+            templist.append(temp12[i])
+            w8=temp12[i+1].split()
+            templist.append(w8[0])
+            templist.append(w8[1])
+            #print(templist)
+            list_1.append(templist)
+            i=i+2
+        #print("\n")
+header = ['Label', 'URL', 'Image Label Weight', 'CLP Weight']
+with open('customers.csv', 'wt') as f:
+    csv_writer = csv.writer(f, quoting=csv.QUOTE_ALL)
+
+    csv_writer.writerow(header) # write header
+
+    csv_writer.writerows(list_1)
 
 
 
