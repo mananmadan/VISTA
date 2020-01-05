@@ -1,3 +1,59 @@
+Conjectures
+Conjectures
+Concepts in the philosophy of science
+Statements
+-1
+Unsolved problems in computer science
+Conjectures
+Lists of unsolved problems
+Unsolved problems in computer science
+Conjectures
+Lists of unsolved problems
+Unsolved problems in computer science
+-1
+Cognitive neuroscience
+Neuropsychology
+Cognitive neuroscience
+Cognitive science
+-1
+Technology forecasting
+Technology forecasting
+Technology assessment
+-1
+Artificial intelligence
+Artificial intelligence
+Cybernetics
+Formal sciences
+Technology in society
+Computational neuroscience
+Emerging technologies
+Unsolved problems in computer science
+Computational fields of study
+Artificial intelligence
+Cybernetics
+Formal sciences
+Technology in society
+Computational neuroscience
+Emerging technologies
+Unsolved problems in computer science
+Computational fields of study
+Artificial intelligence
+Cybernetics
+Formal sciences
+Technology in society
+Computational neuroscience
+Emerging technologies
+Unsolved problems in computer science
+Computational fields of study
+Artificial intelligence
+Cybernetics
+Formal sciences
+Technology in society
+Computational neuroscience
+Emerging technologies
+Unsolved problems in computer science
+Computational fields of study
+-1
 Emerging technologies
 Emerging technologies
 Bioethics
@@ -6,49 +62,79 @@ Technology forecasting
 Technology in society
 Transhumanism
 Technology development
--1
-Computational fields of study
-Applied mathematics
-Computational science
-Computational fields of study
--1
-Formal sciences
-Formal sciences
-Branches of science
--1
-Computational neuroscience
-Neuroscience
-Computational neuroscience
-Cognitive neuroscience
-Mathematical and theoretical biology
-Computational fields of study
--1
-Cybernetics
-Cybernetics
--1
-Artificial intelligence
-Artificial intelligence
-Cybernetics
-Formal sciences
-Technology in society
-Computational neuroscience
 Emerging technologies
-Unsolved problems in computer science
-Computational fields of study
-Artificial intelligence
-Cybernetics
-Formal sciences
+Bioethics
+Futurology
+Technology forecasting
 Technology in society
-Computational neuroscience
-Emerging technologies
-Unsolved problems in computer science
-Computational fields of study
+Transhumanism
+Technology development
 -1
-Technology in society
-Technology in society
-Theories of history
-Sociological theories
+Bioethics
+Bioethics
+Ethics
+Philosophy of biology
+-1
+Transhumanism
+Transhumanism
+1990 introductions
+Artificial intelligence
+Bioethics
+Doomsday scenarios
+Emerging technologies
+Ethics
+Ethics of science and technology
+Existential risk from artificial general intelligence
+Futurology
+History of ethics
+History of ideas
+History of philosophy
+History of science
+Ideologies
+Immortality
+Metaphysics
+Ontology
+Philosophical concepts
+Philosophical movements
+Philosophical theories
+Philosophy of artificial intelligence
+Philosophy of culture
+Philosophy of science
+Philosophy of technology
+Posthumanism
+Science fiction culture
+Science fiction themes
+Singularitarianism
+Singularity theory
+Social change
+Social philosophy
+Subcultures
 Technological change
+Technology development
+Technology forecasting
+Technology hazards
+Technology in society
+Theory of mind
+Transhumanist politics
+Utopian movements
+-1
+Branches of science
+Branches of science
+Scientific disciplines
+Science
+-1
+Artificial intelligence applications
+Artificial intelligence
+Artificial intelligence applications
+Artificial intelligence
+Artificial intelligence applications
+Artificial intelligence
+Artificial intelligence applications
+Artificial intelligence
+Artificial intelligence applications
+-1
+Neuroscience
+Neuroscience
 -1
 intelligence artificial intelligence goals objective
 Artificial intelligence
@@ -67,16 +153,106 @@ Artificial intelligence
 Artificial intelligence applications
 Artificial intelligence
 Artificial intelligence applications
--1
+Artificial intelligence
+Artificial intelligence applications
+Artificial intelligence
+Artificial intelligence applications
+Artificial intelligence
+Artificial intelligence applications
+Artificial intelligence
+Artificial intelligence applications
+Artificial intelligence
+Artificial intelligence applications
+Artificial intelligence
 Artificial intelligence applications
 Artificial intelligence
 Artificial intelligence applications
 Artificial intelligence
 Artificial intelligence applications
 -1
-Unsolved problems in computer science
-Conjectures
+Technology development
+Research and development
+Innovation
+Product development
+Research
+-1
+Computational neuroscience
+Neuroscience
+Computational neuroscience
+Cognitive neuroscience
+Mathematical and theoretical biology
+Computational fields of study
+Neuroscience
+Computational neuroscience
+Cognitive neuroscience
+Mathematical and theoretical biology
+Computational fields of study
+-1
+Futurology
+Futurology
+Prediction
+Pseudoscience
+Technology forecasting
+Systems thinking
+-1
+Technological change
+Technological change
+Innovation
+Engineering studies
+-1
+Technology in society
+Technology in society
+Theories of history
+Sociological theories
+Technological change
+Technology in society
+Theories of history
+Sociological theories
+Technological change
+-1
+Mathematical and theoretical biology
+Mathematical and theoretical biology
+-1
+Computational fields of study
+Applied mathematics
+Computational science
+Computational fields of study
+Applied mathematics
+Computational science
+Computational fields of study
+-1
+Sociological theories
+Sociological terminology
+Sociological theories
+Philosophy of social science
+-1
+Formal sciences
+Formal sciences
+Branches of science
+Formal sciences
+Branches of science
+-1
+Computational science
+Applied mathematics
+Computational science
+Computational fields of study
+-1
 Lists of unsolved problems
-Unsolved problems in computer science
+Lists of science lists
+Lists of unsolved problems
+Open problems
+Science-related lists
+Lists of problems
+-1
+Cybernetics
+Cybernetics
+Cybernetics
+-1
+Applied mathematics
+Applied mathematics
+-1
+Theories of history
+Conspiracy theories
+Society-related lists
 -1
 -2
