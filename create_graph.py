@@ -175,7 +175,7 @@ def read_from_file(graph,name):
 
 graph = defaultdict(list)
 
-xl = ["intelligence artificial intelligence goals/objective",
+xl = ["intelligence artificial intelligence goals objective",
             "ai conventional",
             "intelligent computing advantages",
             "disadvantages",
@@ -190,13 +190,13 @@ xl = ["intelligence artificial intelligence goals/objective",
             "intelligent behavior","artificial intelligence","computer science",
             "human intelligence","artificial intelligence","artificial","computer programs","intelligent things",
             "common sense","suppose","chess","b tries","defeat b","such computer","chess computer",
-            "expert player","artificial intelligence","converts data","english","french etc","ai","english s/w",
+            "expert player","artificial intelligence","converts data","english","french etc","ai","english s w",
             "ai","main goals","ai","computer smarter","human brain","powerful tool","simply","artificial",
             "human beings","human intelligence","model process","useful programs","ai","user","communicate","computers",
             "own language","english","cryptic commands","system languages","application programs","artificial intelligence",
             "useful work","artificial","expert system","decision making","specific domain","less","artificial intelligence"
-            ,"powerful computers","cpu","ai","ai","computers","digital equipment 's corporations","dec","ax","typical system"
-            ,"ai s/w","ai","high cost","wide range","h/w","s/w","conventional computers","computer"
+            ,"powerful computers","cpu","ai","ai","computers","digital equipments corporations","dec","ax","typical system"
+            ,"ai s w","ai","high cost","wide range","h w","s w","conventional computers","computer"
             ,"computer programs","conventional languages","c++","cobol","conventional computers","conventional software",
             "intelligent computer","artificial","intelligence software","artificial","intelligence languages","lisp","list",
             "prlog","logic","intelligent computers","language translate","robotic","system air","travel","processing expert",
@@ -204,9 +204,12 @@ xl = ["intelligence artificial intelligence goals/objective",
             ,"computing","quantitative problems","ai","qualitative problem","conventional software system","doing","laborious jobs",
             "conventional computer system","loop statements","major application area","ai","language","robotics expert","computer vision"]
 for query in xl:
-    read_from_file(graph,query)
-    create_graph(query,0,graph)    
-    add_to_file(graph,query)
-    show_edges(graph)
-    print("\n")
-     
+    i=7
+    j=0
+    while i>=j :
+     read_from_file(graph,query)
+     create_graph(query,i,graph)    
+     add_to_file(graph,query)
+     show_edges(graph)
+     print("\n")
+     i=i-1
