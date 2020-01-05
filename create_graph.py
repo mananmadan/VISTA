@@ -204,12 +204,9 @@ xl = ["intelligence artificial intelligence goals objective",
             ,"computing","quantitative problems","ai","qualitative problem","conventional software system","doing","laborious jobs",
             "conventional computer system","loop statements","major application area","ai","language","robotics expert","computer vision"]
 for query in xl:
-    i=7
-    j=0
-    while i>=j :
      read_from_file(graph,query)
-     create_graph(query,i,graph)    
+     create_graph(query,0,graph)    
      add_to_file(graph,query)
      show_edges(graph)
      print("\n")
-     i=i-1
+ 
