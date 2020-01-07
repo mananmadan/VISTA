@@ -1,3 +1,7 @@
+Psychological fiction
+Psychological novels
+Literary genres
+-1
 Medicinal plants of Asia
 Essential oils
 Flora of Asia
@@ -33,6 +37,16 @@ Human rights abuses
 Persecution
 Racism
 Violence
+Ethnic cleansing
+Collective punishment
+Discrimination
+Euphemisms
+Ethnic conflict
+Forced migration
+Human rights abuses
+Persecution
+Racism
+Violence
 -1
 United States law
 United States law
@@ -53,6 +67,8 @@ United States law
 United States federal law
 United States law
 United States federal law
+United States law
+United States federal law
 -1
 Self
 Self
@@ -89,6 +105,17 @@ History of Assam
 Districts of British India
 Tourism in North East India
 1912 establishments in India
+-1
+Lists of film lists
+Body swapping in films
+Lists of film lists
+Lists of films
+Lists of films by topic
+-1
+1980s erotic drama films
+Lists of film lists
+Erotic films
+Lists of films by genre
 -1
 Italian inventions
 Lists of inventions or discoveries
@@ -97,6 +124,9 @@ Italian inventions
 Science and technology in Italy
 -1
 Internet film festivals
+Lists of film lists
+Lists of film festivals
+Lists of film festivals by continent
 Lists of film lists
 Lists of film festivals
 Lists of film festivals by continent
@@ -148,6 +178,8 @@ Business intelligence
 Majority–minority relations
 Demographics of the United States
 Majority–minority relations
+Demographics of the United States
+Majority–minority relations
 -1
 Writing occupations
 Lists of occupations
@@ -179,6 +211,9 @@ Management occupations
 Small business
 -1
 Types of organization
+Organizations
+Types of organization
+Main topic articles
 Organizations
 Types of organization
 Main topic articles
@@ -217,7 +252,24 @@ Developmental psychology
 Motivational theories
 Happiness
 -1
+Westboro Baptist Church
+1955 establishments in Kansas
+Antisemitism in the United States
+Anti-Zionism in the United States
+Baptist churches in Kansas
+Calvinist denominations established in the 20th century
+Homosexuality and Baptist churches
+Organizations based in Topeka, Kansas
+Organizations that oppose LGBT rights in the United States
+Obscenity controversies
+Christian organizations established in 1955
+Westboro Baptist Church
+Protestantism-related controversies
+-1
 Ethnic conflict
+Wars by type
+Ethnic conflict
+Conflict (process)
 Wars by type
 Ethnic conflict
 Conflict (process)
@@ -228,8 +280,12 @@ Foreign relations of China
 Foreign relations of China
 Foreign relations of China
 Foreign relations of China
+Foreign relations of China
 -1
 Recipients of the Nishan-e-Pakistan
+Civil awards and decorations of Pakistan
+Awards established in 1957
+1957 establishments in Pakistan
 Civil awards and decorations of Pakistan
 Awards established in 1957
 1957 establishments in Pakistan
@@ -276,6 +332,23 @@ Quality assurance
 Software quality
 IEEE standards
 -1
+American black-and-white films
+2014 films
+English-language films
+2010s drama films
+American films
+Films about alcoholism
+Films about lawyers
+Films about race and ethnicity
+Films directed by Mike Binder
+Films set in Los Angeles
+Films shot in Los Angeles
+Films shot in New Orleans
+Relativity Media films
+Sunlight Productions films
+Films scored by Terence Blanchard
+African-American drama films
+-1
 Cognition
 Cognition
 Cognitive science
@@ -311,8 +384,41 @@ Political controversies in China
 1976 disestablishments in China
 Campaigns of the Communist Party of China
 1966 introductions
+Cultural Revolution
+1960s in China
+1970s in China
+20th-century revolutions
+Revolutions in China
+Cultural history of China
+Cold War history of China
+Mao Zedong
+Maoist terminology
+Massacres in China
+Politicides
+Political controversies in China
+1966 establishments in China
+1976 disestablishments in China
+Campaigns of the Communist Party of China
+1966 introductions
+-1
+Obscenity controversies
+Canadian news websites
+Censorship in Canada
+Internet properties established in 2008
+Internet censorship
+Obscenity controversies
+Shock sites
+-1
+20th-century jazz composers
+20th-century classical composers
+Lists of composers
+Lists of 20th-century people
 -1
 Linguistic discrimination
+Prejudices
+Sociolinguistics
+Linguistic discrimination
+Nationalism
 Prejudices
 Sociolinguistics
 Linguistic discrimination
@@ -331,6 +437,9 @@ Cyberpunk themes
 Artificial intelligence in fiction
 Topics in literature
 Cyberpunk themes
+-1
+Cannibalism in fiction
+Cannibalism
 -1
 2000s economic history
 Economic history studies
@@ -374,7 +483,35 @@ Federalism
 Political systems
 Political theories
 -1
+British thriller drama films
+Upcoming films
+2020 films
+English-language films
+Canadian films
+British films
+Canadian drama films
+American science fiction thriller films
+British science fiction films
+Canadian science fiction films
+American thriller drama films
+British thriller drama films
+Canadian thriller films
+Films directed by Brandon Cronenberg
+-1
 Opposition to Islam in China
+Cultural assimilation
+Human rights of ethnic minorities in China
+Islam in China
+Linguistic discrimination
+Opposition to Islam in China
+Political repression in China
+Racism in China
+Separatism in China
+Violence against Muslims
+Xinjiang conflict
+Persecution of ethnic groups by communist regimes
+Religious persecution by communists
+Counter-terrorism in China
 Cultural assimilation
 Human rights of ethnic minorities in China
 Islam in China
@@ -424,8 +561,47 @@ Victims of the Cultural Revolution
 Chinese expatriates in the United States
 Communist writers
 Chinese Marxists
+Xi Jinping
+Xi Jinping family
+1953 births
+Living people
+20th-century Chinese politicians
+21st-century Chinese politicians
+Chinese nationalists
+Philosophers from Beijing
+Communist rulers
+Communist Party of China politicians from Beijing
+General Secretaries and Chairmen of the Communist Party of China
+Governors of Fujian
+Governors of Zhejiang
+Members of the 17th Politburo Standing Committee of the Communist Party of China
+Members of the 18th Politburo Standing Committee of the Communist Party of China
+Members of the 19th Politburo Standing Committee of the Communist Party of China
+People's Republic of China politicians from Beijing
+Presidents of the People's Republic of China
+Recipients of the Nishan-e-Pakistan
+Recipients of the Olympic Order
+Recipients of the Order of Abdulaziz al Saud
+Recipients of the Order of José Marti
+Recipients of the Order of St. Andrew
+Recipients of the Order of the Liberator
+Recipients of the Order of the Republic (Serbia)
+Chinese male writers
+Sent-down youths
+Tsinghua University alumni
+Vice Presidents of the People's Republic of China
+People's Republic of China philosophers
+Victims of the Cultural Revolution
+Chinese expatriates in the United States
+Communist writers
+Chinese Marxists
 -1
 Ethnicity in politics
+Ethnic groups
+Ethnicity
+Majority–minority relations
+Multiracial affairs
+Words coined in the 1930s
 Ethnic groups
 Ethnicity
 Majority–minority relations
@@ -440,6 +616,10 @@ Anaerobic digestion
 Biodegradable waste management
 Biodegradation
 -1
+American television composers
+2018 in American television
+2018-related timelines
+-1
 Presidents of the People's Republic of China
 Presidents of the People's Republic of China
 Ceremonial heads of state
@@ -447,6 +627,16 @@ China politics-related lists
 1954 establishments in China
 1975 disestablishments
 1982 establishments in China
+Presidents of the People's Republic of China
+Ceremonial heads of state
+China politics-related lists
+1954 establishments in China
+1975 disestablishments
+1982 establishments in China
+-1
+American films by studio
+Film studios
+Film stubs
 -1
 Metaphysics of mind
 Metaphysics
@@ -506,12 +696,39 @@ Anti-social behaviour
 Barriers to critical thinking
 Social inequality
 Social justice
+Discrimination
+Abuse
+Aggression
+Anti-social behaviour
+Barriers to critical thinking
+Social inequality
+Social justice
 -1
 cam scanner art
 Computer-aided design
 Computer-aided manufacturing
 Dentistry branches
 -1
+Cultural depictions of Adam and Eve
+1976 films
+Italian-language films
+1976 animated films
+1970s fantasy films
+1970s musical comedy films
+Films directed by Bruno Bozzetto
+Films set in abandoned houses
+Haunted house films
+Italian films
+Italian animated films
+Musical fantasy films
+Package films
+Italian parody films
+Italian satirical films
+Cultural depictions of Adam and Eve
+Disney parodies
+Films about classical music and musicians
+Films with live action and animation
+-1
 Woven fabrics
 Woven fabrics
 Textiles
@@ -537,6 +754,24 @@ Freight transport
 Supply chain management
 Distribution (marketing)
 Management by type
+-1
+Films shot in France
+Montreal in fiction
+Films shot in Montreal
+Films set in Montreal
+Lists of films by setting
+Montreal-related lists
+Lists of films shot in Canada
+-1
+People from Beaver County, Pennsylvania
+Pennsylvania counties
+Beaver County, Pennsylvania
+1800 establishments in Pennsylvania
+Populated places established in 1800
+Pittsburgh metropolitan area
+Pennsylvania counties on the Ohio River
+Counties of Appalachia
+Ukrainian communities in the United States
 -1
 Stationery
 Office equipment
@@ -577,6 +812,8 @@ Consumer protection law
 Patient
 Medical terminology
 Patient
+Medical terminology
+Patient
 -1
 Judicial activism
 Constitutional law
@@ -587,8 +824,26 @@ Ethically disputed judicial practices
 Conflict of interest
 Judicial activism
 Rhetoric
+Constitutional law
+Activism by type
+Sociology of law
+Philosophy of law
+Ethically disputed judicial practices
+Conflict of interest
+Judicial activism
+Rhetoric
 -1
 Heavy metal musical groups from Rhode Island
+Heavy metal musical groups from Rhode Island
+Heavy metal duos
+American doom metal musical groups
+Hardcore punk groups from Rhode Island
+Sludge metal musical groups
+American avant-garde metal musical groups
+Musical groups established in 1999
+1999 establishments in Rhode Island
+Musicians from Providence, Rhode Island
+Musical groups from Providence, Rhode Island
 Heavy metal musical groups from Rhode Island
 Heavy metal duos
 American doom metal musical groups
@@ -632,11 +887,23 @@ Human rights abuses
 Military prisoner abuse scandals
 Catholic Church sexual abuse scandals in the United States
 Abuse
+Set indices
+Human rights abuses
+Military prisoner abuse scandals
+Catholic Church sexual abuse scandals in the United States
+Abuse
 -1
 Religious pluralism
 Religious pluralism
+Religious pluralism
+-1
+Human sacrifice in fiction
+Human sacrifice
+Killings by type
 -1
 United States case law lists
+Lists of law lists
+Case law lists
 Lists of law lists
 Case law lists
 -1
@@ -646,6 +913,33 @@ Digital rights management
 Proprietary hardware
 -1
 Murder in Cambodia
+Cambodian genocide
+1970s in Cambodia
+1975 in Cambodia
+1976 in Cambodia
+1978 in Cambodia
+1979 in Cambodia
+Anti-Chinese violence in Asia
+Anti-Vietnamese sentiment
+Anti-intellectualism
+Communist terrorism
+Democratic Kampuchea
+Ethnic cleansing in Asia
+Persecution of ethnic groups by communist regimes
+Politicides
+Genocides
+Genocides in Asia
+History of Cambodia
+Human rights in Cambodia
+Khmer Rouge
+Massacres in Cambodia
+Murder in Cambodia
+Religious persecution by communists
+Political and cultural purges
+Persecution of Buddhists
+Persecution of Christians
+Persecution of Muslims
+War crimes in Cambodia
 Cambodian genocide
 1970s in Cambodia
 1975 in Cambodia
@@ -683,8 +977,57 @@ Interpersonal relationships
 National security
 National security
 Political terminology
+National security
+Political terminology
+-1
+Cameras in fiction
+2015 video games
+Adventure games
+Android (operating system) games
+Bullying in fiction
+Cameras in fiction
+Coming-of-age fiction
+Video games about dreams
+Episodic video games
+Feral Interactive games
+Interactive movie video games
+IOS games
+LGBT-related video games
+Life Is Strange
+Linux games
+MacOS games
+Mental illness in fiction
+Fiction about murder
+Video games about the paranormal
+PlayStation 3 games
+PlayStation 4 games
+PlayStation Network games
+Video games about psychic powers
+Science fiction video games
+Single-player video games
+Square Enix franchises
+Square Enix games
+Suicide in fiction
+Video games about time travel
+Unreal Engine games
+Video games adapted into television programs
+Video games developed in France
+Video games featuring female protagonists
+Video games featuring parallel universes
+PlayStation Plus games
+Video games set in 2013
+Video games set in Oregon
+Video games with alternate endings
+Video games with time manipulation
+Windows games
+Xbox 360 games
+Xbox 360 Live Arcade games
+Xbox One games
 -1
 21st-century conflicts
+Fiction set in the 21st century
+Retrofuturism
+Science fiction
 Fiction set in the 21st century
 Retrofuturism
 Science fiction
@@ -719,8 +1062,21 @@ Deal or No Deal
 2010s Estonian television series
 2007 Estonian television series debuts
 2013 Estonian television series debuts
+Deal or No Deal
+2000s Estonian television series
+2010s Estonian television series
+2007 Estonian television series debuts
+2013 Estonian television series debuts
 -1
 record clinic
+Hospitals in Minnesota
+Buildings and structures in Rochester, Minnesota
+Mayo Clinic
+Webby Award winners
+Medical and health organizations based in Minnesota
+1889 establishments in Minnesota
+Organizations established in 1889
+Non-profit organizations based in Minnesota
 Hospitals in Minnesota
 Buildings and structures in Rochester, Minnesota
 Mayo Clinic
@@ -737,6 +1093,11 @@ Interdisciplinary subfields
 Complex systems theory
 Systems science
 -1
+Thriller genres
+Thriller genres
+Literary genres
+Television genres
+-1
 Hindustani-speaking countries and territories
 1912 establishments in India
 Bihar
@@ -762,6 +1123,45 @@ Hindustani-speaking countries and territories
 States and territories established in 1912
 States and union territories of India
 Urdu-speaking countries and territories
+-1
+Universal Pictures films
+Lists of films by studio
+Universal Pictures films
+American films by studio
+-1
+Italian mystery thriller films
+1966 films
+English-language films
+1960s mystery thriller films
+1960s psychological thriller films
+1960s thriller drama films
+American films
+American mystery thriller films
+American psychological thriller films
+American thriller drama films
+British films
+British mystery thriller films
+British thriller drama films
+Cameras in fiction
+Counterculture of the 1960s
+Culture in London
+Films about fashion photographers
+Films directed by Michelangelo Antonioni
+Films based on short fiction
+Films produced by Carlo Ponti
+Films scored by Herbie Hancock
+Films set in London
+Films shot in London
+Films with screenplays by Edward Bond
+Films with screenplays by Tonino Guerra
+Italian films
+Italian mystery thriller films
+Italian thriller drama films
+Metro-Goldwyn-Mayer films
+Mystery drama films
+Palme d'Or winners
+Italian psychological thriller films
+British psychological thriller films
 -1
 Motivation
 Motivation
@@ -796,8 +1196,35 @@ Saudi Arabian anti-communists
 Honorary Grand Commanders of the Order of the Defender of the Realm
 Honorary Commanders of the Order of the Defender of the Realm
 Crown Princes of Saudi Arabia
+1928 births
+2011 deaths
+Burials at Al Oud cemetery
+Governors of Riyadh Province
+Government ministers of Saudi Arabia
+Heirs apparent who never acceded
+Saudi Arabian Sunni Muslims
+Sons of Ibn Saud
+Recipients of the Order of the Liberator
+Recipients of the Order of Abdulaziz al Saud
+Knights Grand Cross of the Order of Merit of the Italian Republic
+Grand Officers of the National Order of Merit (France)
+Knights Grand Cross of the Order of Isabella the Catholic
+Grand Cross of the Order of Civil Merit
+Saudi Arabian anti-communists
+Honorary Grand Commanders of the Order of the Defender of the Realm
+Honorary Commanders of the Order of the Defender of the Realm
+Crown Princes of Saudi Arabia
 -1
 Recipients of the Order of St. Andrew
+Order of St. Andrew
+Orders of chivalry of the Russian Empire
+Orders of chivalry of Russia
+Military awards and decorations of Russia
+Civil awards and decorations of Russia
+Awards established in 1998
+17th-century establishments in Russia
+1698 establishments in Russia
+1998 establishments in Russia
 Order of St. Andrew
 Orders of chivalry of the Russian Empire
 Orders of chivalry of Russia
@@ -824,6 +1251,67 @@ Southern hip hop groups
 Grammy Award winners
 Musical groups established in 1990
 Musical groups from Virginia
+-1
+American pregnancy films
+2011 films
+English-language films
+2010s romantic fantasy films
+2010s sequel films
+2010s teen romance films
+American films
+American pregnancy films
+American romantic fantasy films
+American sequel films
+American teen romance films
+Entertainment One films
+Films about weddings
+Films directed by Bill Condon
+Films scored by Carter Burwell
+Films set in Rio de Janeiro (city)
+Films set in Washington (state)
+Films shot in Louisiana
+Films shot in Rio de Janeiro (city)
+Films shot in the United States Virgin Islands
+Films shot in Vancouver
+IMAX films
+Films with screenplays by Melissa Rosenberg
+2010s teen fantasy films
+Teenage pregnancy in film
+Temple Hill Entertainment films
+The Twilight Saga (film series)
+Films produced by Karen Rosenfelt
+-1
+Films based on thriller novels
+2002 films
+English-language films
+2000s crime thriller films
+American crime thriller films
+American films
+American thriller drama films
+Columbia Pictures films
+Films scored by John Ottman
+Films about kidnapping
+Films about families
+Films based on American novels
+Films based on crime novels
+Films based on thriller novels
+Films directed by Luis Mandoki
+German crime films
+German thriller films
+Home invasions in film
+Hostage dramas
+-1
+Suspense
+Narrative techniques
+Concepts in film theory
+Memory processes
+Emotions
+-1
+1960 horror films
+Lists of film lists
+Lists of horror films by decade
+1960s horror films
+Lists of 1960s films by genre
 -1
 Home
 Home
@@ -886,6 +1374,24 @@ Political parties in the Republic of China
 Political parties in Taiwan
 Republic of China (1912–1949)
 Social conservative parties
+1912 establishments in China
+History of China
+History of the Republic of China
+History of Taiwan
+International Democrat Union member parties
+Islamist groups
+Islamist insurgent groups
+Kuomintang
+Liberal conservative parties
+National conservative parties
+Nationalist parties in Asia
+Organizations based in Taipei
+Parties of one-party systems
+Political parties established in 1912
+Political parties in the Republic of China
+Political parties in Taiwan
+Republic of China (1912–1949)
+Social conservative parties
 -1
 Discographies of American artists
 Discographies of American artists
@@ -904,6 +1410,14 @@ Ethically disputed judicial practices
 Conflict of interest
 Judicial activism
 Rhetoric
+Constitutional law
+Activism by type
+Sociology of law
+Philosophy of law
+Ethically disputed judicial practices
+Conflict of interest
+Judicial activism
+Rhetoric
 -1
 Lists of tallest buildings in the United States by city
 Skyscrapers in New York City
@@ -911,8 +1425,18 @@ Lists of buildings and structures in New York City
 Lists of tallest buildings in New York (state)
 Lists of tallest buildings in the United States by city
 New York City-related lists
+Skyscrapers in New York City
+Lists of buildings and structures in New York City
+Lists of tallest buildings in New York (state)
+Lists of tallest buildings in the United States by city
+New York City-related lists
 -1
 Privacy
+Privacy
+Privacy law
+Human rights
+Identity management
+Digital rights
 Privacy
 Privacy law
 Human rights
@@ -933,7 +1457,20 @@ Politics
 International relations
 International relations education
 -1
+American mystery thriller films
+1988 films
+English-language films
+1980s mystery thriller films
+1980s romantic thriller films
+American mystery thriller films
+American romantic thriller films
+Films directed by Bob Swaim
+Films scored by John Barry (composer)
+Metro-Goldwyn-Mayer films
+Seafaring films
+-1
 Political funding
+Political funding in the United Kingdom
 Political funding in the United Kingdom
 -1
 note fec
@@ -947,8 +1484,20 @@ United States Supreme Court cases of the Roberts Court
 United States Supreme Court cases
 United States Supreme Court decisions that overrule a prior Supreme Court decision
 Judicial activism
+2010 in United States case law
+Corporate personhood
+Federal Election Commission litigation
+Campaign finance in the United States
+United States elections case law
+United States Free Speech Clause case law
+United States Supreme Court cases of the Roberts Court
+United States Supreme Court cases
+United States Supreme Court decisions that overrule a prior Supreme Court decision
+Judicial activism
 -1
 Estonia in the Eurovision Song Contest
+Estonia in the Eurovision Song Contest
+Countries in the Eurovision Song Contest
 Estonia in the Eurovision Song Contest
 Countries in the Eurovision Song Contest
 -1
@@ -1005,6 +1554,33 @@ Kazakhstani diaspora
 Xinjiang
 Ethnic groups officially recognized by China
 Chinese people of Kazakhstani descent
+Kazakhs in China
+Kazakhstani diaspora
+Xinjiang
+Ethnic groups officially recognized by China
+Chinese people of Kazakhstani descent
+-1
+American mystery films
+2019 films
+English-language films
+2010s comedy films
+2010s mystery films
+American comedy films
+American detective films
+American films
+American mystery films
+Comedy mystery films
+Films about murder
+Films produced by Adam Sandler
+Films produced by Beau Flynn
+Films set in Málaga
+Films set in Monaco
+Films set in New York City
+Films shot in Milan
+Films shot in Montreal
+Happy Madison Productions films
+Netflix original films
+Films with screenplays by James Vanderbilt
 -1
 Topics in literature
 Wikipedia missing topics
@@ -1025,6 +1601,10 @@ Wikipedia outlines
 Literature
 -1
 Persecution of Buddhists
+History of Buddhism
+Anti-Buddhism
+Persecution of Buddhists
+Religious persecution by communists
 History of Buddhism
 Anti-Buddhism
 Persecution of Buddhists
@@ -1112,12 +1692,51 @@ Political controversies in China
 Political repression in China
 Political abuses of psychiatry
 Torture in China
+Human rights in China
+Political controversies in China
+Political repression in China
+Political abuses of psychiatry
+Torture in China
 -1
 Recipients of the Order of José Marti
 Orders, decorations, and medals of Cuba
 Order, decoration, and medal stubs
+Orders, decorations, and medals of Cuba
+Order, decoration, and medal stubs
+-1
+Films based on works by Robert Bloch
+1917 births
+1994 deaths
+Writers from Milwaukee
+20th-century American novelists
+20th-century American male writers
+American fantasy writers
+American horror writers
+American people of German-Jewish descent
+Burials at Westwood Village Memorial Park Cemetery
+Hugo Award-winning writers
+World Fantasy Award-winning writers
+Science fiction fans
+Writers from Chicago
+Writers from California
+American science fiction writers
+Cthulhu Mythos writers
+American mystery writers
+Jewish American novelists
+American male novelists
+People from Maywood, Illinois
+Novelists from Illinois
+Novelists from Wisconsin
+Pseudonymous writers
+Weird fiction writers
+Pulp fiction writers
 -1
 Uyghurs
+Uyghurs
+Turkic peoples of Asia
+Islam in China
+Muslim communities of China
+Ethnic groups officially recognized by China
 Uyghurs
 Turkic peoples of Asia
 Islam in China
@@ -1133,6 +1752,24 @@ Science and technology in India
 Sociolinguistics
 Sociolinguistics
 Interdisciplinary subfields of sociology
+Sociolinguistics
+Interdisciplinary subfields of sociology
+-1
+moment request
+1966 films
+English-language films
+1960s thriller drama films
+1960s psychological thriller films
+Adultery in films
+American films
+American thriller drama films
+American psychological thriller films
+Films based on short fiction
+Films directed by Mervyn LeRoy
+Films scored by Henry Mancini
+Films set in France
+Films shot in France
+Universal Pictures films
 -1
 Universities and colleges in Prince George's County, Maryland
 University of Maryland, College Park
@@ -1172,6 +1809,12 @@ Public universities and colleges in the United States
 Educational institutions established in 1856
 1856 establishments in Maryland
 -1
+Lists of organizations
+Intergovernmental organizations
+Lists of organizations
+International relations lists
+International organizations
+-1
 States and union territories of India
 States and union territories of India-related lists
 Lists of subdivisions of India
@@ -1197,6 +1840,15 @@ Country subdivisions in Asia
 First-level administrative country subdivisions
 India-related lists
 States and union territories of India
+-1
+Smartphones
+Smartphones
+Cloud clients
+Consumer electronics
+Information appliances
+Mobile computers
+Personal computing
+Portable computers
 -1
 Specification languages
 Computer languages
@@ -1505,6 +2157,49 @@ Subject–verb–object languages
 Cultural globalization
 Languages of Taiwan
 -1
+United States National Film Registry films
+1988 establishments in the United States
+1988 in American cinema
+Cultural infrastructure completed in 1988
+Cinema of the United States
+Film archives in the United States
+History of film
+Library of Congress
+Reference material lists
+Film preservation
+Media companies
+-1
+Financial markets
+Financial markets
+-1
+Online services
+Computer-mediated communication
+Network access
+Online services
+Pre–World Wide Web online services
+-1
+Financial services
+Financial markets
+Financial services
+-1
+2005 establishments in the United States
+Law firms of the United Kingdom
+Law firms of the United States
+Privately held companies of the United States
+Foreign law firms with offices in Hong Kong
+Foreign law firms with offices in Japan
+Law firms established in 2005
+2005 establishments in the United Kingdom
+2005 establishments in the United States
+-1
+Psychological thrillers
+Psychological thrillers
+Psychological fiction
+Film genres
+Narratology
+Thriller genres
+Suspense
+-1
 Computer-aided manufacturing
 Computer-aided manufacturing
 Information technology management
@@ -1524,6 +2219,21 @@ Computer-aided engineering
 Product lifecycle management
 Engineering disciplines
 -1
+User interface techniques
+User interfaces
+User interface techniques
+Virtual reality
+Human communication
+Human–machine interaction
+-1
+Lists of films shot in Canada
+Montreal in fiction
+Films shot in Montreal
+Films set in Montreal
+Lists of films by setting
+Montreal-related lists
+Lists of films shot in Canada
+-1
 University of Maryland Global Campus
 Educational institutions established in 1947
 Universities and colleges in Prince George's County, Maryland
@@ -1542,6 +2252,7 @@ Universities and colleges in Prince George's County, Maryland
 University of Maryland Global Campus
 1947 establishments in Maryland
 -1
+Law enforcement
 Law enforcement
 Law enforcement
 -1
@@ -1559,7 +2270,35 @@ Lists of city lists
 Lists of cities in Asia
 Lists of cities by continent
 -1
+Academic works about medicine
+Translation
+Academic works about medicine
+-1
+Horror drama films
+Drama films
+Film genres
+Television genres
+Drama television series
+-1
+Fratricide in fiction
+Familicides
+Homicide
+Men and death
+Fratricides
+Violence against men
+Sibling rivalry
+-1
 Anti-Chinese violence in Asia
+19th century in California
+Anti-Chinese violence in the United States
+Asian-American issues
+Chinese-American history
+Chinese-American culture in California
+Ethnic cleansing in the United States
+History of racism in California
+Labor-related violence in the United States
+Riots and civil disorder in California
+White American riots in the United States
 19th century in California
 Anti-Chinese violence in the United States
 Asian-American issues
@@ -1574,8 +2313,12 @@ White American riots in the United States
 Nationalism
 Nationalism
 Political theories
+Nationalism
+Political theories
 -1
 Internment camps
+Internments
+Total institutions
 Internments
 Total institutions
 -1
@@ -1609,6 +2352,10 @@ Functional programming
 Programming paradigms
 Functional programming
 -1
+2008 software
+Software engineering
+Engineering disciplines
+-1
 Multilateral relations of Russia
 Russia–European Union relations
 Multilateral relations of Russia
@@ -1626,8 +2373,37 @@ Third-country relations of the European Union
 United States Supreme Court cases of the Roberts Court
 Lists of United States Supreme Court cases by court
 United States Supreme Court cases of the Roberts Court
+Lists of United States Supreme Court cases by court
+United States Supreme Court cases of the Roberts Court
 -1
 Cambodian genocide
+Cambodian genocide
+1970s in Cambodia
+1975 in Cambodia
+1976 in Cambodia
+1978 in Cambodia
+1979 in Cambodia
+Anti-Chinese violence in Asia
+Anti-Vietnamese sentiment
+Anti-intellectualism
+Communist terrorism
+Democratic Kampuchea
+Ethnic cleansing in Asia
+Persecution of ethnic groups by communist regimes
+Politicides
+Genocides
+Genocides in Asia
+History of Cambodia
+Human rights in Cambodia
+Khmer Rouge
+Massacres in Cambodia
+Murder in Cambodia
+Religious persecution by communists
+Political and cultural purges
+Persecution of Buddhists
+Persecution of Christians
+Persecution of Muslims
+War crimes in Cambodia
 Cambodian genocide
 1970s in Cambodia
 1975 in Cambodia
@@ -1691,6 +2467,40 @@ Victims of the Cultural Revolution
 Chinese expatriates in the United States
 Communist writers
 Chinese Marxists
+Xi Jinping
+Xi Jinping family
+1953 births
+Living people
+20th-century Chinese politicians
+21st-century Chinese politicians
+Chinese nationalists
+Philosophers from Beijing
+Communist rulers
+Communist Party of China politicians from Beijing
+General Secretaries and Chairmen of the Communist Party of China
+Governors of Fujian
+Governors of Zhejiang
+Members of the 17th Politburo Standing Committee of the Communist Party of China
+Members of the 18th Politburo Standing Committee of the Communist Party of China
+Members of the 19th Politburo Standing Committee of the Communist Party of China
+People's Republic of China politicians from Beijing
+Presidents of the People's Republic of China
+Recipients of the Nishan-e-Pakistan
+Recipients of the Olympic Order
+Recipients of the Order of Abdulaziz al Saud
+Recipients of the Order of José Marti
+Recipients of the Order of St. Andrew
+Recipients of the Order of the Liberator
+Recipients of the Order of the Republic (Serbia)
+Chinese male writers
+Sent-down youths
+Tsinghua University alumni
+Vice Presidents of the People's Republic of China
+People's Republic of China philosophers
+Victims of the Cultural Revolution
+Chinese expatriates in the United States
+Communist writers
+Chinese Marxists
 -1
 Infographics
 Illustration
@@ -1713,6 +2523,51 @@ Illustration
 Graphic design
 Infographics
 News design
+Illustration
+Graphic design
+Infographics
+News design
+-1
+20th-century American businesspeople
+American women in business
+Businesspeople from Columbus, Ohio
+People from Los Angeles
+Ohio State University alumni
+Businesspeople from California
+Living people
+20th-century American businesspeople
+21st-century American businesspeople
+20th-century American women
+21st-century American women
+-1
+Android malware
+Android (operating system)
+2008 software
+Alphabet Inc.
+ARM operating systems
+Cloud clients
+Computer-related introductions in 2008
+Computing platforms
+Embedded Linux distributions
+Free mobile software
+Google acquisitions
+Google software
+Mobile Linux
+Operating system families
+Smartphones
+Software using the Apache license
+Tablet operating systems
+Linux distributions without systemd
+-1
+Cloud clients
+Cloud computing
+Cloud infrastructure
+-1
+Linux distributions without systemd
+Linux kernel-related software
+Linux-only software
+Software that uses Meson
+Unix process- and task-management-related software
 -1
 Song recordings produced by The Neptunes
 Discographies of American artists
@@ -1755,6 +2610,8 @@ United States law
 United States federal law
 United States law
 United States federal law
+United States law
+United States federal law
 -1
 Business intelligence
 Business intelligence
@@ -1777,9 +2634,43 @@ Financial data analysis
 Data management
 Financial technology
 Information management
+-1
+American people of Abruzzese descent
+1929 births
+2019 deaths
+American people of Abruzzese descent
+American people of Italian descent
+American Roman Catholics
+Baltimore City Council members
+Deaths from cerebrovascular disease
+Italian-American culture in Baltimore
+Lawyers from Baltimore
+Loyola University Maryland alumni
+Mayors of Baltimore
+Military personnel from Baltimore
+Pelosi family
+University of Maryland School of Law alumni
+-1
+American music arrangers
+Arrangement
 -1
 Lists of law lists
 Lists of lists
+Lists of lists
+-1
+Religious horror films
+2019 films
+English-language films
+2019 horror films
+2010s supernatural horror films
+American films
+American supernatural horror films
+Intrepid Pictures films
+Films shot in Louisiana
+MTV Films films
+Netflix original films
+Paramount Pictures films
+Religious horror films
 -1
 G20 nations
 G20
@@ -1802,6 +2693,14 @@ Economic country classifications
 Intergovernmental organizations
 International economic organizations
 Organizations established in 1999
+-1
+British psychological thriller films
+Psychological thrillers
+Psychological fiction
+Film genres
+Narratology
+Thriller genres
+Suspense
 -1
 Pakistani inventions
 Pakistani inventions
@@ -1845,6 +2744,14 @@ History of Maryland
 Educational institutions established in 1856
 1856 establishments in Maryland
 -1
+Palme d'Or winners
+1955 establishments in France
+Awards established in 1955
+French film awards
+International film awards
+Lists of films by award
+Palme d'Or
+-1
 Communist writers
 1904 births
 1973 deaths
@@ -1868,7 +2775,30 @@ Poets from Uttar Pradesh
 20th-century Indian poets
 20th-century Indian short story writers
 20th-century Indian essayists
+1904 births
+1973 deaths
+Pakistani writers
+Pakistani dramatists and playwrights
+Urdu poets
+Indian Marxist writers
+Muhajir people
+Pakistani communists
+Alumni of New College, Oxford
+Alumni of the University of London
+University of Lucknow alumni
+Indian Communist writers
+Communist Party of Pakistan politicians
+People extradited to India
+20th-century poets
+Writers from Lucknow
+Novelists from Uttar Pradesh
+Poets from Uttar Pradesh
+20th-century Indian novelists
+20th-century Indian poets
+20th-century Indian short story writers
+20th-century Indian essayists
 -1
+Four-part harmony
 Four-part harmony
 Four-part harmony
 -1
@@ -1901,6 +2831,15 @@ Public university systems in the United States
 Educational institutions established in 1988
 1988 establishments in Maryland
 -1
+Psycho (franchise) films
+English-language films
+American film series
+Film series introduced in 1960
+Films about psychopaths
+Horror media franchises
+Media franchises introduced in 1959
+Psycho (franchise)
+-1
 Lists of fictional locations
 Lists of location lists
 Lists of fictional locations
@@ -1918,6 +2857,10 @@ Lists of location lists
 Lists of fictional locations
 Fictional locations
 Lists of fictional things
+-1
+Motorcycle clubs in the United States
+Motorcycle clubs
+Lists of organizations
 -1
 Foreign relations of Bangladesh
 Bangladesh and the Commonwealth of Nations
@@ -1939,8 +2882,17 @@ United States Second Amendment case law
 United States Second Amendment case law
 United States case law lists
 Gun politics in the United States
+United States Second Amendment case law
+United States case law lists
+Gun politics in the United States
 -1
 Recipients of the Olympic Order
+Olympic symbols
+International orders, decorations, and medals
+Sports trophies and awards
+Awards established in 1975
+Recipients of the Olympic Order
+International Olympic Committee
 Olympic symbols
 International orders, decorations, and medals
 Sports trophies and awards
@@ -1956,6 +2908,13 @@ Interlingua
 Constructed languages introduced in the 1950s
 1951 introductions
 Romance languages
+International auxiliary languages
+Constructed languages
+Fusional languages
+Interlingua
+Constructed languages introduced in the 1950s
+1951 introductions
+Romance languages
 -1
 ans formation
 Musical quartets
@@ -1963,8 +2922,29 @@ Estonian indie rock groups
 Musical groups established in 2002
 2002 establishments in Estonia
 Eesti Laul contestants
+Musical quartets
+Estonian indie rock groups
+Musical groups established in 2002
+2002 establishments in Estonia
+Eesti Laul contestants
+-1
+Montreal-related lists
+People from Montreal
+Lists of people by city or town in Canada
+Montreal-related lists
+Lists of people from Quebec
 -1
 Khmer Rouge
+20th century in Cambodia
+Anti-Chinese sentiment
+Anti-Japanese sentiment
+Anti-Korean sentiment
+Anti-Vietnamese sentiment
+Communism in Cambodia
+Communist terrorism
+Far-left politics
+Khmer Rouge
+Rebel groups in Cambodia
 20th century in Cambodia
 Anti-Chinese sentiment
 Anti-Japanese sentiment
@@ -1981,8 +2961,16 @@ Inner Asia
 Regions of Asia
 Natural history of Asia
 Historical regions
+Inner Asia
+Regions of Asia
+Natural history of Asia
+Historical regions
 -1
 Terrorism in China
+Terrorism in China
+Foreign relations of China
+Crime in China
+Terrorism by country
 Terrorism in China
 Foreign relations of China
 Crime in China
@@ -2027,6 +3015,10 @@ Non-profit organizations based in Nevada
 Organizations established in 2009
 Patriot movement
 Right-wing militia organizations in the United States
+-1
+Motorcycle clubs
+Motorcycle clubs
+Motorcycling subculture
 -1
 BRICS nations
 BRICS
@@ -2076,6 +3068,11 @@ Political controversies in China
 Political repression in China
 Political abuses of psychiatry
 Torture in China
+Human rights in China
+Political controversies in China
+Political repression in China
+Political abuses of psychiatry
+Torture in China
 -1
 BRICS
 BRICS
@@ -2118,13 +3115,39 @@ Foreign relations of South Africa
 Multilateral relations of China
 Multilateral relations of Russia
 Organizations established in 2009
+-1
+Deaths from Alzheimer's disease
+Alzheimer's disease
+Ailments of unknown cause
+Unsolved problems in neuroscience
+Learning disabilities
+Psychiatric diagnosis
+Dementia
+Abnormal psychology
+Cognitive disorders
+Aphasias
+Herpes simplex virus-associated diseases
+-1
+Lists of works based on short fiction
+Lists of films by source
+Lists of works adapted into films
+Lists of works based on short fiction
+Literature lists
+Short stories adapted into films
 -1
 Terrorism by country
 Government documents of the United States
 War on Terror
 United States Department of State publications
+Government documents of the United States
+War on Terror
+United States Department of State publications
 -1
 Turkic peoples of Asia
+Turkic peoples
+Ethnic groups in China
+Central Asian people
+Nomadic groups in Eurasia
 Turkic peoples
 Ethnic groups in China
 Central Asian people
@@ -2136,6 +3159,42 @@ Gansu
 Environmental organizations established in 2004
 Organizations established in 2004
 2004 establishments in China
+Environmental organizations based in China
+Gansu
+Environmental organizations established in 2004
+Organizations established in 2004
+2004 establishments in China
+-1
+Organizations established in 2005
+Autism-related organizations in the United States
+Organizations established in 2005
+2005 establishments in the United States
+Mental health organizations in New York (state)
+-1
+Films about poets
+English-language films
+2012 films
+American films
+Documentary films about dementia
+Documentary films about poets
+Biographical documentary film stubs
+-1
+Organizations that oppose LGBT rights in the United States
+History of LGBT civil rights in the United States
+LGBT law in the United States
+LGBT rights in the United States
+-1
+Films about psychopaths
+2017 films
+English-language films
+2017 horror films
+American films
+American horror films
+American serial killer films
+Films about psychopaths
+Films set in Los Angeles
+Films shot in Los Angeles
+Samuel Goldwyn Films films
 -1
 Digital rights management
 Copyright law
@@ -2182,6 +3241,62 @@ Vice Presidents of the People's Republic of China
 Lists of political office-holders in China
 20th-century Chinese politicians
 21st-century Chinese politicians
+Vice Presidents of the People's Republic of China
+Lists of political office-holders in China
+20th-century Chinese politicians
+21st-century Chinese politicians
+-1
+Male television composers
+John Williams
+1932 births
+20th-century American composers
+20th-century American conductors (music)
+20th-century American pianists
+20th-century classical composers
+20th-century classical pianists
+21st-century American composers
+21st-century American conductors (music)
+21st-century American pianists
+21st-century classical composers
+21st-century classical pianists
+AFI Life Achievement Award recipients
+American classical composers
+American classical pianists
+American conductors (music)
+American film score composers
+American male classical composers
+American male conductors (music)
+American male pianists
+American music arrangers
+American television composers
+Annie Award winners
+Atlantic Records artists
+Best Original Music Score Academy Award winners
+Brit Award winners
+Decca Records artists
+DreamWorks Records artists
+Edison Classical Music Awards Oeuvreprijs winners
+Grammy Award winners
+Guggenheim Fellows
+Hollywood Records artists
+Honorary Members of the Royal Academy of Music
+Juilliard School alumni
+Kennedy Center honorees
+Living people
+Male classical pianists
+Male film score composers
+Male television composers
+MCA Records artists
+People from Floral Park, New York
+People from Queens, New York
+Primetime Emmy Award winners
+Recipients of the Olympic Order
+Sony Classical Records artists
+UCLA School of the Arts and Architecture alumni
+United States Air Force airmen
+United States National Medal of Arts recipients
+Varèse Sarabande Records artists
+Warner Records artists
 -1
 Intergovernmental organizations established by treaty
 Intergovernmental organizations
@@ -2194,6 +3309,13 @@ Intergovernmental organizations
 Globalization
 -1
 Musical groups established in 2002
+Musical groups established in 2002
+American mathcore musical groups
+Musical groups disestablished in 2009
+American noise rock music groups
+Heavy metal musical groups from Rhode Island
+Musical groups reestablished in 2013
+Musical groups from Providence, Rhode Island
 Musical groups established in 2002
 American mathcore musical groups
 Musical groups disestablished in 2009
@@ -2236,7 +3358,18 @@ Architecture schools
 Business schools
 University programs
 -1
+2017 horror films
+2017 horror films
+Lists of horror films by year
+2017-related lists
+-1
 Lists of United States Supreme Court cases
+Lists of law lists
+Lists of United States Supreme Court cases
+United States Supreme Court cases
+United States case law lists
+Case law lists by court
+United States history-related lists
 Lists of law lists
 Lists of United States Supreme Court cases
 United States Supreme Court cases
@@ -2261,6 +3394,12 @@ American war crimes
 Military prisoner abuse scandals
 War crimes in Iraq
 Human rights in Iraq
+Abuse
+21st-century Human rights abuses
+American war crimes
+Military prisoner abuse scandals
+War crimes in Iraq
+Human rights in Iraq
 -1
 International rankings
 International rankings
@@ -2277,6 +3416,27 @@ Computer-aided design software
 Computer-aided design
 Design engineering
 -1
+Films with screenplays by Darren Aronofsky
+Darren Aronofsky
+1969 births
+Living people
+AFI Conservatory alumni
+American film producers
+American male screenwriters
+Camp Rising Sun alumni
+Harvard University alumni
+Jewish American screenwriters
+Independent Spirit Award winners
+Independent Spirit Award for Best Director winners
+Writers from Brooklyn
+Film directors from New York City
+American music video directors
+Sierra Club people
+Screenwriters from New York (state)
+Edward R. Murrow High School alumni
+People from Manhattan Beach, Brooklyn
+People from the East Village, Manhattan
+-1
 appointment schedule
 Civil service in the United States
 -1
@@ -2284,6 +3444,17 @@ Civil service in the United States
 1950s in China
 1955 in China
 Years of the 20th century in China
+1950s in China
+1955 in China
+Years of the 20th century in China
+-1
+American psychological thriller films
+Psychological thrillers
+Psychological fiction
+Film genres
+Narratology
+Thriller genres
+Suspense
 -1
 United Nations-related lists
 Outlines of organizations
@@ -2306,12 +3477,25 @@ Lists of buildings and structures in the United States
 Lists of organizations based in the United States
 Lists of hospitals in North America
 Lists of hospitals by country
+Lists of building lists
+Lists of hospitals in the United States
+Lists of buildings and structures in the United States
+Lists of organizations based in the United States
+Lists of hospitals in North America
+Lists of hospitals by country
 -1
 Crops
 Crops
 Crops
 -1
 Technology assessment
+Technology assessment
+Technology forecasting
+Futurology
+Impact assessment
+Technology
+Design for X
+Technology transfer
 Technology assessment
 Technology forecasting
 Futurology
@@ -2360,6 +3544,25 @@ Trump administration controversies
 2019 controversies in the United States
 2020 controversies in the United States
 United States presidential history
+Impeachment of Donald Trump
+2017 in American politics
+Impeachment in the United States
+Presidency of Donald Trump
+Political controversies in the United States
+Trump administration controversies
+2017 controversies in the United States
+2018 controversies in the United States
+2019 controversies in the United States
+2020 controversies in the United States
+United States presidential history
+-1
+Educational institutions established in 2005
+2005 establishments in the United Arab Emirates
+Education in Abu Dhabi
+Educational organisations based in the United Arab Emirates
+Government agencies of Abu Dhabi
+Government agencies established in 2005
+Educational institutions established in 2005
 -1
 Countries in Asia
 Lists of countries in Asia
@@ -2385,9 +3588,48 @@ Human geography
 Christmas traditions
 Human geography
 -1
+Mobile applications
+Mobile software
+User interface techniques
+Mobile applications
+-1
 Western China
 Western China
 Regions of China
+Western China
+Regions of China
+-1
+American thriller drama films
+2017 films
+English-language films
+2017 horror films
+2010s horror thriller films
+2010s psychological drama films
+2010s psychological horror films
+2010s psychological thriller films
+2010s thriller drama films
+American films
+American horror thriller films
+American psychological drama films
+American psychological horror films
+American psychological thriller films
+American supernatural horror films
+American thriller drama films
+Cannibalism in fiction
+Cultural depictions of Adam and Eve
+Films about poets
+Films directed by Darren Aronofsky
+Films set in country houses
+Films shot in Montreal
+Fratricide in fiction
+God in fiction
+Horror drama films
+Human sacrifice in fiction
+Paramount Pictures films
+American pregnancy films
+Protozoa Pictures films
+Religious horror films
+Films with screenplays by Darren Aronofsky
 -1
 Pleasure
 Pleasure
@@ -2402,6 +3644,12 @@ Feeling
 Pleasure
 Emotions
 Feeling
+-1
+South Korean films
+Lists of film lists
+Lists of South Korean films
+Lists of South Korean films by year
+Lists of films by country of production
 -1
 Commonwealth republics
 Commonwealth republics
@@ -2421,6 +3669,9 @@ Public records
 Freedom of information in the United States
 Privacy
 Public records
+Freedom of information in the United States
+Privacy
+Public records
 -1
 Hip hop discographies
 Hip hop discographies
@@ -2431,7 +3682,12 @@ Webby Awards
 Internet film festivals
 Lists of award winners
 Webby Award winners
+Webby Awards
+Internet film festivals
+Lists of award winners
+Webby Award winners
 -1
+Estonian music
 Estonian music
 Estonian music
 -1
@@ -2440,6 +3696,11 @@ Fibers
 Fiber plants
 Fibers
 Fiber plants
+-1
+Korean-language films
+Lists of films by country of production
+North Korean films
+Lists of North Korean media
 -1
 India
 India
@@ -2530,6 +3791,17 @@ Genocide
 International criminal law
 Mass murder
 Words coined in the 1940s
+Genocide
+International criminal law
+Mass murder
+Words coined in the 1940s
+-1
+Edgar Award-winning works
+Mystery and detective fiction awards
+American literary awards
+Edgar Allan Poe
+Edgar Award winners
+Edgar Award-winning works
 -1
 Planning
 Planning
@@ -2544,6 +3816,12 @@ Neuropsychological assessment
 Planning
 Systems engineering
 Neuropsychological assessment
+-1
+Films shot in Arizona
+Arizona culture
+Films shot in Arizona
+Arizona-related lists
+Lists of films shot in the United States
 -1
 Country classifications
 Economic country classifications
@@ -2585,10 +3863,30 @@ Cognitive science
 Behavioural sciences
 Cognitive science
 -1
+Films shot in California
+Culture of Riverside, California
+Films shot in California
+Cinema of Southern California
+Films shot in the United States by city
+Lists of films shot in the United States
+California-related lists
+-1
 Medical terminology
 Scientific terminology
 Interlingua
 Medical terminology
+Scientific terminology
+Interlingua
+Medical terminology
+-1
+Catholic secondary schools in Kansas
+Roman Catholic Diocese of Wichita
+Catholic secondary schools in Kansas
+Hutchinson, Kansas
+Education in Reno County, Kansas
+Buildings and structures in Reno County, Kansas
+Private middle schools in Kansas
+Kansas school stubs
 -1
 Flagship universities in the United States
 Public university systems in the United States
@@ -2607,6 +3905,20 @@ Public university systems in the United States
 Flagship universities in the United States
 Types of university or college
 Universities and colleges in the United States by type by state
+-1
+Films based on short fiction
+Lists of films by source
+Lists of works adapted into films
+Lists of works based on short fiction
+Literature lists
+Short stories adapted into films
+-1
+Retrofuturism
+Architectural styles
+Futurist movements
+Science fiction themes
+Retro style
+Retrofuturism
 -1
 Musical groups from Providence, Rhode Island
 Musical groups from Maine
@@ -2615,8 +3927,46 @@ Musical groups from Providence, Rhode Island
 Musical groups established in 2003
 Musical groups disestablished in 2014
 Musical groups from Portland, Maine
+Musical groups from Maine
+American folk musical groups
+Musical groups from Providence, Rhode Island
+Musical groups established in 2003
+Musical groups disestablished in 2014
+Musical groups from Portland, Maine
+-1
+American psychological horror films
+Film genres
+Horror fiction
+Horror genres
+Psychological horror
+Psychological horror films
+Psychological fiction
+Suspense
+Thrillers
+-1
+American male film actors
+Lists of performers lists
+Lists of actors
+-1
+RCA Victor artists
+RCA Records
+American record labels
+Jazz record labels
+New York (state) record labels
+RCA Records Music Group
+Pop record labels
+Rock record labels
+Rhythm and blues record labels
+Soundtrack record labels
+Record labels established in 1901
+Companies based in New York City
+Sony Music
+Children's record labels
 -1
 Governors of Fujian
+Fujian
+Provinces of the People's Republic of China
+East China
 Fujian
 Provinces of the People's Republic of China
 East China
@@ -2652,9 +4002,17 @@ Software companies
 Members of the 17th Politburo Standing Committee of the Communist Party of China
 Members of the Politburo Standing Committee of the Communist Party of China
 Collective heads of government
+Members of the Politburo Standing Committee of the Communist Party of China
+Collective heads of government
 -1
 Chinese culture
 Chinese culture
+Chinese culture
+-1
+Google acquisitions
+Google acquisitions
+Lists of companies of the United States
+Lists of corporate acquisitions
 -1
 Flax
 Linum
@@ -2701,6 +4059,17 @@ Financial accounting
 Dentistry branches
 Dentistry branches
 -1
+Embedded Linux distributions
+Linux distributions
+Linus Torvalds
+-1
+American films
+Lists of film lists
+Lists of American films
+American films
+Lists of American films by year
+Lists of films by country of production
+-1
 Data management
 Data management
 Information technology management
@@ -2727,6 +4096,38 @@ Country classifications
 Years of the 20th century in Cambodia
 1976 by country
 1976 in Southeast Asia
+1976 in Cambodia
+1970s in Cambodia
+Years of the 20th century in Cambodia
+1976 by country
+1976 in Southeast Asia
+-1
+patients patients dentist
+Medical terminology
+Patient
+-1
+2010s psychological drama films
+2011 films
+Hindi horror films
+Indian thriller films
+Indian drama films
+Indian ghost films
+2010s psychological drama films
+2010s psychological thriller films
+Indian films
+2010s Hindi-language films
+Indian psychological thriller films
+Indian psychological horror films
+-1
+Liberty Records artists
+American record labels
+British record labels
+Jazz record labels
+Record labels established in 1955
+Re-established companies
+EMI
+United Artists Records
+American companies established in 1955
 -1
 International organizations based in Asia
 Asia-Pacific Economic Cooperation
@@ -2812,8 +4213,20 @@ States and territories established in 1955
 1955 establishments in China
 Iranian languages regions
 Historical regions
+Autonomous regions of China
+Xinjiang
+Western China
+Central Asia
+Inner Asia
+States and territories established in 1955
+1955 establishments in China
+Iranian languages regions
+Historical regions
 -1
 Culture terminology
+Jargon
+Language varieties and styles
+Terminology
 Jargon
 Language varieties and styles
 Terminology
@@ -2878,14 +4291,46 @@ Technical communication
 Software development process
 Distributed version control systems
 -1
+Narratology
+Narratology
+Choreography
+Drama
+Film theory
+Literature
+Storytelling
+-1
 Security
 Prevention
 Security
 Law enforcement
+Prevention
+Security
+Law enforcement
+-1
+1960 films
+1960 in film
+Film by year
 -1
 Standards organizations in the United States
 Standards organizations
 Product testing
+-1
+Carnegie Mellon University College of Fine Arts alumni
+Schools and departments of Carnegie Mellon
+Art schools in Pennsylvania
+Educational institutions established in 1900
+Pittsburgh History & Landmarks Foundation Historic Landmarks
+-1
+Films based on American horror novels
+Film series introduced in 1979
+Film series
+American haunted house films
+American supernatural horror films
+Films based on horror novels
+Films about exorcism
+Amityville Horror films
+Horror films by series
+Long Island in fiction
 -1
 Violence against Muslims
 Violence against Muslims
@@ -2893,8 +4338,22 @@ Religious riots
 Riots and civil disorder in India
 Anti-Muslim violence in India
 India–Pakistan relations
+Violence against Muslims
+Religious riots
+Riots and civil disorder in India
+Anti-Muslim violence in India
+India–Pakistan relations
 -1
 Political abuses of psychiatry
+Political abuses of psychiatry
+History of psychiatry
+Imprisonment and detention
+Institutional abuse
+Medical sociology
+Political repression
+Social problems in medicine
+Ethics in psychiatry
+Psychiatry controversies
 Political abuses of psychiatry
 History of psychiatry
 Imprisonment and detention
@@ -2951,6 +4410,47 @@ Business terms
 Management by type
 Strategy
 -1
+Films scored by Henry Mancini
+Henry Mancini
+1924 births
+1994 deaths
+20th-century American conductors (music)
+Easy listening musicians
+20th-century jazz composers
+American people of Italian descent
+American people of Abruzzese descent
+Best Original Music Score Academy Award winners
+Best Original Song Academy Award-winning songwriters
+Light music composers
+20th-century pianists
+American male conductors (music)
+American film score composers
+American television composers
+American music arrangers
+American jazz musicians
+Animation composers
+Big band bandleaders
+Big band pianists
+Deaths from cancer in California
+Deaths from pancreatic cancer
+Grammy Lifetime Achievement Award winners
+Juilliard School alumni
+Liberty Records artists
+People from Beaver County, Pennsylvania
+Musicians from Cleveland
+RCA Victor artists
+Songwriters from Ohio
+Songwriters from Pennsylvania
+Swing pianists
+United States Army soldiers
+20th-century American composers
+Jazz musicians from Pennsylvania
+Male film score composers
+Male television composers
+American flautists
+Carnegie Mellon University College of Fine Arts alumni
+Fresh Sounds Records artists
+-1
 Branches of psychology
 Psychology
 Behavioural sciences
@@ -2961,6 +4461,24 @@ Behavioural sciences
 Psychology
 Behavioural sciences
 -1
+Films about fashion photographers
+2011 films
+English-language films
+American films
+2010s documentary films
+American documentary television films
+Biographical films about photographers
+Films about fashion photographers
+Documentary films about cancer
+Cancer awareness
+-1
+Conflict of interest
+Political corruption
+Legal ethics
+Ethically disputed business practices
+Philosophy of science
+Ethically disputed political practices
+Scientific misconduct
 Conflict of interest
 Political corruption
 Legal ethics
@@ -2970,6 +4488,68 @@ Ethically disputed political practices
 Scientific misconduct
 Conflict of interest
 -1
+Android (operating system) software
+Android (operating system)
+2008 software
+Alphabet Inc.
+ARM operating systems
+Cloud clients
+Computer-related introductions in 2008
+Computing platforms
+Embedded Linux distributions
+Free mobile software
+Google acquisitions
+Google software
+Mobile Linux
+Operating system families
+Smartphones
+Software using the Apache license
+Tablet operating systems
+Linux distributions without systemd
+-1
+Jewish American male actors
+Adam Sandler
+1966 births
+20th-century American comedians
+20th-century American male actors
+21st-century American comedians
+21st-century American male actors
+21st-century American writers
+Actors from Manchester, New Hampshire
+American comedy musicians
+American film producers
+American male comedy actors
+American male film actors
+American male screenwriters
+American male singers
+American male television actors
+American people of Russian-Jewish descent
+American sketch comedians
+American stand-up comedians
+Screenwriters from New York (state)
+American television writers
+Comedians from New York City
+Jewish American male actors
+Jewish American musicians
+Jewish American screenwriters
+Jewish American comedians
+Jewish male comedians
+Living people
+Male actors from New Hampshire
+Male actors from New York City
+Male television writers
+Manchester Central High School alumni
+Musicians from Brooklyn
+Singers from New Hampshire
+Writers from Manchester, New Hampshire
+Singers from New York City
+Television producers from New York City
+Tisch School of the Arts alumni
+Screenwriters from New Hampshire
+-1
+Modeling languages
+Scientific modeling
+Specification languages
 Modeling languages
 Scientific modeling
 Specification languages
@@ -3029,6 +4609,7 @@ Real estate in the United States
 Safety codes
 NFPA Standards
 -1
+Lobbying in the United States
 Lobbying in the United States
 Lobbying in the United States
 -1
@@ -3064,12 +4645,23 @@ G15 summits
 Diplomatic conferences in Sri Lanka
 21st century in Colombo
 -1
+Protestantism-related controversies
+Controversies by person
+Intelligent design controversies
+Political controversies in the United States
+Protestantism-related controversies
+Television controversies in the United States
+-1
 Computer-aided design software
 Computer-aided design software
 Computer-aided design
 Design engineering
 -1
 Anti-Vietnamese sentiment
+Anti-Vietnamese sentiment
+Anti-national sentiment
+Racism
+Anti-Asian sentiment
 Anti-Vietnamese sentiment
 Anti-national sentiment
 Racism
@@ -3104,6 +4696,59 @@ Metaphysics of mind
 Mind
 Philosophy of mind
 Self
+-1
+Films shot in London
+2016 films
+English-language films
+2010s action thriller films
+2010s sequel films
+American action thriller films
+American films
+American political thriller films
+American sequel films
+Films about fictional Presidents of the United States
+American films about revenge
+Films about terrorism in Europe
+Films about the Secret Intelligence Service
+Films directed by Babak Najafi
+Films set in Essex
+Films set in London
+Films set in Manila
+Films set in Nevada
+Films set in New York City
+Films set in Punjab, Pakistan
+Films set in the White House
+Films set in Tokyo
+Films set in Washington, D.C.
+Films set in Yemen
+Films set on the London Underground
+Films shot in Bulgaria
+Foreign films shot in India
+Films shot in London
+Films about Delta Force
+FilmDistrict films
+Nu Image films
+Focus Features films
+Gramercy Pictures films
+-1
+Android (operating system)
+Android (operating system)
+2008 software
+Alphabet Inc.
+ARM operating systems
+Cloud clients
+Computer-related introductions in 2008
+Computing platforms
+Embedded Linux distributions
+Free mobile software
+Google acquisitions
+Google software
+Mobile Linux
+Operating system families
+Smartphones
+Software using the Apache license
+Tablet operating systems
+Linux distributions without systemd
 -1
 Freight transport
 Intermodal containers
@@ -3187,6 +4832,7 @@ Mathematical and quantitative methods (economics)
 -1
 1953 births
 1953
+1953
 -1
 Xi Jinping
 Xi Jinping
@@ -3223,10 +4869,100 @@ Victims of the Cultural Revolution
 Chinese expatriates in the United States
 Communist writers
 Chinese Marxists
+Xi Jinping
+Xi Jinping family
+1953 births
+Living people
+20th-century Chinese politicians
+21st-century Chinese politicians
+Chinese nationalists
+Philosophers from Beijing
+Communist rulers
+Communist Party of China politicians from Beijing
+General Secretaries and Chairmen of the Communist Party of China
+Governors of Fujian
+Governors of Zhejiang
+Members of the 17th Politburo Standing Committee of the Communist Party of China
+Members of the 18th Politburo Standing Committee of the Communist Party of China
+Members of the 19th Politburo Standing Committee of the Communist Party of China
+People's Republic of China politicians from Beijing
+Presidents of the People's Republic of China
+Recipients of the Nishan-e-Pakistan
+Recipients of the Olympic Order
+Recipients of the Order of Abdulaziz al Saud
+Recipients of the Order of José Marti
+Recipients of the Order of St. Andrew
+Recipients of the Order of the Liberator
+Recipients of the Order of the Republic (Serbia)
+Chinese male writers
+Sent-down youths
+Tsinghua University alumni
+Vice Presidents of the People's Republic of China
+People's Republic of China philosophers
+Victims of the Cultural Revolution
+Chinese expatriates in the United States
+Communist writers
+Chinese Marxists
+-1
+Lists of films by country of production
+Lists of film lists
+Lists of Swedish films
+Lists of films by country of production
+Swedish films
 -1
 Religious persecution by communists
 Religious persecution
 Religious pluralism
+Religious persecution
+Religious pluralism
+-1
+Film by year
+Culture-related timelines
+Film by year
+Films by decade
+Timelines by year
+Lists of years by topic
+-1
+Henry Mancini
+Henry Mancini
+1924 births
+1994 deaths
+20th-century American conductors (music)
+Easy listening musicians
+20th-century jazz composers
+American people of Italian descent
+American people of Abruzzese descent
+Best Original Music Score Academy Award winners
+Best Original Song Academy Award-winning songwriters
+Light music composers
+20th-century pianists
+American male conductors (music)
+American film score composers
+American television composers
+American music arrangers
+American jazz musicians
+Animation composers
+Big band bandleaders
+Big band pianists
+Deaths from cancer in California
+Deaths from pancreatic cancer
+Grammy Lifetime Achievement Award winners
+Juilliard School alumni
+Liberty Records artists
+People from Beaver County, Pennsylvania
+Musicians from Cleveland
+RCA Victor artists
+Songwriters from Ohio
+Songwriters from Pennsylvania
+Swing pianists
+United States Army soldiers
+20th-century American composers
+Jazz musicians from Pennsylvania
+Male film score composers
+Male television composers
+American flautists
+Carnegie Mellon University College of Fine Arts alumni
+Fresh Sounds Records artists
 -1
 Distribution (marketing)
 Distribution (marketing)
@@ -3260,7 +4996,24 @@ Government
 Political terminology
 Main topic articles
 -1
+Films directed by Michelangelo Antonioni
+1931 births
+20th-century Italian actresses
+Living people
+Italian film actresses
+Italian stage actresses
+Italian television actresses
+Actresses from Rome
+Accademia Nazionale di Arte Drammatica Silvio D'Amico alumni
+Commandeurs of the Ordre des Arts et des Lettres
+David di Donatello winners
+Nastro d'Argento winners
+People with Alzheimer's disease
+-1
 Functionalism (social theory)
+Functionalism (social theory)
+Sociological theories
+History of sociology
 Functionalism (social theory)
 Sociological theories
 History of sociology
@@ -3327,7 +5080,15 @@ Political controversies in China
 Political repression in China
 Political abuses of psychiatry
 Torture in China
+Human rights in China
+Political controversies in China
+Political repression in China
+Political abuses of psychiatry
+Torture in China
 -1
+Estonian brands
+Beer in Estonia
+Tartu
 Estonian brands
 Beer in Estonia
 Tartu
@@ -3340,8 +5101,18 @@ International criminal law
 War crimes
 Crime-related lists
 Human rights-related lists
+Law-related lists
+Laws of war
+International criminal law
+War crimes
+Crime-related lists
+Human rights-related lists
 -1
 Buildings and structures in Rochester, Minnesota
+Buildings and structures in Rochester, Minnesota
+Skyscrapers in Rochester, Minnesota
+Lists of buildings and structures in Minnesota
+Lists of tallest buildings in the United States by city
 Buildings and structures in Rochester, Minnesota
 Skyscrapers in Rochester, Minnesota
 Lists of buildings and structures in Minnesota
@@ -3353,10 +5124,21 @@ Information technology management
 Information technology management
 Information technology management
 -1
+Lists of films by source
+Body swapping in films
+Lists of film lists
+Lists of films
+Lists of films by topic
+-1
 Lists of occupations
 Lists of lists
 Lists of occupations
 Occupations
+-1
+Deaths from pancreatic cancer
+Pancreatic cancer
+Gastrointestinal cancer
+Pancreas disorders
 -1
 Version control
 Version control
@@ -3369,8 +5151,12 @@ Freedom of information in the United States
 United States law
 Classified information
 Freedom of information in the United States
+United States law
+Classified information
+Freedom of information in the United States
 -1
 Members of the 18th Politburo Standing Committee of the Communist Party of China
+Politburo of the Communist Party of China
 Politburo of the Communist Party of China
 -1
 Lists of proposals
@@ -3392,6 +5178,8 @@ Lists of United States legislation
 Lists of proposals
 -1
 patient services
+Medical terminology
+Patient
 Medical terminology
 Patient
 -1
@@ -3431,6 +5219,26 @@ History of computing hardware
 Personal computers
 History of computing topical overviews
 -1
+Network operating systems
+Network operating systems
+Operating systems
+Internet Protocol based network software
+-1
+American slasher films
+Slasher films
+Film genres
+Horror films by genre
+Thriller genres
+Obscenity controversies in film
+Suspense
+Thrillers
+-1
+Film genres
+Cinematography
+Film genres
+Film theory
+Genres
+-1
 Cyberpunk themes
 Cyberpunk
 Dystopian fiction
@@ -3461,13 +5269,26 @@ Postmodernism
 Science fiction culture
 Words coined in the 1960s
 -1
+Italian psychological thriller films
+Psychological thrillers
+Psychological fiction
+Film genres
+Narratology
+Thriller genres
+Suspense
+-1
 Software project management
 Software project management
 Software project management
 Software project management
 Software project management
 -1
+Computing platforms
+Computing platforms
+-1
 Social philosophy
+Social philosophy
+Interdisciplinary subfields of sociology
 Social philosophy
 Interdisciplinary subfields of sociology
 -1
@@ -3477,6 +5298,22 @@ History of the Supreme Court of the United States
 United States Supreme Court cases
 United States case law lists
 Lists of United States Supreme Court opinions by status
+Lists of United States Supreme Court cases
+History of the Supreme Court of the United States
+United States Supreme Court cases
+United States case law lists
+Lists of United States Supreme Court opinions by status
+-1
+Anti-Zionism in the United States
+Anti-Zionism
+History of Zionism
+Political theories
+-1
+Medical websites
+Academic works about medicine
+Online services
+Electronic publishing
+Works about health
 -1
 Institute of Electrical and Electronics Engineers
 Institute of Electrical and Electronics Engineers
@@ -3484,10 +5321,23 @@ Institute of Electrical and Electronics Engineers
 Organizations based in New York City
 Piscataway, New Jersey
 -1
+Films set in Phoenix, Arizona
+1868 establishments in Arizona Territory
+Cities in Arizona
+Cities in Maricopa County, Arizona
+County seats in Arizona
+Phoenix, Arizona
+Phoenix metropolitan area
+Populated places established in 1868
+Populated places in the Sonoran Desert
+-1
 Real-time computing
 Real-time computing
 Real-time technology
 -1
+Hospitals in Minnesota
+Lists of hospitals in the United States
+Minnesota-related lists
 Hospitals in Minnesota
 Lists of hospitals in the United States
 Minnesota-related lists
@@ -3503,6 +5353,16 @@ Construction
 Construction
 Construction
 -1
+South Korean erotic drama films
+1989 films
+Korean-language films
+South Korean erotic drama films
+Adultery in films
+South Korean films
+1980s erotic drama films
+South Korean film stubs
+Erotic film stubs
+-1
 Positive mental attitude
 Personality
 Positive mental attitude
@@ -3512,6 +5372,31 @@ Personality
 Positive mental attitude
 Personality
 Positive mental attitude
+-1
+2010s psychological horror films
+Film genres
+Horror fiction
+Horror genres
+Psychological horror
+Psychological horror films
+Psychological fiction
+Suspense
+Thrillers
+-1
+Juilliard School alumni
+Juilliard School people
+Lists of people by university or college in New York (state)
+-1
+Software using the Apache license
+Apache Software Foundation
+Free and open-source software licenses
+Permissive software licenses
+Software using the Apache license
+-1
+2017 films
+Film by year
+2017 in film
+2017-related lists
 -1
 University of Maryland, College Park
 University of Maryland, College Park
@@ -3553,9 +5438,49 @@ Educational institutions established in 1856
 -1
 Gun politics in the United States
 Gun politics in the United States
+Gun politics in the United States
 -1
 Human rights in Iraq
 Human rights in Iraq
+Human rights in Iraq
+-1
+American serial killer films
+1986 films
+English-language films
+1986 horror films
+1980s crime drama films
+1980s crime thriller films
+1980s independent films
+American films
+American crime drama films
+Biographical films about serial killers
+American crime thriller films
+American psychological horror films
+American independent films
+American horror thriller films
+American slasher films
+Directorial debut films
+Films set in Chicago
+Films shot in Chicago
+Incest in film
+Matricide in fiction
+Obscenity controversies in film
+Snuff films in fiction
+Films about psychopaths
+Films directed by John McNaughton
+1980s exploitation films
+-1
+Jazz musicians from Pennsylvania
+1940 births
+Living people
+American jazz double-bassists
+Male double-bassists
+People from Farrell, Pennsylvania
+American jazz musicians
+Jazz musicians from Pennsylvania
+21st-century double-bassists
+21st-century American male musicians
+Male jazz musicians
 -1
 Futurology
 Futurology
@@ -3583,8 +5508,76 @@ Prediction
 Pseudoscience
 Technology forecasting
 Systems thinking
+Futurology
+Prediction
+Pseudoscience
+Technology forecasting
+Systems thinking
+-1
+1960s psychological thriller films
+1960 films
+English-language films
+Psycho (franchise) films
+1960 horror films
+1960s horror thriller films
+1960s mystery films
+1960s psychological thriller films
+1960s serial killer films
+1960s slasher films
+American films
+American horror thriller films
+American mystery films
+American psychological horror films
+American serial killer films
+American slasher films
+Films directed by Alfred Hitchcock
+Films produced by Alfred Hitchcock
+Films with screenplays by Joseph Stefano
+Films scored by Bernard Herrmann
+American black-and-white films
+Cross-dressing in American films
+Dissociative identity disorder in films
+Edgar Award-winning works
+Films about psychopaths
+Films based on American horror novels
+Films based on thriller novels
+Films featuring a Best Supporting Actress Golden Globe-winning performance
+Films set in 1959
+Films set in 1960
+Films set in California
+Films set in Phoenix, Arizona
+Films shot in Arizona
+Films shot in California
+Matricide in fiction
+Paramount Pictures films
+Universal Pictures films
+United States National Film Registry films
+Films à clef
+Films based on works by Robert Bloch
 -1
 American noise rock music groups
+Suicide Squeeze Records artists
+Atlantic Records artists
+C/Z Records artists
+Alternative Tentacles artists
+Boner Records artists
+Ipecac Recordings artists
+Musical groups established in 1983
+American musical trios
+Heavy metal musical groups from Washington (state)
+Grunge musical groups
+American alternative metal musical groups
+Sludge metal musical groups
+American doom metal musical groups
+American avant-garde metal musical groups
+Stoner rock musical groups
+Hardcore punk groups from Washington (state)
+American noise rock music groups
+American experimental rock groups
+Drone metal musical groups
+Rock music groups from Washington (state)
+People from Montesano, Washington
+Mammoth Records artists
 Suicide Squeeze Records artists
 Atlantic Records artists
 C/Z Records artists
@@ -3643,6 +5636,12 @@ Organizations based in Saint Paul, Minnesota
 Organizations established in 2004
 Non-profit organizations based in Minnesota
 Radio stations established in 2004
+American Public Media
+2004 establishments in the United States
+Organizations based in Saint Paul, Minnesota
+Organizations established in 2004
+Non-profit organizations based in Minnesota
+Radio stations established in 2004
 -1
 Member states of the United Nations
 United Nations relations
@@ -3665,6 +5664,27 @@ History of the United Nations
 Countries by international organization
 Member states of the United Nations
 United Nations-related lists
+-1
+Films directed by Darren Aronofsky
+Darren Aronofsky
+1969 births
+Living people
+AFI Conservatory alumni
+American film producers
+American male screenwriters
+Camp Rising Sun alumni
+Harvard University alumni
+Jewish American screenwriters
+Independent Spirit Award winners
+Independent Spirit Award for Best Director winners
+Writers from Brooklyn
+Film directors from New York City
+American music video directors
+Sierra Club people
+Screenwriters from New York (state)
+Edward R. Murrow High School alumni
+People from Manhattan Beach, Brooklyn
+People from the East Village, Manhattan
 -1
 21st-century Chinese politicians
 21st century
@@ -3672,6 +5692,37 @@ United Nations-related lists
 Centuries
 Contemporary history
 Modern history
+21st century
+3rd millennium
+Centuries
+Contemporary history
+Modern history
+-1
+Films à clef
+Biographical films
+Fiction
+Film genres
+Films à clef
+-1
+1924 births
+1924
+Leap years in the Gregorian calendar
+-1
+Films set in 1959
+Lists of films by setting
+Films set in the future
+Retrofuturism
+-1
+Lists of films by studio
+Lists of film lists
+Lists of films by studio
+-1
+IOS software
+Cisco software
+Embedded operating systems
+Internet Protocol based network software
+Network operating systems
+Routers (computing)
 -1
 Persecution of Muslims
 Persecution of Muslims
@@ -3679,6 +5730,42 @@ History of Islam
 Islamophobia
 Anti-Muslim sentiment
 Islam-related controversies
+Persecution of Muslims
+History of Islam
+Islamophobia
+Anti-Muslim sentiment
+Islam-related controversies
+-1
+1966 in film
+Film by year
+1966 in film
+-1
+American supernatural horror films
+2019 films
+English-language films
+2019 horror films
+2010s black comedy films
+2010s comedy horror films
+2010s comedy thriller films
+2010s horror thriller films
+2010s supernatural horror films
+American black comedy films
+American comedy horror films
+American comedy thriller films
+American films
+American horror thriller films
+American supernatural horror films
+American supernatural thriller films
+The Devil in fiction
+Films about cults
+Films about death games
+Films about dysfunctional families
+Films about weddings
+Films shot in Toronto
+Fox Searchlight Pictures films
+Media portrayals of the upper class
+Films about Satanism
+Supernatural comedy films
 -1
 Production and manufacturing
 Manufacturing
@@ -3730,6 +5817,33 @@ Science fiction films
 Lists of science fiction films
 Lists of works of science fiction, arranged in chronological order
 -1
+20th-century American conductors (music)
+1946 births
+Living people
+Musicians from New Haven, Connecticut
+A&M Records artists
+American male singers
+American pop pianists
+American pop singers
+American Methodists
+American soft rock musicians
+Musicians from Downey, California
+Ballad musicians
+The Carpenters members
+California State University, Long Beach alumni
+American jazz pianists
+American male pianists
+American male songwriters
+American music arrangers
+American male conductors (music)
+Record producers from California
+American pop keyboardists
+20th-century American pianists
+20th-century American conductors (music)
+21st-century American conductors (music)
+Male jazz musicians
+20th-century American keyboardists
+-1
 Software companies
 Software companies
 Lists of information technology companies
@@ -3753,6 +5867,12 @@ Chinese inventions
 Papermaking
 Book arts
 -1
+Matricide in fiction
+Homicide
+Death of women
+Matricides
+Violence against women
+-1
 Literature lists
 Literature
 Literature
@@ -3760,6 +5880,18 @@ Literature
 Literature
 -1
 East Turkestan independence movement
+East Turkestan independence movement
+History of Xinjiang
+Independence movements
+International disputes
+Islam in China
+National liberation movements
+Political controversies
+Rebellions in China
+Separatism in China
+Turkestan
+Xinjiang
+Indigenous land rights
 East Turkestan independence movement
 History of Xinjiang
 Independence movements
@@ -3795,6 +5927,9 @@ Sociological terminology
 Sociological terminology
 Sociological theories
 Philosophy of social science
+Sociological terminology
+Sociological theories
+Philosophy of social science
 -1
 Product lifecycle management
 Brand management
@@ -3805,8 +5940,16 @@ Brand management
 Product lifecycle management
 Brand management
 Product lifecycle management
+-1
+Films set in the future
+Lists of films by setting
+Films set in the future
+Retrofuturism
 -1
 Medical records
+Medical records
+Health informatics
+Public records
 Medical records
 Health informatics
 Public records
@@ -3837,13 +5980,21 @@ content diagram
 Diagrams
 Systems analysis
 Software engineering
+Diagrams
+Systems analysis
+Software engineering
 -1
 Campaign finance in the United States
 Lobbying in the United States
 Campaign finance in the United States
 Political funding
+Lobbying in the United States
+Campaign finance in the United States
+Political funding
 -1
 American war crimes
+American war crimes
+War crimes committed by country
 American war crimes
 War crimes committed by country
 -1
@@ -3875,6 +6026,65 @@ Persecution of Buddhists
 Persecution of Christians
 Persecution of Muslims
 War crimes in Cambodia
+Cambodian genocide
+1970s in Cambodia
+1975 in Cambodia
+1976 in Cambodia
+1978 in Cambodia
+1979 in Cambodia
+Anti-Chinese violence in Asia
+Anti-Vietnamese sentiment
+Anti-intellectualism
+Communist terrorism
+Democratic Kampuchea
+Ethnic cleansing in Asia
+Persecution of ethnic groups by communist regimes
+Politicides
+Genocides
+Genocides in Asia
+History of Cambodia
+Human rights in Cambodia
+Khmer Rouge
+Massacres in Cambodia
+Murder in Cambodia
+Religious persecution by communists
+Political and cultural purges
+Persecution of Buddhists
+Persecution of Christians
+Persecution of Muslims
+War crimes in Cambodia
+-1
+Information management
+Information
+Information technology
+Information management
+Information systems
+Works about information
+-1
+Films scored by Bernard Herrmann
+Best Original Music Score Academy Award winners
+American male classical composers
+American classical composers
+American film score composers
+Male film score composers
+American people of Russian-Jewish descent
+20th-century classical composers
+Jewish American classical musicians
+Jewish American classical composers
+American opera composers
+Male opera composers
+1911 births
+1975 deaths
+Juilliard School alumni
+Musicians from New York City
+New York University alumni
+Guggenheim Fellows
+Burials at Beth David Cemetery
+String quartet composers
+DeWitt Clinton High School alumni
+20th-century American composers
+Classical musicians from New York (state)
+20th-century American male musicians
 -1
 Political repression in China
 Human rights in China
@@ -3882,8 +6092,22 @@ Political controversies in China
 Political repression in China
 Political abuses of psychiatry
 Torture in China
+Human rights in China
+Political controversies in China
+Political repression in China
+Political abuses of psychiatry
+Torture in China
 -1
 Human rights abuses
+Human rights
+Legal doctrines and principles
+Philosophy
+Culture
+Society
+Politics
+Law and economics
+International relations
+Theories of law
 Human rights
 Legal doctrines and principles
 Philosophy
@@ -3935,6 +6159,10 @@ Politburo of the Communist Party of China
 2017 establishments in China
 Xi Jinping
 Li Keqiang
+Politburo of the Communist Party of China
+2017 establishments in China
+Xi Jinping
+Li Keqiang
 -1
 Total institutions
 Total institutions
@@ -3944,6 +6172,17 @@ Types of organization
 Sociological terminology
 Functionalism (social theory)
 Erving Goffman
+Total institutions
+Social phenomena
+Social philosophy
+Types of organization
+Sociological terminology
+Functionalism (social theory)
+Erving Goffman
+-1
+Culture in London
+Culture by city in England
+Culture in London
 -1
 South Asian countries
 Regions of Asia
@@ -3968,6 +6207,22 @@ Crime
 Dispute resolution
 Violence
 Human behavior
+Social conflict
+Ethics
+Crime
+Dispute resolution
+Violence
+Human behavior
+-1
+Big band bandleaders
+American jazz bandleaders
+-1
+Lists of American films
+Lists of film lists
+Lists of American films
+American films
+Lists of American films by year
+Lists of films by country of production
 -1
 Formal statements
 Formal sciences
@@ -3982,6 +6237,16 @@ Branches of science
 Sociology of law
 Sociology of law
 Jurisprudence
+Sociology of law
+Jurisprudence
+-1
+Films set in Montreal
+Montreal in fiction
+Films shot in Montreal
+Films set in Montreal
+Lists of films by setting
+Montreal-related lists
+Lists of films shot in Canada
 -1
 Mayo Clinic
 Hospitals in Minnesota
@@ -3992,11 +6257,40 @@ Medical and health organizations based in Minnesota
 1889 establishments in Minnesota
 Organizations established in 1889
 Non-profit organizations based in Minnesota
+Hospitals in Minnesota
+Buildings and structures in Rochester, Minnesota
+Mayo Clinic
+Webby Award winners
+Medical and health organizations based in Minnesota
+1889 establishments in Minnesota
+Organizations established in 1889
+Non-profit organizations based in Minnesota
+-1
+American horror thriller films
+Lists of film lists
+Lists of horror films
+Horror films
+Lists of films by genre
 -1
 IEEE standards
 IEEE standards
 Standards organizations in the United States
 Institute of Electrical and Electronics Engineers
+-1
+Operating system families
+1985 software
+Computer-related introductions in 1985
+Computing platforms
+Microsoft Windows
+Microsoft franchises
+Personal computers
+Microsoft operating systems
+Operating system families
+-1
+Italian films
+Lists of film lists
+Lists of Italian films
+Lists of films by country of production
 -1
 Software development process
 Software development process
@@ -4006,13 +6300,22 @@ Software engineering
 2010 in United States case law
 United States law
 United States federal law
+United States law
+United States federal law
 -1
 United States elections case law
 United States Second Amendment case law
 United States case law lists
 Gun politics in the United States
+United States Second Amendment case law
+United States case law lists
+Gun politics in the United States
 -1
 Philosophy of law
+Legal ethics
+Social philosophy
+Philosophy of law
+Philosophy of science by discipline
 Legal ethics
 Social philosophy
 Philosophy of law
@@ -4027,8 +6330,27 @@ Linguistic controversies
 Propaganda techniques
 Self-censorship
 Taboo
+Euphemisms
+Censorship
+Connotation
+Figures of speech
+Linguistic controversies
+Propaganda techniques
+Self-censorship
+Taboo
+-1
+Light music composers
+English music
+Easy listening music
+Western classical music styles
+Light music
 -1
 Cultural assimilation
+Cultural assimilation
+Culture
+Culture terminology
+Ethnicity in politics
+Majority–minority relations
 Cultural assimilation
 Culture
 Culture terminology
@@ -4055,6 +6377,22 @@ Applied linguistics
 Narratology
 Critical thinking skills
 Communication studies
+Rhetoric
+Applied linguistics
+Narratology
+Critical thinking skills
+Communication studies
+-1
+david i services
+Financial markets
+Financial services
+-1
+Mystery drama films
+Television channels and stations established in 2004
+Conservative media in the United States
+English-language television stations in the United States
+Hallmark Cards
+Movie channels in the United States
 -1
 1912 establishments in India
 1912 establishments in India
@@ -4096,12 +6434,39 @@ Khmer Rouge
 Republicanism in Cambodia
 Totalitarian states
 Former polities of the Cold War
+Democratic Kampuchea
+1975 establishments in Cambodia
+1979 disestablishments in Cambodia
+Atheist states
+Communism in Cambodia
+Communist states
+Former countries in Cambodian history
+Former member states of the United Nations
+Former socialist republics
+Khmer Rouge
+Republicanism in Cambodia
+Totalitarian states
+Former polities of the Cold War
 -1
 Communist rulers
 Books about China
 Book censorship in China
 2010 non-fiction books
 Censored books
+Books about China
+Book censorship in China
+2010 non-fiction books
+Censored books
+-1
+Deaths from cancer in California
+1994 in California
+Chemical accident
+Death conspiracy theories
+Deaths by person in the United States
+Deaths from cancer in California
+Deaths from cervical cancer
+Mysteries
+Conspiracy theories in the United States
 -1
 india com
 India
@@ -4171,6 +6536,7 @@ Member states of the Shanghai Cooperation Organisation
 -1
 Islam in China
 Islam in China
+Islam in China
 -1
 relations diagram
 Graphical concepts in set theory
@@ -4204,13 +6570,85 @@ Consumer protection law
 Consumer protection
 Consumer protection law
 -1
+Telehealth
+Telehealth
+Telecommunication services
+Health informatics
+Technology in society
+Assistive technology
+-1
+Films scored by Herbie Hancock
+Herbie Hancock
+1940 births
+20th-century American composers
+20th-century American keyboardists
+20th-century American pianists
+20th-century classical composers
+20th-century classical pianists
+21st-century American composers
+21st-century American keyboardists
+21st-century American pianists
+21st-century classical composers
+21st-century classical pianists
+African-American classical composers
+African-American classical pianists
+African-American jazz composers
+African-American jazz pianists
+African-American songwriters
+American Buddhists
+American classical pianists
+American funk keyboardists
+American jazz bandleaders
+American jazz keyboardists
+American jazz pianists
+American male pianists
+American male singer-songwriters
+American rhythm and blues keyboardists
+American singer-songwriters
+American songwriters
+American soul keyboardists
+Avant-garde jazz musicians
+Best Original Music Score Academy Award winners
+Blue Note Records artists
+Converts to Buddhism
+Converts to Sōka Gakkai
+Grammy Lifetime Achievement Award winners
+Grinnell College alumni
+Hard bop pianists
+Jazz-funk pianists
+Jazz fusion pianists
+Jazz musicians from Illinois
+Kennedy Center honorees
+Keytarists
+Living people
+Male jazz composers
+Members of Sōka Gakkai
+Miles Davis Quintet members
+Modal jazz pianists
+Nichiren Buddhists
+Post-bop pianists
+Singers from Chicago
+Soul-jazz keyboardists
+The Headhunters members
+V.S.O.P. (group) members
+-1
 Culture of Baltimore
 Culture of Baltimore
 Culture of Baltimore
 Culture of Baltimore
 Culture of Baltimore
 -1
+Best Original Song Academy Award-winning songwriters
+Academy Awards
+Best Original Music Score Academy Award winners
+Film awards for best score
+Awards established in 1935
+-1
 Racism in China
+Chinese culture
+Racism by country
+Racism in China
+Separatism in China
 Chinese culture
 Racism by country
 Racism in China
@@ -4219,8 +6657,14 @@ Separatism in China
 Internments
 Internments
 Total institutions
+Internments
+Total institutions
 -1
 Wars involving the People's Republic of China
+Wars involving the People's Republic of China
+Lists of wars by country
+Military history of the People's Republic of China
+China-related lists
 Wars involving the People's Republic of China
 Lists of wars by country
 Military history of the People's Republic of China
@@ -4312,6 +6756,16 @@ Russia–Uzbekistan relations
 Tajikistan–Uzbekistan relations
 United Nations General Assembly observers
 -1
+1900 births
+1900
+-1
+cam scanner
+Image scanners
+Mobile applications
+Android malware
+Android (operating system) software
+IOS software
+-1
 Watermarking
 Philatelic terminology
 Money forgery
@@ -4321,6 +6775,9 @@ Stationery
 Banknotes
 Italian inventions
 -1
+Lists of buildings and structures in Minnesota
+Skyscrapers in Minnesota
+Lists of tallest buildings in the United States
 Lists of buildings and structures in Minnesota
 Skyscrapers in Minnesota
 Lists of tallest buildings in the United States
@@ -4369,6 +6826,38 @@ Deaths from stomach cancer
 Deaths from cancer in Pennsylvania
 Symbolic interactionism
 Erving Goffman
+1922 births
+1982 deaths
+American sociologists
+Canadian expatriate academics in the United States
+Canadian non-fiction writers
+Canadian people of Ukrainian-Jewish descent
+Guggenheim Fellows
+Social critics
+Jewish Canadian sociologists
+Jewish Canadian writers
+People from the County of Minburn No. 27
+People from the Municipal District of Wainwright No. 61
+Presidents of the American Sociological Association
+Social psychologists
+University of Manitoba alumni
+University of Toronto alumni
+University of Chicago alumni
+University of California, Berkeley College of Letters and Science faculty
+University of Pennsylvania faculty
+Writers from Alberta
+Deaths from stomach cancer
+Deaths from cancer in Pennsylvania
+Symbolic interactionism
+Erving Goffman
+-1
+Films featuring a Best Supporting Actress Golden Globe-winning performance
+2020 awards
+2019 film awards
+2019 television awards
+Golden Globe Awards ceremonies
+2020 in California
+2020 awards in the United States
 -1
 Environmental economics
 Environmental economics
@@ -4394,6 +6883,19 @@ History of the Supreme Court of the United States
 United States Supreme Court cases
 United States case law lists
 Lists of United States Supreme Court opinions by status
+Lists of United States Supreme Court cases
+History of the Supreme Court of the United States
+United States Supreme Court cases
+United States case law lists
+Lists of United States Supreme Court opinions by status
+-1
+Lists of films by setting
+Films set in Pennsylvania
+Films shot in Pennsylvania
+Lists of films by setting
+Lists of films shot in the United States
+Lists of television series by setting
+Television shows set in Pennsylvania
 -1
 Business terms
 Business-related lists
@@ -4405,7 +6907,25 @@ Wikipedia glossaries
 Business-related lists
 Wikipedia glossaries
 -1
+Autism-related organizations in the United States
+Autism-related organizations in the United States
+Organizations established in 2005
+2005 establishments in the United States
+Mental health organizations in New York (state)
+-1
+Technology in society
+Technology in society
+Theories of history
+Sociological theories
+Technological change
+-1
 Counter-terrorism
+Counter-terrorism
+Law enforcement
+Terrorism
+Security
+National security
+Public safety
 Counter-terrorism
 Law enforcement
 Terrorism
@@ -4427,6 +6947,13 @@ Programming paradigms
 Programming language classification
 Programming language topics
 -1
+Telemedicine
+Telehealth
+Telecommunication services
+Health informatics
+Technology in society
+Assistive technology
+-1
 Organizations established in 1985
 1985 establishments in the United States
 Organizations established in 1985
@@ -4440,6 +6967,45 @@ Native American topics
 1985 establishments in the United States
 Organizations established in 1985
 Native American topics
+-1
+Fresh Sounds Records artists
+1922 births
+2001 deaths
+People born at sea
+Dominican Republic music arrangers
+Jazz baritone saxophonists
+Impulse! Records artists
+Columbia Records artists
+RCA Records artists
+People from Samaná Province
+People from Croton-on-Hudson, New York
+20th-century saxophonists
+Fresh Sounds Records artists
+Solid State Records artists
+-1
+Google software
+2008 software
+Android web browsers
+C++ software
+Cloud clients
+Companies' terms of service
+Computer-related introductions in 2008
+Cross-platform web browsers
+Embedded Linux
+Freeware
+Free web browsers
+Google Chrome
+Google software
+IOS web browsers
+Linux web browsers
+MacOS web browsers
+Portable software
+Proprietary cross-platform software
+Site-specific browsing
+Software based on WebKit
+Software that uses FFmpeg
+Web browsers that use GTK
+Windows web browsers
 -1
 American Public Media
 American Public Media
@@ -4448,6 +7014,19 @@ Organizations based in Saint Paul, Minnesota
 Organizations established in 2004
 Non-profit organizations based in Minnesota
 Radio stations established in 2004
+American Public Media
+2004 establishments in the United States
+Organizations based in Saint Paul, Minnesota
+Organizations established in 2004
+Non-profit organizations based in Minnesota
+Radio stations established in 2004
+-1
+Lists of American films by year
+Lists of film lists
+Lists of American films
+American films
+Lists of American films by year
+Lists of films by country of production
 -1
 India politics-related lists
 Government schemes in India
@@ -4463,10 +7042,17 @@ Government schemes in India
 India politics-related lists
 India government-related lists
 -1
+American film score composers
+Film scores
+-1
+History of the Supreme Court of the United States
 History of the Supreme Court of the United States
 History of the Supreme Court of the United States
 -1
 Autonomous regions of China
+Autonomous regions of China
+Autonomous administrative divisions of China
+Province-level divisions of China
 Autonomous regions of China
 Autonomous administrative divisions of China
 Province-level divisions of China
@@ -4482,6 +7068,9 @@ Foreign relations of Russia
 Politics of Russia
 -1
 General Secretaries and Chairmen of the Communist Party of China
+General Secretaries and Chairmen of the Communist Party of China
+Leaders of political parties in China
+1921 establishments in China
 General Secretaries and Chairmen of the Communist Party of China
 Leaders of political parties in China
 1921 establishments in China
@@ -4544,6 +7133,26 @@ Concepts in metaphysics
 Information
 Information science
 -1
+patriot guards
+Motorcycle clubs in the United States
+Westboro Baptist Church
+Organizations established in 2005
+2005 establishments in Kansas
+-1
+Calvinist denominations established in the 20th century
+United Reformed Church
+United and uniting churches
+Congregationalist denominations
+Congregationalism in the United Kingdom
+Reformed denominations in the United Kingdom
+Members of the World Alliance of Reformed Churches
+Members of the World Council of Churches
+Organisations based in the London Borough of Camden
+Religion in the London Borough of Camden
+1972 establishments in the United Kingdom
+Christian organizations established in 1972
+Calvinist denominations established in the 20th century
+-1
 College Park, Maryland
 College Park, Maryland
 1856 establishments in Maryland
@@ -4594,6 +7203,21 @@ Republic of China journalists
 Republic of China philosophers
 Writers from Wuxi
 Victims of the Anti-Rightist Campaign
+1909 births
+1960s missing person cases
+1966 deaths
+Alumni of the London School of Economics
+Guangming Daily people
+Missing person cases in China
+People from Yixing
+People persecuted to death during the Cultural Revolution
+People's Republic of China journalists
+People's Republic of China philosophers
+Philosophers from Zhejiang
+Republic of China journalists
+Republic of China philosophers
+Writers from Wuxi
+Victims of the Anti-Rightist Campaign
 -1
 Written communication
 Writing
@@ -4613,14 +7237,25 @@ United States corporate case law
 Political controversies in the United States
 Collective rights
 Corporate personhood
+United States corporate case law
+Political controversies in the United States
+Collective rights
+Corporate personhood
 -1
 Genocides in Asia
+Genocides
 Genocides
 -1
 Companies based in Tallinn
 Lists of companies of Estonia
+Lists of companies of Estonia
 -1
 Lists of award winners
+Lists of literature lists
+Lists of Sahitya Akademi Award winners
+Indian literature
+Sahitya Akademi
+Lists of Indian award winners
 Lists of literature lists
 Lists of Sahitya Akademi Award winners
 Indian literature
@@ -4652,6 +7287,35 @@ Arts organizations established in 1947
 Arts organizations established in 1999
 1947 establishments in the United Kingdom
 Music licensing organizations
+-1
+Film producers from California
+1972 births
+African-American film directors
+African-American film producers
+African-American screenwriters
+African-American television directors
+African-American television producers
+American film producers
+American people of Creole descent
+American people of French descent
+American publicists
+American television directors
+American women film directors
+American women film producers
+American women screenwriters
+Film directors from California
+Film producers from California
+Living people
+Louisiana Creole people
+People from Lynwood, California
+Primetime Emmy Award winners
+Screenwriters from California
+Television producers from California
+University of California, Los Angeles alumni
+Women television directors
+Women television producers
+Women television writers
+Writers from Long Beach, California
 -1
 gam station process focus
 Educational institutions established in 1947
@@ -4719,6 +7383,33 @@ Persecution of Buddhists
 Persecution of Christians
 Persecution of Muslims
 War crimes in Cambodia
+Cambodian genocide
+1970s in Cambodia
+1975 in Cambodia
+1976 in Cambodia
+1978 in Cambodia
+1979 in Cambodia
+Anti-Chinese violence in Asia
+Anti-Vietnamese sentiment
+Anti-intellectualism
+Communist terrorism
+Democratic Kampuchea
+Ethnic cleansing in Asia
+Persecution of ethnic groups by communist regimes
+Politicides
+Genocides
+Genocides in Asia
+History of Cambodia
+Human rights in Cambodia
+Khmer Rouge
+Massacres in Cambodia
+Murder in Cambodia
+Religious persecution by communists
+Political and cultural purges
+Persecution of Buddhists
+Persecution of Christians
+Persecution of Muslims
+War crimes in Cambodia
 -1
 United States Supreme Court cases
 Lists of law lists
@@ -4727,11 +7418,33 @@ United States Supreme Court cases
 United States case law lists
 Case law lists by court
 United States history-related lists
+Lists of law lists
+Lists of United States Supreme Court cases
+United States Supreme Court cases
+United States case law lists
+Case law lists by court
+United States history-related lists
+-1
+American racehorse owners and breeders
+1963 births
+Living people
+21st-century American businesspeople
+American racehorse owners and breeders
+People from Kentucky
+American horse racing biography stubs
 -1
 Civil service in the United States
 Civil service in the United States
 Civil services
 1871 establishments in the United States
+-1
+Counterculture of the 1960s
+Counterculture of the 1960s
+1960s
+1970s
+Anti-war protests
+British Invasion
+Counterculture
 -1
 American mathcore musical groups
 Musical groups established in 2002
@@ -4741,7 +7454,21 @@ American noise rock music groups
 Heavy metal musical groups from Rhode Island
 Musical groups reestablished in 2013
 Musical groups from Providence, Rhode Island
+Musical groups established in 2002
+American mathcore musical groups
+Musical groups disestablished in 2009
+American noise rock music groups
+Heavy metal musical groups from Rhode Island
+Musical groups reestablished in 2013
+Musical groups from Providence, Rhode Island
 -1
+English-language films
+English-language Indian films
+-1
+Electronic health records
+Electronic health records
+-1
+Constitutional law
 Constitutional law
 Constitutional law
 -1
@@ -4759,6 +7486,47 @@ Chinese expatriates in the United States
 21st-century architects
 Taiwanese expatriates in the United States
 20th-century Chinese architects
+1925 births
+Taiwanese architects
+Taiwanese women architects
+Living people
+People from Beijing
+National Central University alumni
+University of Washington alumni
+Columbia Graduate School of Architecture, Planning and Preservation alumni
+Tamkang University faculty
+Chinese expatriates in the United States
+21st-century architects
+Taiwanese expatriates in the United States
+20th-century Chinese architects
+-1
+Films directed by Alfred Hitchcock
+Alfred Hitchcock
+Director filmographies
+Films directed by Alfred Hitchcock
+-1
+American flautists
+Flautists
+Lists of musicians by instrument
+-1
+Films directed by Mervyn LeRoy
+1900 births
+1987 deaths
+American male film actors
+American male silent film actors
+Film producers from California
+American racehorse owners and breeders
+Deaths from Alzheimer's disease
+Jewish American male actors
+Male actors from San Francisco
+Vaudeville performers
+Film directors from California
+Burials at Forest Lawn Memorial Park (Glendale)
+20th-century American male actors
+Cecil B. DeMille Award Golden Globe winners
+20th-century American businesspeople
+Jewish writers
+American writers
 -1
 Political and cultural purges
 Political and cultural purges
@@ -4766,13 +7534,59 @@ Political repression
 Persecution
 Informal legal terminology
 Historical negationism
+Political and cultural purges
+Political repression
+Persecution
+Informal legal terminology
+Historical negationism
+-1
+American writers
+Lists of literature lists
+Lists of American writers
+Lists of lists of people
 -1
 Politicides
 Politicides
 Definitions
 Human rights abuses
+Politicides
+Definitions
+Human rights abuses
+-1
+Records management technology
+Information technology management
+Content management systems
+Public records
+Records management
 -1
 Massacres in Cambodia
+Cambodian genocide
+1970s in Cambodia
+1975 in Cambodia
+1976 in Cambodia
+1978 in Cambodia
+1979 in Cambodia
+Anti-Chinese violence in Asia
+Anti-Vietnamese sentiment
+Anti-intellectualism
+Communist terrorism
+Democratic Kampuchea
+Ethnic cleansing in Asia
+Persecution of ethnic groups by communist regimes
+Politicides
+Genocides
+Genocides in Asia
+History of Cambodia
+Human rights in Cambodia
+Khmer Rouge
+Massacres in Cambodia
+Murder in Cambodia
+Religious persecution by communists
+Political and cultural purges
+Persecution of Buddhists
+Persecution of Christians
+Persecution of Muslims
+War crimes in Cambodia
 Cambodian genocide
 1970s in Cambodia
 1975 in Cambodia
@@ -4806,8 +7620,40 @@ Culture
 Social concepts
 Social constructionism
 Main topic articles
+Culture
+Social concepts
+Social constructionism
+Main topic articles
+-1
+British mystery thriller films
+2003 films
+2000s erotic thriller films
+2000s independent films
+2000s psychological thriller films
+British erotic thriller films
+British films
+British independent films
+British mystery thriller films
+British psychological thriller films
+English-language French films
+Erotic mystery films
+Films about sexual repression
+Films about writers
+Films directed by François Ozon
+Films set in France
+Films shot in France
+French erotic films
+French films
+French independent films
+French mystery thriller films
+French psychological thriller films
+French-language films
+2000s mystery thriller films
 -1
 2009 in Estonian television
+2009 in Estonian television
+European television stubs
+Estonian media stubs
 2009 in Estonian television
 European television stubs
 Estonian media stubs
@@ -4817,7 +7663,14 @@ Buildings and structures in Rochester, Minnesota
 Skyscrapers in Rochester, Minnesota
 Lists of buildings and structures in Minnesota
 Lists of tallest buildings in the United States by city
+Buildings and structures in Rochester, Minnesota
+Skyscrapers in Rochester, Minnesota
+Lists of buildings and structures in Minnesota
+Lists of tallest buildings in the United States by city
 -1
+Engineering disciplines
+Engineering occupations
+Engineering-related lists
 Engineering disciplines
 Engineering occupations
 Engineering-related lists
@@ -4843,7 +7696,22 @@ Engineering
 Mechanical engineering
 Systems engineering
 -1
+Montreal in fiction
+Montreal in fiction
+Films shot in Montreal
+Films set in Montreal
+Lists of films by setting
+Montreal-related lists
+Lists of films shot in Canada
+-1
 Public safety
+Emergency services
+Crime
+Law enforcement
+Justice
+Public sphere
+Public safety
+Public safety communications
 Emergency services
 Crime
 Law enforcement
@@ -4857,9 +7725,21 @@ Racism
 Discrimination
 Hatred
 Politics and race
+Racism
+Discrimination
+Hatred
+Politics and race
+-1
+Protozoa Pictures films
+Film production companies of the United States
+Media companies based in New York City
+1997 establishments in New York (state)
+Darren Aronofsky
+American film company stubs
 -1
 Scientific terminology
 Scientific terminology
+Scientific terminology
 -1
 Development economics
 Development economics
@@ -4874,6 +7754,10 @@ Economic globalization
 Development economics
 Development studies
 Economic globalization
+-1
+1994 deaths
+Lists of lists of people
+Lists of deaths by year
 -1
 Electronic music discographies
 Discographies of American artists
@@ -4883,6 +7767,10 @@ The Chainsmokers
 Engineering statistics
 Engineering
 Engineering statistics
+-1
+God in fiction
+Religion in popular culture
+God in fiction
 -1
 Lists of location lists
 Body swapping in films
@@ -4972,6 +7860,11 @@ Abuse
 Anti-social behaviour
 Barriers to critical thinking
 Discrimination
+Prejudices
+Abuse
+Anti-social behaviour
+Barriers to critical thinking
+Discrimination
 -1
 i ane sight
 Discographies of American artists
@@ -5021,7 +7914,30 @@ Working-class culture in Baltimore
 -1
 Racism by country
 Racism by country
+Racism by country
 -1
+Organizations based in Topeka, Kansas
+Cities in Kansas
+Cities in Shawnee County, Kansas
+County seats in Kansas
+Populated places established in 1854
+Topeka, Kansas
+Topeka metropolitan area
+1854 establishments in Kansas Territory
+Capitals of Kansas
+-1
+Adultery in films
+1989 films
+Korean-language films
+South Korean erotic drama films
+Adultery in films
+South Korean films
+1980s erotic drama films
+South Korean film stubs
+Erotic film stubs
+-1
+Persecution
+Abuse
 Persecution
 Abuse
 Persecution
@@ -5031,7 +7947,29 @@ Engineering disciplines
 Engineering statistics
 Industrial engineering
 -1
+Short stories adapted into films
+1967 short stories
+Anti-war books
+Autobiographies
+Japanese short stories
+Short stories adapted into films
+World War II short stories
+Fiction set in 1945
+Children and death
+-1
+1960s mystery films
+Film genres
+Mystery films
+Mystery fiction
+Suspense
+Thrillers
+-1
 Eurovision Song Contest selection events
+Eurovision Song Contest 2020
+2020 in the Netherlands
+2020 song contests
+Eurovision Song Contest by year
+Scheduled events
 Eurovision Song Contest 2020
 2020 in the Netherlands
 2020 song contests
@@ -5056,6 +7994,22 @@ Software project management
 Computer occupations
 Product development
 -1
+1955 establishments in Kansas
+1955 establishments in Kansas
+Antisemitism in the United States
+Anti-Zionism in the United States
+Baptist churches in Kansas
+Calvinist denominations established in the 20th century
+Homosexuality and Baptist churches
+Organizations based in Topeka, Kansas
+Organizations that oppose LGBT rights in the United States
+Obscenity controversies
+Christian organizations established in 1955
+Westboro Baptist Church
+Protestantism-related controversies
+-1
+Communist terrorism
+Terrorism by form
 Communist terrorism
 Terrorism by form
 Communist terrorism
@@ -5065,6 +8019,17 @@ Terrorism in China
 Foreign relations of China
 Crime in China
 Terrorism by country
+Terrorism in China
+Foreign relations of China
+Crime in China
+Terrorism by country
+-1
+Films set in California
+Films set in Palm Springs, California
+Television shows set in Palm Springs, California
+Lists of films by setting
+Lists of television series by setting
+Cinema of Southern California
 -1
 Science and technology in Pakistan
 Science and technology in Pakistan
@@ -5080,12 +8045,44 @@ Estonian music
 2009 in Estonian television
 2009 Estonian television series debuts
 Eesti Laul
+Eurovision Song Contest selection events
+Estonia in the Eurovision Song Contest
+Estonian music
+2000s Estonian television series
+2009 in Estonian television
+2009 Estonian television series debuts
+Eesti Laul
+-1
+Grammy Lifetime Achievement Award winners
+Grammy Awards
+Music halls of fame
+Lifetime achievement awards
+Awards established in 1962
+Grammy Lifetime Achievement Award winners
 -1
 United States history-related lists
 Lists of states of the United States
 United States geography-related lists
 United States history-related lists
 United States history timelines
+Lists of states of the United States
+United States geography-related lists
+United States history-related lists
+United States history timelines
+-1
+Baptist churches in Kansas
+1955 establishments in Kansas
+Antisemitism in the United States
+Anti-Zionism in the United States
+Baptist churches in Kansas
+Calvinist denominations established in the 20th century
+Homosexuality and Baptist churches
+Organizations based in Topeka, Kansas
+Organizations that oppose LGBT rights in the United States
+Obscenity controversies
+Christian organizations established in 1955
+Westboro Baptist Church
+Protestantism-related controversies
 -1
 Configuration management
 Configuration management
@@ -5095,6 +8092,26 @@ Version control systems
 Computer occupations
 Systems engineering
 -1
+Alphabet Inc.
+Companies in the NASDAQ-100 Index
+Companies listed on NASDAQ
+Alphabet Inc.
+2015 establishments in California
+American companies established in 2015
+Companies based in Mountain View, California
+Companies based in Silicon Valley
+Computer-related introductions in 2015
+Conglomerate companies established in 2015
+Conglomerate companies of the United States
+Google
+Holding companies established in 2015
+Holding companies of the United States
+Multinational companies headquartered in the United States
+Technology companies based in the San Francisco Bay Area
+Technology companies established in 2015
+Video game companies based in California
+Biotechnology companies of the United States
+-1
 Member states of the Commonwealth of Nations
 Member states of the Commonwealth of Nations
 Commonwealth of Nations-related lists
@@ -5113,6 +8130,16 @@ Commonwealth of Nations-related lists
 History of the Commonwealth of Nations
 Countries by international organization
 -1
+Image scanners
+Image scanners
+Information management
+Office equipment
+Records management
+Records management technology
+-1
+Religious riots
+Religion and violence
+Dispute resolution
 Religious riots
 Religion and violence
 Dispute resolution
@@ -5428,10 +8455,27 @@ Thought
 Truth
 Unsolved problems in neuroscience
 -1
+1987 deaths
+Lists of lists of people
+Lists of deaths by year
+-1
 Religion-based wars
 Religion-based wars
 Wars by type
 Religious behaviour and experience
+Religion-based wars
+Wars by type
+Religious behaviour and experience
+-1
+Mobile Linux
+Linux
+Mobile Linux
+-1
+Metro-Goldwyn-Mayer films
+Metro-Goldwyn-Mayer films
+Lists of films by studio
+American films by studio
+Metro-Goldwyn-Mayer
 -1
 Flora of Western Asia
 Amaranthaceae
@@ -5472,8 +8516,20 @@ Subdivisions of Iran
 Lists of country subdivisions
 Country subdivisions in Asia
 Iran geography-related lists
+Provinces of Iran
+Regions of Iran
+Subdivisions of Iran
+Lists of country subdivisions
+Country subdivisions in Asia
+Iran geography-related lists
 -1
 Governors of Zhejiang
+Zhejiang
+Provinces of the People's Republic of China
+East China
+Yangtze River Delta
+Wu (region)
+States and territories established in 1368
 Zhejiang
 Provinces of the People's Republic of China
 East China
@@ -5483,12 +8539,22 @@ States and territories established in 1368
 -1
 Muslim communities of China
 Islam in China
+Islam in China
 -1
 Personal development
 Personal development
 Personal development
 Personal development
 Personal development
+-1
+2005 establishments in Kansas
+Private schools
+Private schools in Kansas
+Roman Catholic Archdiocese of Kansas City in Kansas
+Catholic secondary schools in Kansas
+Schools in Johnson County, Kansas
+Educational institutions established in 2005
+2005 establishments in Kansas
 -1
 Foreign exchange market
 Foreign exchange market
@@ -5542,6 +8608,11 @@ Communication
 Human behavior
 Psychology experiments
 -1
+Private schools in Kansas
+Universities and colleges in Kansas
+Lists of universities and colleges by U.S. state
+Kansas education-related lists
+-1
 Linens
 Linens
 Home
@@ -5557,6 +8628,21 @@ Industrial engineering
 Engineering disciplines
 Manufacturing
 Operations research
+-1
+20th-century American male actors
+1958 births
+Living people
+Male actors from Chicago
+American male film actors
+American male television actors
+American male screenwriters
+American television writers
+American people of Irish descent
+People from Wilmette, Illinois
+20th-century American male actors
+21st-century American male actors
+Male television writers
+Screenwriters from Illinois
 -1
 level quantitative process management
 Maturity models
@@ -5590,14 +8676,29 @@ Knowledge representation
 -1
 Historical regions
 Historical regions
+Historical regions
 -1
 Sent-down youths
 Sent-down youths
 Cold War history of China
 Maoist terminology
 Cultural Revolution
+Sent-down youths
+Cold War history of China
+Maoist terminology
+Cultural Revolution
 -1
 Ethnic cleansing
+Ethnic cleansing
+Collective punishment
+Discrimination
+Euphemisms
+Ethnic conflict
+Forced migration
+Human rights abuses
+Persecution
+Racism
+Violence
 Ethnic cleansing
 Collective punishment
 Discrimination
@@ -5618,6 +8719,10 @@ Regions of Asia
 South Asia
 Regions of Asia
 South Asia
+-1
+1989 films
+Film by year
+1989 in film
 -1
 Philosophy of love
 Philosophy of love
@@ -5672,6 +8777,24 @@ Terrorism in China
 Separatism in China
 Wars involving the People's Republic of China
 Uyghurs
+Xinjiang conflict
+20th-century conflicts
+21st-century conflicts
+East Turkestan independence movement
+Ongoing conflicts
+Opposition to Islam in China
+Persecution of ethnic groups by communist regimes
+Religion-based wars
+Terrorism in China
+Separatism in China
+Wars involving the People's Republic of China
+Uyghurs
+-1
+American people of Italian descent
+American people of Italian descent
+Lists of American people of Italian descent
+American businesspeople by ethnicity
+Lists of businesspeople
 -1
 Anti-Muslim violence in India
 Violence against Muslims
@@ -5679,7 +8802,24 @@ Religious riots
 Riots and civil disorder in India
 Anti-Muslim violence in India
 India–Pakistan relations
+Violence against Muslims
+Religious riots
+Riots and civil disorder in India
+Anti-Muslim violence in India
+India–Pakistan relations
 -1
+Films set in London
+Films set in London
+Films shot in England
+London in the arts and media
+-1
+Eesti Laul
+Eurovision Song Contest selection events
+Estonia in the Eurovision Song Contest
+Estonian music
+2000s Estonian television series
+2009 in Estonian television
+2009 Estonian television series debuts
 Eesti Laul
 Eurovision Song Contest selection events
 Estonia in the Eurovision Song Contest
@@ -5695,6 +8835,10 @@ Pharmacology stubs
 Demulcents
 Pharmacology stubs
 -1
+Films set in 1960
+1960 in film
+Film by year
+-1
 British inventions
 British inventions
 United Kingdom history-related lists
@@ -5716,10 +8860,54 @@ United Kingdom history-related lists
 Lists of inventions or discoveries
 United Kingdom science-related lists
 Economy of the United Kingdom-related lists
+-1
+Animation composers
+Hans Zimmer
+1957 births
+20th-century German composers
+21st-century German composers
+Animation composers
+Annie Award winners
+Best Original Music Score Academy Award winners
+Decca Records artists
+Disney people
+DreamWorks Animation people
+German expatriates in the United Kingdom
+German expatriates in the United States
+German film score composers
+German Jews
+German classical composers
+German male classical composers
+Male classical composers
+German record producers
+German television composers
+Golden Globe Award-winning musicians
+Grammy Award winners
+Jewish classical composers
+Living people
+Male film score composers
+Male television composers
+Musicians from Los Angeles
+Officers Crosses of the Order of Merit of the Federal Republic of Germany
+People educated at Hurtwood House
+People from Frankfurt
+Video game composers
+Walt Disney Animation Studios people
 -1
 Collective punishment
 Collective punishment
 Collectivism
+Collective punishment
+Collectivism
+-1
+20th-century American composers
+20th-century classical composers
+Lists of composers
+Lists of 20th-century people
+-1
+Electronic publishing
+Electronic publishing
+Publishing
 -1
 Graph drawing
 Graph drawing
@@ -5762,6 +8950,13 @@ Venture capital
 Entrepreneurship
 Equity securities
 Corporate finance
+-1
+Antisemitism in the United States
+Antisemitism in the United States
+Anti-Zionism in the United States
+Jews and Judaism in the United States
+Judaism-related controversies
+Antisemitism by country
 -1
 Banknotes
 Paper products
@@ -5772,6 +8967,22 @@ Written communication
 Ancient inventions
 -1
 1970s in Cambodia
+Former countries in Cambodian history
+Former kingdoms
+Former monarchies of Asia
+Former polities of the Cold War
+Former polities of the Indochina Wars
+1950s in Cambodia
+1960s in Cambodia
+1970 in Cambodia
+States and territories established in 1953
+States and territories disestablished in 1970
+1953 establishments in Cambodia
+1970 disestablishments in Cambodia
+20th century in Cambodia
+Former countries in Southeast Asia
+Former member states of the United Nations
+Former monarchies of Southeast Asia
 Former countries in Cambodian history
 Former kingdoms
 Former monarchies of Asia
@@ -5799,7 +9010,55 @@ Globalization
 Intergovernmental organizations
 Globalization
 -1
+1960s horror thriller films
+1960 films
+English-language films
+Psycho (franchise) films
+1960 horror films
+1960s horror thriller films
+1960s mystery films
+1960s psychological thriller films
+1960s serial killer films
+1960s slasher films
+American films
+American horror thriller films
+American mystery films
+American psychological horror films
+American serial killer films
+American slasher films
+Films directed by Alfred Hitchcock
+Films produced by Alfred Hitchcock
+Films with screenplays by Joseph Stefano
+Films scored by Bernard Herrmann
+American black-and-white films
+Cross-dressing in American films
+Dissociative identity disorder in films
+Edgar Award-winning works
+Films about psychopaths
+Films based on American horror novels
+Films based on thriller novels
+Films featuring a Best Supporting Actress Golden Globe-winning performance
+Films set in 1959
+Films set in 1960
+Films set in California
+Films set in Phoenix, Arizona
+Films shot in Arizona
+Films shot in California
+Matricide in fiction
+Paramount Pictures films
+Universal Pictures films
+United States National Film Registry films
+Films à clef
+Films based on works by Robert Bloch
+-1
 Radio stations established in 2004
+American radio networks
+Christian media companies
+Christian radio stations in the United States
+Catholic radio stations
+Radio stations in Grand Forks, North Dakota
+Radio stations established in 2004
+2004 establishments in North Dakota
 American radio networks
 Christian media companies
 Christian radio stations in the United States
@@ -5814,7 +9073,26 @@ Lists of lists
 Lists of lists
 Lists of lists
 -1
+1960s mystery thriller films
+Tamil-language films
+1966 films
+1966 horror films
+1960s mystery thriller films
+1960s psychological thriller films
+1960s Tamil-language films
+Indian films
+Indian black-and-white films
+Tamil remakes of Hindi films
+Indian horror thriller films
+Indian mystery thriller films
+Films set in 1960
+Films shot in Ooty
+Films about twin sisters
+Twins in Indian films
+Indian psychological thriller films
+-1
 United States corporate case law
+United States corporate law
 United States corporate law
 -1
 Maturity models
@@ -5822,6 +9100,11 @@ Set indices
 Set indices
 Set indices
 Set indices
+-1
+Assistive technology
+Assistive technology
+Educational technology
+Web accessibility
 -1
 History of the United Nations
 History of the United Nations
@@ -5833,8 +9116,20 @@ patient record
 Medical records
 Health informatics
 Public records
+Medical records
+Health informatics
+Public records
 -1
 Ongoing conflicts
+Lists of armed conflicts by year
+Ongoing conflicts
+Lists of military conflicts
+Lists of battles
+Lists of massacres
+Lists of wars by date
+Lists of wars by region
+History-related lists
+21st-century military history
 Lists of armed conflicts by year
 Ongoing conflicts
 Lists of military conflicts
@@ -5891,8 +9186,40 @@ Persecution of Buddhists
 Persecution of Christians
 Persecution of Muslims
 War crimes in Cambodia
+Cambodian genocide
+1970s in Cambodia
+1975 in Cambodia
+1976 in Cambodia
+1978 in Cambodia
+1979 in Cambodia
+Anti-Chinese violence in Asia
+Anti-Vietnamese sentiment
+Anti-intellectualism
+Communist terrorism
+Democratic Kampuchea
+Ethnic cleansing in Asia
+Persecution of ethnic groups by communist regimes
+Politicides
+Genocides
+Genocides in Asia
+History of Cambodia
+Human rights in Cambodia
+Khmer Rouge
+Massacres in Cambodia
+Murder in Cambodia
+Religious persecution by communists
+Political and cultural purges
+Persecution of Buddhists
+Persecution of Christians
+Persecution of Muslims
+War crimes in Cambodia
 -1
 Social phenomena
+Social phenomena
+Sociological terminology
+Social philosophy
+Phenomena
+Sociology stubs
 Social phenomena
 Sociological terminology
 Social philosophy
@@ -5927,6 +9254,19 @@ Systems thinking
 Software testing
 Source code
 -1
+Routers (computing)
+Routers (computing)
+Internet architecture
+Hardware routers
+Networking hardware
+Server appliance
+Computer networking
+-1
+Cross-dressing in American films
+Cross-dressing in film
+Cross-dressing in television
+Cross-dressing culture
+-1
 Epistemology
 Epistemology
 Epistemology
@@ -5972,6 +9312,27 @@ NFPA Standards
 Safety codes
 NFPA Standards
 Safety codes
+-1
+Cisco software
+Companies in the NASDAQ-100 Index
+Companies listed on NASDAQ
+Cisco Systems
+1984 establishments in California
+American companies established in 1984
+Manufacturing companies based in San Jose, California
+Companies in the Dow Jones Industrial Average
+Computer companies established in 1984
+Deep packet inspection
+Electronics companies established in 1984
+Multinational companies headquartered in the United States
+Networking companies of the United States
+Networking hardware companies
+Technology companies based in the San Francisco Bay Area
+Technology companies established in 1984
+Telecommunications equipment vendors
+Videotelephony
+Companies listed on the Hong Kong Stock Exchange
+1990 initial public offerings
 -1
 Painting materials
 Painting
@@ -6034,6 +9395,10 @@ Persecution of Christians
 Persecution by Hindus
 Persecution of Christians by Muslims
 Religious persecution by communists
+Persecution of Christians
+Persecution by Hindus
+Persecution of Christians by Muslims
+Religious persecution by communists
 -1
 Personal computers
 American inventions
@@ -6063,8 +9428,28 @@ Airlines of Estonia
 Lists of airlines by country
 Lists of companies of Estonia
 Lists of airlines of Europe
+Estonia transport-related lists
+Airlines of Estonia
+Lists of airlines by country
+Lists of companies of Estonia
+Lists of airlines of Europe
+-1
+American jazz musicians
+Jazz
+African-American culture
+African-American history
+African-American music
+American styles of music
+Jazz terminology
+Musical improvisation
+Popular music
+Radio formats
+Traditional music
 -1
 Terrorism
+Terrorism
+Warfare by type
+Words coined in the 1790s
 Terrorism
 Warfare by type
 Words coined in the 1790s
@@ -6102,6 +9487,12 @@ Terrorism
 Security
 National security
 Public safety
+Counter-terrorism
+Law enforcement
+Terrorism
+Security
+National security
+Public safety
 -1
 Paper products
 Paper products
@@ -6117,7 +9508,24 @@ Paper art
 Chinese inventions
 Packaging materials
 -1
+Films produced by Carlo Ponti
+1912 births
+2007 deaths
+People from Magenta, Lombardy
+Italian emigrants to France
+Italian film producers
+Naturalized citizens of France
+David di Donatello winners
+Nastro d'Argento winners
+University of Milan alumni
+Golden Globe Award-winning producers
+-1
 Chamber music
+Chamber music
+Musical forms
+History of European art music
+Western classical music styles
+Musical terminology
 Chamber music
 Musical forms
 History of European art music
@@ -6142,7 +9550,17 @@ Product development
 Industrial design
 Systems engineering
 -1
+Films produced by Alfred Hitchcock
+Alfred Hitchcock
+Director filmographies
+Films directed by Alfred Hitchcock
+-1
 Musical quartets
+Quartets
+Chamber music
+Types of musical groups
+Musical quartets
+Four-part harmony
 Quartets
 Chamber music
 Types of musical groups
@@ -6151,6 +9569,37 @@ Four-part harmony
 -1
 Health informatics
 Health informatics
+Health informatics
+-1
+Male film score composers
+Indian film score composers
+Tamil musicians
+Tamil film score composers
+Musicians from Chennai
+Kannada film score composers
+Living people
+Tamil Nadu State Film Awards winners
+1950 births
+Indian male composers
+Male film score composers
+-1
+Works about health
+Works about the Dutch East India Company
+Works about companies
+Works about colonialism
+Bibliographies
+-1
+1966 films
+Film by year
+1966 in film
+-1
+Films shot in Montreal
+Montreal in fiction
+Films shot in Montreal
+Films set in Montreal
+Lists of films by setting
+Montreal-related lists
+Lists of films shot in Canada
 -1
 States and territories established in 1947
 India politics-related lists
@@ -6170,6 +9619,9 @@ Minnesota-related lists
 Minnesota
 Minnesota-related lists
 Indexes of topics by U.S. state
+Minnesota
+Minnesota-related lists
+Indexes of topics by U.S. state
 -1
 110th United States Congress
 110th United States Congress
@@ -6184,8 +9636,23 @@ Indexes of topics by U.S. state
 Software engineering
 Software engineering
 Engineering disciplines
+Software engineering
+Engineering disciplines
+-1
+Best Original Music Score Academy Award winners
+Academy Awards
+Best Original Music Score Academy Award winners
+Film awards for best score
+Awards established in 1935
 -1
 Recipients of the Order of the Liberator
+Recipients of the Order of the Liberator General San Martin
+Orders, decorations, and medals of Argentina
+José de San Martín
+Orders of chivalry awarded to heads of state, consorts and sovereign family members
+Order, decoration, and medal stubs
+Argentina politics stubs
+South American government stubs
 Recipients of the Order of the Liberator General San Martin
 Orders, decorations, and medals of Argentina
 José de San Martín
@@ -6225,6 +9692,10 @@ Human rights in Cambodia
 Cambodian law
 Politics of Cambodia
 Human rights by country
+Human rights in Cambodia
+Cambodian law
+Politics of Cambodia
+Human rights by country
 -1
 Foreign relations of Nepal
 Foreign relations of Nepal
@@ -6239,7 +9710,14 @@ Years of the 20th century in Cambodia
 1979 by country
 1979 in Southeast Asia
 Cambodia stubs
+1979 in Cambodia
+1970s in Cambodia
+Years of the 20th century in Cambodia
+1979 by country
+1979 in Southeast Asia
+Cambodia stubs
 -1
+History of Cambodia
 History of Cambodia
 History of Cambodia
 -1
@@ -6247,6 +9725,15 @@ Anti-intellectualism
 Academia
 Anti-intellectualism
 Social theories
+Academia
+Anti-intellectualism
+Social theories
+-1
+Dissociative identity disorder in films
+Dissociative disorders
+Identity disorders
+Memory disorders
+Psychiatric diagnosis
 -1
 1889 establishments in Minnesota
 Hospitals in Minnesota
@@ -6257,6 +9744,23 @@ Medical and health organizations based in Minnesota
 1889 establishments in Minnesota
 Organizations established in 1889
 Non-profit organizations based in Minnesota
+Hospitals in Minnesota
+Buildings and structures in Rochester, Minnesota
+Mayo Clinic
+Webby Award winners
+Medical and health organizations based in Minnesota
+1889 establishments in Minnesota
+Organizations established in 1889
+Non-profit organizations based in Minnesota
+-1
+Burials at Forest Lawn Memorial Park (Glendale)
+Burials at Forest Lawn Memorial Park (Glendale)
+Cemeteries in Los Angeles County, California
+Cemeteries in Los Angeles
+Museums in Los Angeles County, California
+Art museums in California
+Glendale, California
+Tourist attractions in Glendale, California
 -1
 Scientific modeling
 Scientific modeling
@@ -6293,6 +9797,21 @@ Lists of location lists
 Lists of fictional locations
 Fictional locations
 Lists of fictional things
+-1
+Schools in Johnson County, Kansas
+Kansas counties
+Johnson County, Kansas
+Kansas City metropolitan area
+1855 establishments in Kansas Territory
+-1
+1960s slasher films
+Slasher films
+Film genres
+Horror films by genre
+Thriller genres
+Obscenity controversies in film
+Suspense
+Thrillers
 -1
 South Asian Association for Regional Cooperation
 International organizations based in Asia
@@ -6360,6 +9879,13 @@ Companies based in Tallinn
 Cargo airlines
 Cargo airlines of Estonia
 Estonian brands
+Airlines of Estonia
+Airlines established in 2002
+2002 establishments in Estonia
+Companies based in Tallinn
+Cargo airlines
+Cargo airlines of Estonia
+Estonian brands
 -1
 Non-profit organizations based in Minnesota
 American Public Media
@@ -6368,6 +9894,21 @@ Organizations based in Saint Paul, Minnesota
 Organizations established in 2004
 Non-profit organizations based in Minnesota
 Radio stations established in 2004
+American Public Media
+2004 establishments in the United States
+Organizations based in Saint Paul, Minnesota
+Organizations established in 2004
+Non-profit organizations based in Minnesota
+Radio stations established in 2004
+-1
+British films
+Cinema of the United Kingdom
+Cultural history of the United Kingdom
+-1
+Mobile software
+Mobile software
+User interface techniques
+Mobile applications
 -1
 Management by type
 Project management
@@ -6390,6 +9931,13 @@ Management by type
 IEEE standards
 ISO/IEC standards
 Product development
+-1
+United States Army soldiers
+United States Army
+Uniformed services of the United States
+Military units and formations established in 1775
+1775 establishments in the Thirteen Colonies
+United States Armed Forces service branches
 -1
 Commonwealth of Nations-related lists
 Member states of the Commonwealth of Nations
@@ -6412,12 +9960,18 @@ Countries by international organization
 Central Asia
 Regions of Asia
 Central Asia
+Regions of Asia
+Central Asia
 -1
 2004 establishments in the United States
 2004 establishments in the United States
 News agencies based in the United States
+2004 establishments in the United States
+News agencies based in the United States
 -1
 Financial analysts
+Financial services occupations
+Financial data analysis
 Financial services occupations
 Financial data analysis
 Financial services occupations
@@ -6434,6 +9988,7 @@ Currency
 Foreign exchange market
 -1
 Lists of United States Supreme Court cases by court
+United States Supreme Court cases
 United States Supreme Court cases
 -1
 ERP software
@@ -6472,6 +10027,7 @@ Supply chain management
 -1
 Living people
 Lists of oldest people
+Lists of oldest people
 -1
 E7 nations
 Intergovernmental organizations
@@ -6503,8 +10059,33 @@ Companies based in Tallinn
 Cargo airlines
 Cargo airlines of Estonia
 Estonian brands
+Airlines of Estonia
+Airlines established in 2002
+2002 establishments in Estonia
+Companies based in Tallinn
+Cargo airlines
+Cargo airlines of Estonia
+Estonian brands
+-1
+Film directors from California
+1973 births
+American music video directors
+American male screenwriters
+De Anza College alumni
+Living people
+People from the San Francisco Bay Area
+Film directors from California
+American film producers
+Action film directors
+Horror film directors
+Film producers from California
+People from Fremont, California
+American television directors
+Screenwriters from California
 -1
 Ethnic groups officially recognized by China
+China-related lists
+Lists of ethnic groups
 China-related lists
 Lists of ethnic groups
 -1
@@ -6514,11 +10095,56 @@ Republicanism
 Republicanism
 Republicanism
 -1
+American psychological drama films
+1999 films
+English-language films
+1999 horror films
+1990s ghost films
+1990s horror thriller films
+1990s psychological drama films
+1990s psychological thriller films
+1990s thriller drama films
+American films
+American ghost films
+American horror thriller films
+American psychological drama films
+American psychological horror films
+American psychological thriller films
+Supernatural drama films
+American supernatural horror films
+American supernatural thriller films
+American thriller drama films
+Horror drama films
+Filicide in fiction
+Films about the afterlife
+Films about death
+Films about psychiatry
+Films about psychic powers
+Films directed by M. Night Shyamalan
+Films produced by Kathleen Kennedy
+Films produced by Frank Marshall
+Films produced by Barry Mendel
+Films scored by James Newton Howard
+Films set in 1998
+Films set in Philadelphia
+Films shot in Pennsylvania
+Hollywood Pictures films
+Murder–suicide in films
+Nebula Award for Best Script-winning works
+American nonlinear narrative films
+Films with screenplays by M. Night Shyamalan
+Spyglass Entertainment films
+The Kennedy/Marshall Company films
+Films shot in Philadelphia
+-1
 software management
 Software project management
 Software project management
 Software project management
 Software project management
+-1
+Homosexuality and Baptist churches
+Homosexuality and Baptist churches
 -1
 International military organizations
 Intergovernmental organizations
@@ -6553,6 +10179,10 @@ Cargo airlines
 Airline-related lists
 Airline types
 Air freight
+Cargo airlines
+Airline-related lists
+Airline types
+Air freight
 -1
 Fictional locations
 Fiction
@@ -6567,8 +10197,27 @@ Fictional locations
 Case law lists by court
 Lists of law lists
 Case law lists
+Lists of law lists
+Case law lists
+-1
+2010s psychological thriller films
+Psychological thrillers
+Psychological fiction
+Film genres
+Narratology
+Thriller genres
+Suspense
+-1
+English-language Indian films
+English-language Indian films
 -1
 1978 in Cambodia
+1978 in Cambodia
+1970s in Cambodia
+Years of the 20th century in Cambodia
+1978 by country
+1978 in Southeast Asia
+Cambodia stubs
 1978 in Cambodia
 1970s in Cambodia
 Years of the 20th century in Cambodia
@@ -6586,6 +10235,50 @@ Lists of inventions or discoveries
 Technology timelines
 Lists of inventions or discoveries
 -1
+Musicians from Cleveland
+1984 births
+21st-century American male actors
+21st-century American singers
+African-American male rappers
+American male rappers
+African-American record producers
+African-American songwriters
+Alternative hip hop musicians
+American hip hop record producers
+American hip hop singers
+American male film actors
+American male television actors
+American music video directors
+American rappers of Mexican descent
+Grammy Award winners for rap music
+Living people
+Male actors from Cleveland
+Male actors from New York City
+Musicians from Cleveland
+Musicians from Shaker Heights, Ohio
+People from Solon, Ohio
+Rappers from Cleveland
+Republic Records artists
+Motown artists
+University of Toledo alumni
+Midwest hip hop musicians
+Male film score composers
+American film score composers
+People with mood disorders
+Songwriters from Ohio
+Actors from Shaker Heights, Ohio
+21st-century American rappers
+Record producers from New York (state)
+21st-century male singers
+-1
+Jewish writers
+Lists of British Jews
+-1
+Free mobile software
+Mobile software
+User interface techniques
+Mobile applications
+-1
 Republicanism in the Commonwealth realms
 Commonwealth republics
 Member states of the Commonwealth of Nations
@@ -6600,6 +10293,14 @@ Commonwealth republics
 Member states of the Commonwealth of Nations
 Republicanism in the Commonwealth realms
 -1
+Private schools
+School types
+-1
+Films set in France
+Lists of films by setting
+Films set in the future
+Retrofuturism
+-1
 Foreign relations of Pakistan
 Pakistan and the Commonwealth of Nations
 Foreign relations of Pakistan
@@ -6613,8 +10314,14 @@ Politics of Pakistan
 Pakistan and the Commonwealth of Nations
 Foreign relations of Pakistan
 Politics of Pakistan
+-1
+Vaudeville performers
+Vaudeville
+Comedy genres
 -1
 20th-century conflicts
+20th century timelines
+Contemporary history timelines
 20th century timelines
 Contemporary history timelines
 -1
@@ -6636,6 +10343,14 @@ Indian inventions
 Lists of inventions or discoveries
 India science and technology-related lists
 -1
+Webby Awards
+Computer-related awards
+American science and technology awards
+Web awards
+Blog awards
+Web development
+Internet film festivals
+Awards established in 1996
 Webby Awards
 Computer-related awards
 American science and technology awards
@@ -6714,7 +10429,42 @@ Programming language topics
 System software
 Systems programming languages
 -1
+1960s thriller drama films
+1966 films
+English-language films
+1960s mystery thriller films
+1960s psychological thriller films
+1960s thriller drama films
+American films
+American mystery thriller films
+American psychological thriller films
+American thriller drama films
+British films
+British mystery thriller films
+British thriller drama films
+Cameras in fiction
+Counterculture of the 1960s
+Culture in London
+Films about fashion photographers
+Films directed by Michelangelo Antonioni
+Films based on short fiction
+Films produced by Carlo Ponti
+Films scored by Herbie Hancock
+Films set in London
+Films shot in London
+Films with screenplays by Edward Bond
+Films with screenplays by Tonino Guerra
+Italian films
+Italian mystery thriller films
+Italian thriller drama films
+Metro-Goldwyn-Mayer films
+Mystery drama films
+Palme d'Or winners
+Italian psychological thriller films
+British psychological thriller films
+-1
 Types of musical groups
+Lists of bands
 Lists of bands
 -1
 Foreign relations of Afghanistan
@@ -6722,6 +10472,12 @@ Foreign relations of Afghanistan
 Foreign relations of Afghanistan
 Foreign relations of Afghanistan
 Foreign relations of Afghanistan
+-1
+Telecommunication services
+Central Civil Services (India)
+Telecommunications in India
+Indian Engineering Services
+Ministry of Communications and Information Technology (India)
 -1
 Linen industry
 Linen industry
@@ -6791,7 +10547,50 @@ Foreign relations of Afghanistan
 United Nations General Assembly observers
 International organisations based in Nepal
 -1
+Roman Catholic Archdiocese of Kansas City in Kansas
+Roman Catholic Archdiocese of Kansas City in Kansas
+Roman Catholic Ecclesiastical Province of Kansas City
+Culture of Kansas City, Kansas
+Religious organizations established in 1877
+Roman Catholic dioceses and prelatures established in the 19th century
+Roman Catholic dioceses in the United States
+1877 establishments in Kansas
+-1
 Recipients of the Order of the Republic (Serbia)
+Xi Jinping
+Xi Jinping family
+1953 births
+Living people
+20th-century Chinese politicians
+21st-century Chinese politicians
+Chinese nationalists
+Philosophers from Beijing
+Communist rulers
+Communist Party of China politicians from Beijing
+General Secretaries and Chairmen of the Communist Party of China
+Governors of Fujian
+Governors of Zhejiang
+Members of the 17th Politburo Standing Committee of the Communist Party of China
+Members of the 18th Politburo Standing Committee of the Communist Party of China
+Members of the 19th Politburo Standing Committee of the Communist Party of China
+People's Republic of China politicians from Beijing
+Presidents of the People's Republic of China
+Recipients of the Nishan-e-Pakistan
+Recipients of the Olympic Order
+Recipients of the Order of Abdulaziz al Saud
+Recipients of the Order of José Marti
+Recipients of the Order of St. Andrew
+Recipients of the Order of the Liberator
+Recipients of the Order of the Republic (Serbia)
+Chinese male writers
+Sent-down youths
+Tsinghua University alumni
+Vice Presidents of the People's Republic of China
+People's Republic of China philosophers
+Victims of the Cultural Revolution
+Chinese expatriates in the United States
+Communist writers
+Chinese Marxists
 Xi Jinping
 Xi Jinping family
 1953 births
@@ -6845,7 +10644,21 @@ Early computers
 One-of-a-kind computers
 History of computing topical overviews
 -1
+Internet Protocol based network software
+Internet protocols
+Network file systems
+Internet Protocol based network software
+Unix network-related software
+Application layer protocols
+Network file transfer protocols
+Distributed file systems
+-1
 Political controversies in China
+Human rights in China
+Political controversies in China
+Political repression in China
+Political abuses of psychiatry
+Torture in China
 Human rights in China
 Political controversies in China
 Political repression in China
@@ -6861,6 +10674,21 @@ Global issues
 Homelessness
 Refugees by type
 Crimes against humanity
+Forced migration
+Human rights abuses
+Persecution
+Population
+Global issues
+Homelessness
+Refugees by type
+Crimes against humanity
+-1
+appointments patient
+Telemedicine
+Health informatics
+Medical websites
+Electronic health records
+Patient
 -1
 Lists of companies by revenue
 Lists of companies by revenue
@@ -6939,6 +10767,18 @@ Schools in Haidian District
 HSA Foundation members
 C9 League
 Vice-ministerial universities in China
+Universities and colleges in Beijing
+Project 211
+Project 985
+Plan 111
+Tsinghua University
+Architecture schools in China
+Educational institutions established in 1911
+Schools in Haidian District
+1911 establishments in China
+HSA Foundation members
+C9 League
+Vice-ministerial universities in China
 -1
 Diagrams
 Infographics
@@ -6956,8 +10796,50 @@ Modeling languages
 Infographics
 Diagrams
 Modeling languages
+Infographics
+Diagrams
+Modeling languages
+-1
+Italian thriller drama films
+1972 films
+French-language films
+1970s thriller drama films
+1970s heist films
+French thriller films
+French drama films
+French heist films
+Italian thriller drama films
+Italian heist films
+French films
+Italian films
+Films based on American novels
+Films directed by René Clément
+Films produced by Serge Silberman
+Films set in Canada
+1970s French film stubs
+1970s Italian film stubs
 -1
 complete re local
+Cultural assimilation
+Human rights of ethnic minorities in China
+Internment camps
+Linguistic discrimination
+Opposition to Islam in China
+Political repression in China
+Racism in China
+Separatism in China
+Total institutions
+Violence against Muslims
+Xinjiang
+Xi Jinping
+Persecution of ethnic groups by communist regimes
+Religious persecution by communists
+21st-century Human rights abuses
+Xinjiang conflict
+Counter-terrorism in China
+Ethnic cleansing in Asia
+Uyghurs
+Kazakhs in China
 Cultural assimilation
 Human rights of ethnic minorities in China
 Internment camps
@@ -6990,6 +10872,101 @@ United States Supreme Court cases of the Roberts Court
 United States Supreme Court cases
 United States Supreme Court decisions that overrule a prior Supreme Court decision
 Judicial activism
+2010 in United States case law
+Corporate personhood
+Federal Election Commission litigation
+Campaign finance in the United States
+United States elections case law
+United States Free Speech Clause case law
+United States Supreme Court cases of the Roberts Court
+United States Supreme Court cases
+United States Supreme Court decisions that overrule a prior Supreme Court decision
+Judicial activism
+-1
+Paramount Pictures films
+Paramount Pictures
+American film studios
+Film distributors of the United States
+Film production companies of the United States
+Cinema of Southern California
+Companies based in Los Angeles
+Entertainment companies based in California
+Hollywood history and culture
+Landmarks in California
+American companies established in 1912
+Entertainment companies established in 1912
+Media companies established in 1912
+Members of the Motion Picture Association of America
+1912 establishments in California
+Former components of the Dow Jones Industrial Average
+Gulf and Western Industries
+ViacomCBS subsidiaries
+Recipients of the Scientific and Technical Academy Award of Merit
+-1
+Films set in country houses
+1993 films
+English-language films
+American films
+British films
+1990s drama films
+American drama films
+British drama films
+Films based on British novels
+Films directed by James Ivory
+Films set in England
+Films set in 1935
+Films set in 1936
+Films set in 1938
+Films set in 1956
+Merchant Ivory Productions films
+Films with screenplays by Harold Pinter
+Films with screenplays by Ruth Prawer Jhabvala
+Films set in country houses
+Films about social class
+Domestic workers in films
+Films about Nazism
+Columbia Pictures films
+-1
+1960s serial killer films
+1960 films
+English-language films
+Psycho (franchise) films
+1960 horror films
+1960s horror thriller films
+1960s mystery films
+1960s psychological thriller films
+1960s serial killer films
+1960s slasher films
+American films
+American horror thriller films
+American mystery films
+American psychological horror films
+American serial killer films
+American slasher films
+Films directed by Alfred Hitchcock
+Films produced by Alfred Hitchcock
+Films with screenplays by Joseph Stefano
+Films scored by Bernard Herrmann
+American black-and-white films
+Cross-dressing in American films
+Dissociative identity disorder in films
+Edgar Award-winning works
+Films about psychopaths
+Films based on American horror novels
+Films based on thriller novels
+Films featuring a Best Supporting Actress Golden Globe-winning performance
+Films set in 1959
+Films set in 1960
+Films set in California
+Films set in Phoenix, Arizona
+Films shot in Arizona
+Films shot in California
+Matricide in fiction
+Paramount Pictures films
+Universal Pictures films
+United States National Film Registry films
+Films à clef
+Films based on works by Robert Bloch
 -1
 Urdu-speaking countries and territories
 Jammu and Kashmir
@@ -7178,6 +11155,12 @@ Identity politics
 Affirmative action
 Individualism
 Collective rights
+Rights
+Human rights concepts
+Identity politics
+Affirmative action
+Individualism
+Collective rights
 -1
 Numismatics
 Numismatics
@@ -7223,6 +11206,8 @@ Types of university or college
 Religious persecution
 Religious persecution
 Religious pluralism
+Religious persecution
+Religious pluralism
 -1
 Computer occupations
 Lists of occupations
@@ -7235,6 +11220,14 @@ Lists of occupations
 Computer occupations
 Lists of occupations
 Computer occupations
+-1
+Films with screenplays by Joseph Stefano
+1922 births
+2006 deaths
+American male screenwriters
+Edgar Award winners
+Writers from Philadelphia
+Screenwriters from Pennsylvania
 -1
 Money forgery
 Money forgery
@@ -7263,6 +11256,14 @@ Futurology
 Financial analysts
 Technology assessment
 Systems analysis
+Futurology
+Financial analysts
+Technology assessment
+Systems analysis
+-1
+Embedded operating systems
+Embedded operating systems
+Operating system stubs
 -1
 Quartets
 Quartets
@@ -7270,7 +11271,13 @@ Chamber music
 Types of musical groups
 Musical quartets
 Four-part harmony
+Quartets
+Chamber music
+Types of musical groups
+Musical quartets
+Four-part harmony
 -1
+Crime in China
 Crime in China
 Crime in China
 -1
