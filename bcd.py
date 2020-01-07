@@ -1,4 +1,5 @@
 #!/usr/bin/python
+import pysftp as sftp
 import urllib2
 from urllib2 import urlopen
 from cookielib import CookieJar
@@ -116,12 +117,14 @@ def create_graph(query,lvl,graph):
     addEdge(graph,query, i)
   for j in templist:
    #print(j)
-   if lvl<4:
+   if lvl<3:
     if j !=query :
      create_graph(j,lvl,graph)
    else:
     return 0
  else:
+    return 0
+ if len(templist) == 1 and templist[0]==query :
     return 0
 
 # File Handling
@@ -175,38 +178,26 @@ def read_from_file(graph,name):
 
 graph = defaultdict(list)
 
-xl = ["intelligence artificial intelligence goals objective",
-            "ai conventional",
-            "intelligent computing advantages",
-            "disadvantages",
-            "ai application",
-            "ai",
-            "according",
-            "henri bergson",
-            "artificial objects",
-            "different definition",
-            "ai","artificial intelligence",
-            "artificial intelligence","computer","computer software","hardware","human minds","computer system",
-            "intelligent behavior","artificial intelligence","computer science",
-            "human intelligence","artificial intelligence","artificial","computer programs","intelligent things",
-            "common sense","suppose","chess","b tries","defeat b","such computer","chess computer",
-            "expert player","artificial intelligence","converts data","english","french etc","ai","english s w",
-            "ai","main goals","ai","computer smarter","human brain","powerful tool","simply","artificial",
-            "human beings","human intelligence","model process","useful programs","ai","user","communicate","computers",
-            "own language","english","cryptic commands","system languages","application programs","artificial intelligence",
-            "useful work","artificial","expert system","decision making","specific domain","less","artificial intelligence"
-            ,"powerful computers","cpu","ai","ai","computers","digital equipments corporations","dec","ax","typical system"
-            ,"ai s w","ai","high cost","wide range","h w","s w","conventional computers","computer"
-            ,"computer programs","conventional languages","c++","cobol","conventional computers","conventional software",
-            "intelligent computer","artificial","intelligence software","artificial","intelligence languages","lisp","list",
-            "prlog","logic","intelligent computers","language translate","robotic","system air","travel","processing expert",
-            "conventional software","artificial","conventional computer","step procedure","mathematical formula","sequential procedure"
-            ,"computing","quantitative problems","ai","qualitative problem","conventional software system","doing","laborious jobs",
-            "conventional computer system","loop statements","major application area","ai","language","robotics expert","computer vision"]
+xl = ["customer requirements analysis","requirement need",
+"customers stakeholders","party i","requirement requirements document","informal sri",
+"red software requirement specification requirements specification document output","software operational",
+"functional data","software interface","system elements","soft core design sex","information function",
+"data architecture interface","component level designs","cam scanner","rabid action development model",
+"major constraint","detail agile software development","dean documentation","customer interaction","daily basis","techniques scrum",
+"detail ftp","small scale software check gucci","cam scanner","library waterfall","bugs bug identification",
+"big business spiral model planning risk analysis customer communication engineering project","point customer evaluation construction",
+"evolutionary iterative","systematic dover linear","release sequential mode risk analysis","cam scanner risk feat","poses threat",
+"successful completion","software cost time govt policies requirements","large projects","suck analysis predictability","future technology",
+"prot tin","incremental model","interface linear","word processing","basic wood processing functions","complete set","cost time",
+"combination advantages dis adv case documentation customer feedback i","requirements improvement","modules i need","available users",
+"advance bugs","teams partial dak","cam scanner","model class","rise customer test devices","large complex projects","partial requirements",
+"customers advice time","developer customer","system analyst","nascent iterations co prom","minor fixes","land sic","customer quality",
+"tit dos","cam scanner",
+]
+
 for query in xl:
-     read_from_file(graph,query)
-     create_graph(query,0,graph)    
-     add_to_file(graph,query)
-     show_edges(graph)
-     print("\n")
- 
+   read_from_file(graph,query)
+   create_graph(query,0,graph)    
+   add_to_file(graph,query)
+   show_edges(graph)
+   print("\n")

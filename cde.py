@@ -1,4 +1,5 @@
 #!/usr/bin/python
+import pysftp as sftp
 import urllib2
 from urllib2 import urlopen
 from cookielib import CookieJar
@@ -116,12 +117,14 @@ def create_graph(query,lvl,graph):
     addEdge(graph,query, i)
   for j in templist:
    #print(j)
-   if lvl<4:
+   if lvl<3:
     if j !=query :
      create_graph(j,lvl,graph)
    else:
     return 0
  else:
+    return 0
+ if len(templist) == 1 and templist[0]==query :
     return 0
 
 # File Handling
@@ -174,39 +177,20 @@ def read_from_file(graph,name):
     return 1
 
 graph = defaultdict(list)
-
-xl = ["intelligence artificial intelligence goals objective",
-            "ai conventional",
-            "intelligent computing advantages",
-            "disadvantages",
-            "ai application",
-            "ai",
-            "according",
-            "henri bergson",
-            "artificial objects",
-            "different definition",
-            "ai","artificial intelligence",
-            "artificial intelligence","computer","computer software","hardware","human minds","computer system",
-            "intelligent behavior","artificial intelligence","computer science",
-            "human intelligence","artificial intelligence","artificial","computer programs","intelligent things",
-            "common sense","suppose","chess","b tries","defeat b","such computer","chess computer",
-            "expert player","artificial intelligence","converts data","english","french etc","ai","english s w",
-            "ai","main goals","ai","computer smarter","human brain","powerful tool","simply","artificial",
-            "human beings","human intelligence","model process","useful programs","ai","user","communicate","computers",
-            "own language","english","cryptic commands","system languages","application programs","artificial intelligence",
-            "useful work","artificial","expert system","decision making","specific domain","less","artificial intelligence"
-            ,"powerful computers","cpu","ai","ai","computers","digital equipments corporations","dec","ax","typical system"
-            ,"ai s w","ai","high cost","wide range","h w","s w","conventional computers","computer"
-            ,"computer programs","conventional languages","c++","cobol","conventional computers","conventional software",
-            "intelligent computer","artificial","intelligence software","artificial","intelligence languages","lisp","list",
-            "prlog","logic","intelligent computers","language translate","robotic","system air","travel","processing expert",
-            "conventional software","artificial","conventional computer","step procedure","mathematical formula","sequential procedure"
-            ,"computing","quantitative problems","ai","qualitative problem","conventional software system","doing","laborious jobs",
-            "conventional computer system","loop statements","major application area","ai","language","robotics expert","computer vision"]
+xl = ["systematic tim ear seq model","cam scanner art",
+"informal set i","formal sea sri","seq software requirement specifics","red requirement specification requirements","condition capability",
+"condition i capability","system i","system component","standard specification","condition i capability","fees non function","syst domain i",
+"equine rent","cults domain","i requirement process","req limitation gathering","reg specification representation","charts diagrams",
+"validation validation","diag rains","errors propagation","cam scanner art","time rad","rapid action development",
+"short span quality compromise","suitable agile software development","strict rigid rule","pen requirement",
+"resource availability","documentation scrum","equal model","requirements analysis demands desire",
+"requirement analysis good quality","product requirements analysis results","software operational characteristics",
+"function data","software interface","system elements","software designer","tia function","data architectural interface",
+"component level designs","i problem recognition","evaluation synthesis feasibility","specification man data","cam scanner"
+]
 for query in xl:
-     read_from_file(graph,query)
-     create_graph(query,0,graph)    
-     add_to_file(graph,query)
-     show_edges(graph)
-     print("\n")
- 
+   read_from_file(graph,query)
+   create_graph(query,0,graph)    
+   add_to_file(graph,query)
+   show_edges(graph)
+   print("\n")

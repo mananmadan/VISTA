@@ -1,4 +1,5 @@
 #!/usr/bin/python
+import pysftp as sftp
 import urllib2
 from urllib2 import urlopen
 from cookielib import CookieJar
@@ -116,12 +117,14 @@ def create_graph(query,lvl,graph):
     addEdge(graph,query, i)
   for j in templist:
    #print(j)
-   if lvl<4:
+   if lvl<3:
     if j !=query :
      create_graph(j,lvl,graph)
    else:
     return 0
  else:
+    return 0
+ if len(templist) == 1 and templist[0]==query :
     return 0
 
 # File Handling
@@ -175,38 +178,34 @@ def read_from_file(graph,name):
 
 graph = defaultdict(list)
 
-xl = ["intelligence artificial intelligence goals objective",
-            "ai conventional",
-            "intelligent computing advantages",
-            "disadvantages",
-            "ai application",
-            "ai",
-            "according",
-            "henri bergson",
-            "artificial objects",
-            "different definition",
-            "ai","artificial intelligence",
-            "artificial intelligence","computer","computer software","hardware","human minds","computer system",
-            "intelligent behavior","artificial intelligence","computer science",
-            "human intelligence","artificial intelligence","artificial","computer programs","intelligent things",
-            "common sense","suppose","chess","b tries","defeat b","such computer","chess computer",
-            "expert player","artificial intelligence","converts data","english","french etc","ai","english s w",
-            "ai","main goals","ai","computer smarter","human brain","powerful tool","simply","artificial",
-            "human beings","human intelligence","model process","useful programs","ai","user","communicate","computers",
-            "own language","english","cryptic commands","system languages","application programs","artificial intelligence",
-            "useful work","artificial","expert system","decision making","specific domain","less","artificial intelligence"
-            ,"powerful computers","cpu","ai","ai","computers","digital equipments corporations","dec","ax","typical system"
-            ,"ai s w","ai","high cost","wide range","h w","s w","conventional computers","computer"
-            ,"computer programs","conventional languages","c++","cobol","conventional computers","conventional software",
-            "intelligent computer","artificial","intelligence software","artificial","intelligence languages","lisp","list",
-            "prlog","logic","intelligent computers","language translate","robotic","system air","travel","processing expert",
-            "conventional software","artificial","conventional computer","step procedure","mathematical formula","sequential procedure"
-            ,"computing","quantitative problems","ai","qualitative problem","conventional software system","doing","laborious jobs",
-            "conventional computer system","loop statements","major application area","ai","language","robotics expert","computer vision"]
+xl = ["spa requirements","gam station process focus","organisation process definition","software management","agnew ane polk engineering",
+"peer ken ice","spa requirements","level quantitative process management","software quality management spa requirements level",
+"i defect prevention","software company level","india com","dan requirements specification donna king",
+"akin times drama queen canon les","vicious non andre ord","functional view","dynamic view mind seiko function dec",
+"object state ambition","relations diagram","diagram attributes data dictionary data","data press specification",
+"data flow diagram","cam scanner art","employee salary","mary alan data flow diagram process","data flow dalai tow",
+"compute terminator","internal agent process stone","employee sale mat agent employee terminator moo holden",
+"price report pay slip male objects","data flow diagram level","diagram content diagram waste issue info",
+"library infra st supplier schemes","boo les","liable jul ram","ivory book","available limit","search books supplies books",
+"payment return book","fine issue book request","basement issue","boone id enrich","emit tool","available ennis den issue",
+"book mend","i men id exists i member level","return books approach","data flow diagram","classical linen","cam scanner art",
+"ability completeness traceability","consistency details design","una tui quot ness","modify ability semantics",
+"tug sri han capability maturity model com","i duty","auth standards organisation blank software companies kernel",
+"act city spa key process seas","repeatable com","adam hefner","anime lib spa","requirement management","project planning",
+"frost i seasons","software project","i ane sight","subcontract management grad stay module","software quality assurance",
+"configuration management","cam scanner art","time data","diagram event part limit","data event","flow que need",
+"service bacon scenarios events function mange data","monthly weekly trig que","plain dental management","dental service",
+"clos liberia timber thu music","price i","past villas date cd","particular services clinic sends","appointment patient performs",
+"complete re local","smiles doctor","content diagram","note fec","apt hunts patient i digital requests","patient services",
+"ans formation","record clinic","whoitolaitosent keri corset mil art sustain copy moment","patient record","appointment schedule",
+"cam scanner man","time data","date tine","pain ii patient word louis event list","patient record","i click fins","moment request",
+"david i services","goal sentiment patient lent uses rat","patio pats ami click bra vail reg appointment","appointments patient",
+"palate i patients list","dentists i dentists patient days request","patients patients dentist","patriot guards",
+"patient secrets patient records services","cam scanner",
+]
 for query in xl:
-     read_from_file(graph,query)
-     create_graph(query,0,graph)    
-     add_to_file(graph,query)
-     show_edges(graph)
-     print("\n")
- 
+   read_from_file(graph,query)
+   create_graph(query,0,graph)    
+   add_to_file(graph,query)
+   show_edges(graph)
+   print("\n")
