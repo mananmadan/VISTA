@@ -178,17 +178,7 @@ def read_from_file(graph,name):
 
 graph = defaultdict(list)
 
-xl = ["spa requirements","gam station process focus","organisation process definition","software management","agnew ane polk engineering",
-"peer ken ice","spa requirements","level quantitative process management","software quality management spa requirements level",
-"i defect prevention","software company level","india com","dan requirements specification donna king",
-"akin times drama queen canon les","vicious non andre ord","functional view","dynamic view mind seiko function dec",
-"object state ambition","relations diagram","diagram attributes data dictionary data","data press specification",
-"data flow diagram","cam scanner art","employee salary","mary alan data flow diagram process","data flow dalai tow",
-"compute terminator","internal agent process stone","employee sale mat agent employee terminator moo holden",
-"price report pay slip male objects","data flow diagram level","diagram content diagram waste issue info",
-"library infra st supplier schemes","boo les","liable jul ram","ivory book","available limit","search books supplies books",
-"payment return book","fine issue book request","basement issue","boone id enrich","emit tool","available ennis den issue",
-"book mend","i men id exists i member level","return books approach","data flow diagram","classical linen","cam scanner art",
+xl = ["data flow diagram","classical linen","cam scanner art",
 "ability completeness traceability","consistency details design","una tui quot ness","modify ability semantics",
 "tug sri han capability maturity model com","i duty","auth standards organisation blank software companies kernel",
 "act city spa key process seas","repeatable com","adam hefner","anime lib spa","requirement management","project planning",

@@ -1,3 +1,7 @@
+Product certification
+Product certification
+Quality
+-1
 Organizations established in 2009
 Political organizations based in the United States
 Paramilitary organizations based in the United States
@@ -195,6 +199,12 @@ Globalization
 Intergovernmental organizations
 Globalization
 -1
+Wireless
+Wireless
+Wireless networking
+History of radio
+Television terminology
+-1
 Data modeling
 Data modeling
 Data modeling
@@ -226,6 +236,13 @@ Office equipment
 Media technology
 Office equipment
 Media technology
+-1
+Privacy
+Privacy
+Privacy law
+Human rights
+Identity management
+Digital rights
 -1
 Countries by international organization
 International Organization for Standardization
@@ -621,6 +638,14 @@ Business-related lists
 Lists of lists
 Lists of lists
 -1
+Sustainable building
+Sustainable building
+Building engineering
+Sustainable architecture
+Low-energy building
+Buildings and structures by type
+Sustainable urban planning
+-1
 Maturity models
 Set indices
 Set indices
@@ -678,6 +703,15 @@ Computer-aided design software
 Computer-aided design
 Design engineering
 -1
+Forest certification
+Building materials
+Fair trade
+Forest certification
+Natural materials
+Product certification
+Sustainable building
+Wood
+-1
 Planning
 Planning
 Systems engineering
@@ -712,6 +746,9 @@ Euphemisms
 Human geography
 Lists of countries
 -1
+Ubiquitous computing
+Ubiquitous computing
+-1
 G20
 G20
 Economic country classifications
@@ -736,6 +773,14 @@ Biodegradable materials
 Anaerobic digestion
 Biodegradable waste management
 Biodegradation
+-1
+Barcodes
+Barcodes
+Encodings
+Automatic identification and data capture
+1952 introductions
+American inventions
+Records management technology
 -1
 Metaphysics of mind
 Metaphysics
@@ -926,6 +971,9 @@ United States law
 United States federal law
 United States law
 United States federal law
+-1
+Building materials
+Building materials
 -1
 Computing-related lists
 Science-related lists
@@ -1177,6 +1225,10 @@ Interpersonal relationships
 Interpersonal relationships
 Interpersonal relationships
 -1
+Software engineering
+Software engineering
+Engineering disciplines
+-1
 History of the Commonwealth of Nations
 Member states of the Commonwealth of Nations
 Commonwealth of Nations-related lists
@@ -1186,6 +1238,13 @@ Member states of the Commonwealth of Nations
 Commonwealth of Nations-related lists
 History of the Commonwealth of Nations
 Countries by international organization
+-1
+Automatic identification and data capture
+Automatic identification and data capture
+Encodings
+Multimodal interaction
+Human–computer interaction
+Radio-frequency identification
 -1
 Functional programming
 Programming paradigms
@@ -1246,6 +1305,16 @@ Programming language topics
 Programming paradigms
 Programming language classification
 Programming language topics
+-1
+Records management technology
+Information technology management
+Content management systems
+Public records
+Records management
+-1
+Systems engineering
+Systems engineering
+Engineering disciplines
 -1
 Hindustani-speaking countries and territories
 1912 establishments in India
@@ -1435,6 +1504,12 @@ Software development
 Software project management
 Computer occupations
 Product development
+-1
+Fair trade
+Fair trade
+Economy and the environment
+Economic globalization
+Social movements
 -1
 Management by type
 Project management
@@ -1963,6 +2038,15 @@ Commonwealth republics
 Member states of the Commonwealth of Nations
 Republicanism in the Commonwealth realms
 -1
+ability completeness traceability
+Barcodes
+Radio-frequency identification
+Wireless locating
+Software engineering
+Systems engineering
+Forest certification
+Pharmaceuticals policy
+-1
 Foreign relations of Pakistan
 Pakistan and the Commonwealth of Nations
 Foreign relations of Pakistan
@@ -2026,6 +2110,10 @@ Systems programming languages
 Programming language topics
 System software
 Systems programming languages
+-1
+Encodings
+Encodings
+Signal processing
 -1
 British inventions
 British inventions
@@ -2132,6 +2220,28 @@ History of computing hardware
 Early computers
 One-of-a-kind computers
 History of computing topical overviews
+-1
+Natural materials
+Natural materials
+Materials stubs
+-1
+Wood
+Wood
+Art materials
+Biodegradable materials
+Building materials
+Energy crops
+Forestry
+Natural materials
+Trees
+Woodworking
+Woodworking materials
+Materials
+Natural resources
+Botany
+Wood products
+Plant anatomy
+Forest products
 -1
 Infographics
 Illustration
@@ -2396,6 +2506,13 @@ Commonwealth of Nations-related lists
 History of the Commonwealth of Nations
 Countries by international organization
 -1
+Radio-frequency identification
+Radio-frequency identification
+Automatic identification and data capture
+Privacy
+Ubiquitous computing
+Wireless
+-1
 India politics-related lists
 Government schemes in India
 India politics-related lists
@@ -2577,6 +2694,17 @@ Software development
 Software companies
 Software development
 Software companies
+-1
+1952 introductions
+1952 in England
+1952 introductions
+Pattern formation
+Patterns
+Mathematical modeling
+Parabolic partial differential equations
+Biological processes
+Chaos theory
+Alan Turing
 -1
 Mind
 Mind
@@ -2764,6 +2892,9 @@ Amaranthaceae stubs
 Textiles
 Textiles
 Clothing industry
+-1
+Pharmaceuticals policy
+Pharmaceuticals policy
 -1
 Design engineering
 Engineering
