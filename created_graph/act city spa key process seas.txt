@@ -1,12 +1,3 @@
-Companies based in Shenzhen
-Airlines of China
-Chinese brands
-IATA members
-Airlines established in 1992
-Companies based in Shenzhen
-Star Alliance
-Air China
--1
 Product certification
 Product certification
 Quality
@@ -86,11 +77,11 @@ United States federal law
 United States law
 United States federal law
 -1
-Linen industry
-Linen industry
-Flax
-Woven fabrics
 Linens
+Linens
+Home
+Linen industry
+Woven fabrics
 -1
 Self
 Self
@@ -116,6 +107,9 @@ level quantitative process management
 Maturity models
 Maturity models
 -1
+Crops
+Crops
+-1
 Literature lists
 Literature
 Literature
@@ -126,9 +120,15 @@ Knowledge representation
 Library cataloging and classification
 Knowledge representation
 -1
-Linum
-Linum
-Malpighiales genera
+History of computing hardware
+History of computing hardware
+Early computers
+One-of-a-kind computers
+History of computing topical overviews
+History of computing hardware
+Early computers
+One-of-a-kind computers
+History of computing topical overviews
 -1
 Human Development Index
 Human Development Index
@@ -222,13 +222,11 @@ Companies formerly listed on NASDAQ
 Online advertising
 2013 initial public offerings
 -1
-Forms of government
-Government
-Political terminology
-Main topic articles
-Government
-Political terminology
-Main topic articles
+International economic organizations
+International organizations
+Cultural globalization
+International organizations
+Cultural globalization
 -1
 Product lifecycle management
 Brand management
@@ -242,11 +240,27 @@ Globalization
 Intergovernmental organizations
 Globalization
 -1
-Wireless
-Wireless
-Wireless networking
-History of radio
-Television terminology
+Hampden, Baltimore
+Appalachian culture in Baltimore
+Federal architecture in Maryland
+Greek Revival architecture in Maryland
+Hampden, Baltimore
+Historic districts on the National Register of Historic Places in Baltimore
+Neighborhoods in Baltimore
+Northern Baltimore
+White American culture in Baltimore
+White American working class
+Working-class culture in Baltimore
+Appalachian culture in Baltimore
+Federal architecture in Maryland
+Greek Revival architecture in Maryland
+Hampden, Baltimore
+Historic districts on the National Register of Historic Places in Baltimore
+Neighborhoods in Baltimore
+Northern Baltimore
+White American culture in Baltimore
+White American working class
+Working-class culture in Baltimore
 -1
 Data modeling
 Data modeling
@@ -285,12 +299,10 @@ Media technology
 Office equipment
 Media technology
 -1
-Privacy
-Privacy
-Privacy law
-Human rights
-Identity management
-Digital rights
+Programming languages
+Programming language classification
+Programming languages
+Notation
 -1
 Video game companies established in 1998
 Level-5 (company)
@@ -321,6 +333,12 @@ Business terms
 Entrepreneurship
 Management occupations
 Small business
+-1
+American inventions
+Technology timelines
+Lists of inventions or discoveries
+Technology timelines
+Lists of inventions or discoveries
 -1
 Software companies
 Software companies
@@ -356,27 +374,24 @@ Developmental psychology
 Motivational theories
 Happiness
 -1
-Video game companies established in 1979
-Infocom
-Defunct Activision subsidiaries
-Defunct video game companies
-Software companies based in Massachusetts
-Defunct companies based in Massachusetts
-Companies based in Cambridge, Massachusetts
-Video game companies established in 1979
-1979 establishments in Massachusetts
-1989 disestablishments in Massachusetts
-Video game companies disestablished in 1989
--1
-Linens
-Linens
-Home
-Linen industry
-Woven fabrics
+2004 initial public offerings
+Initial public offering
+Stock market terminology
+Dutch inventions
 -1
 Home appliances
 Home appliances
 Home appliances
+-1
+21st century in Colombo
+Foreign relations stubs
+One Belt, One Road
+Foreign relations of China
+Chinese economic policy
+Foreign relations stubs
+One Belt, One Road
+Foreign relations of China
+Chinese economic policy
 -1
 Asia-related lists
 Lists of city lists
@@ -385,161 +400,6 @@ Lists of cities by continent
 Lists of city lists
 Lists of cities in Asia
 Lists of cities by continent
--1
-Programming constructs
-Programming language classification
-Programming languages
-Notation
--1
-English language
-Analytic languages
-English language
-English languages
-Fusional languages
-Germanic languages
-Languages of American Samoa
-Languages of Antigua and Barbuda
-Languages of Australia
-Languages of Belize
-Languages of Bermuda
-Languages of Botswana
-Languages of Cameroon
-Languages of Canada
-Languages of Fiji
-Languages of Ghana
-Languages of Grenada
-Languages of Guam
-Languages of Guyana
-Languages of Hong Kong
-Languages of India
-Languages of Ireland
-Languages of Jamaica
-Languages of Kenya
-Languages of Kiribati
-Languages of Lesotho
-Languages of Liberia
-Languages of Malawi
-Languages of Malaysia
-Languages of Malta
-Languages of Mauritius
-Languages of Namibia
-Languages of Nauru
-Languages of New Zealand
-Languages of Nigeria
-Languages of Niue
-Languages of Pakistan
-Languages of Palau
-Languages of Papua New Guinea
-Languages of Rwanda
-Languages of Saint Kitts and Nevis
-Languages of Saint Lucia
-Languages of Saint Vincent and the Grenadines
-Languages of Samoa
-Languages of Seychelles
-Languages of Sierra Leone
-Languages of Singapore
-Languages of South Africa
-Languages of South Sudan
-Languages of Sudan
-Languages of Eswatini
-Languages of the Bahamas
-Languages of the British Virgin Islands
-Languages of the Cayman Islands
-Languages of the Marshall Islands
-Languages of the Philippines
-Languages of the Pitcairn Islands
-Languages of the Solomon Islands
-Languages of the United Kingdom
-Languages of the United States Virgin Islands
-Languages of the United States
-Languages of Tokelau
-Languages of Trinidad and Tobago
-Languages of Uganda
-Languages of Vanuatu
-Languages of Zambia
-Languages of Zimbabwe
-Stress-timed languages
-Subject–verb–object languages
-Cultural globalization
-Languages of Taiwan
-Analytic languages
-English language
-English languages
-Fusional languages
-Germanic languages
-Languages of American Samoa
-Languages of Antigua and Barbuda
-Languages of Australia
-Languages of Belize
-Languages of Bermuda
-Languages of Botswana
-Languages of Cameroon
-Languages of Canada
-Languages of Fiji
-Languages of Ghana
-Languages of Grenada
-Languages of Guam
-Languages of Guyana
-Languages of Hong Kong
-Languages of India
-Languages of Ireland
-Languages of Jamaica
-Languages of Kenya
-Languages of Kiribati
-Languages of Lesotho
-Languages of Liberia
-Languages of Malawi
-Languages of Malaysia
-Languages of Malta
-Languages of Mauritius
-Languages of Namibia
-Languages of Nauru
-Languages of New Zealand
-Languages of Nigeria
-Languages of Niue
-Languages of Pakistan
-Languages of Palau
-Languages of Papua New Guinea
-Languages of Rwanda
-Languages of Saint Kitts and Nevis
-Languages of Saint Lucia
-Languages of Saint Vincent and the Grenadines
-Languages of Samoa
-Languages of Seychelles
-Languages of Sierra Leone
-Languages of Singapore
-Languages of South Africa
-Languages of South Sudan
-Languages of Sudan
-Languages of Eswatini
-Languages of the Bahamas
-Languages of the British Virgin Islands
-Languages of the Cayman Islands
-Languages of the Marshall Islands
-Languages of the Philippines
-Languages of the Pitcairn Islands
-Languages of the Solomon Islands
-Languages of the United Kingdom
-Languages of the United States Virgin Islands
-Languages of the United States
-Languages of Tokelau
-Languages of Trinidad and Tobago
-Languages of Uganda
-Languages of Vanuatu
-Languages of Zambia
-Languages of Zimbabwe
-Stress-timed languages
-Subject–verb–object languages
-Cultural globalization
-Languages of Taiwan
--1
-Foreign relations of China
-Foreign relations of China
-Foreign relations of China
--1
-Video game companies of the United States
-Video gaming by country
-American culture
 -1
 United Nations-related lists
 Outlines of organizations
@@ -555,17 +415,33 @@ Functional programming
 Programming paradigms
 Functional programming
 -1
+Diagrams
+Infographics
+Diagrams
+Modeling languages
+Infographics
+Diagrams
+Modeling languages
+-1
 Information systems
 Information systems
 Information
 Information systems
 Information
 -1
-English-speaking countries and territories
-English language
-Country classifications
-English language
-Country classifications
+data flow diagram
+Information systems
+Data management
+Diagrams
+Graph drawing
+Systems analysis
+Modeling languages
+Information systems
+Data management
+Diagrams
+Graph drawing
+Systems analysis
+Modeling languages
 -1
 Offshore companies in the Cayman Islands
 Offshore companies
@@ -584,6 +460,16 @@ South Asia
 Foreign relations of Bhutan
 Foreign relations of Bhutan
 Foreign relations of Bhutan
+-1
+Lists of fictional locations
+Lists of location lists
+Lists of fictional locations
+Fictional locations
+Lists of fictional things
+Lists of location lists
+Lists of fictional locations
+Fictional locations
+Lists of fictional things
 -1
 Graph drawing
 Graph drawing
@@ -682,16 +568,6 @@ Federalism
 Political systems
 Political theories
 -1
-Science-related lists
-Lists of film lists
-Science fiction films
-Lists of science fiction films
-Lists of works of science fiction, arranged in chronological order
-Lists of film lists
-Science fiction films
-Lists of science fiction films
-Lists of works of science fiction, arranged in chronological order
--1
 Commonwealth republics
 Commonwealth republics
 Member states of the Commonwealth of Nations
@@ -700,27 +576,11 @@ Commonwealth republics
 Member states of the Commonwealth of Nations
 Republicanism in the Commonwealth realms
 -1
-Computer occupations
-Lists of occupations
-Computer occupations
-Lists of occupations
-Computer occupations
--1
-Chinese brands
-Yum! Brands
-Companies listed on the New York Stock Exchange
-Companies based in Louisville, Kentucky
-Restaurants established in 1997
-Food and drink companies of the United States
-Multinational food companies
-Restaurant groups in the United States
-1997 establishments in Kentucky
-American companies established in 1997
-Corporate spin-offs
--1
-Video game publishers
-Video game development
-Video game publishers
+Companies listed on the Hong Kong Stock Exchange
+Companies listed on the Hong Kong Stock Exchange
+Lists of companies of Hong Kong
+Lists of companies by stock exchange
+Stock exchanges in Hong Kong
 -1
 Concepts in ethics
 Ethics
@@ -752,13 +612,23 @@ Business-related lists
 Lists of lists
 Lists of lists
 -1
-Sustainable building
-Sustainable building
-Building engineering
-Sustainable architecture
-Low-energy building
-Buildings and structures by type
-Sustainable urban planning
+College Park, Maryland
+College Park, Maryland
+1856 establishments in Maryland
+Cities in Maryland
+Cities in Prince George's County, Maryland
+Cities in the Baltimore–Washington metropolitan area
+Populated places established in 1856
+University towns in the United States
+Washington metropolitan area
+College Park, Maryland
+1856 establishments in Maryland
+Cities in Maryland
+Cities in Prince George's County, Maryland
+Cities in the Baltimore–Washington metropolitan area
+Populated places established in 1856
+University towns in the United States
+Washington metropolitan area
 -1
 Activision games
 Activision
@@ -825,10 +695,39 @@ History of the United Nations
 History of the United Nations
 History of the United Nations
 -1
-Computer-aided design
-Computer-aided design software
-Computer-aided design
-Design engineering
+Personal development
+Personal development
+Personal development
+-1
+Member states of the South Asian Association for Regional Cooperation
+International organizations based in Asia
+International economic organizations
+Foreign relations of Bhutan
+Foreign relations of Bangladesh
+Foreign relations of Nepal
+Foreign relations of Pakistan
+Foreign relations of Sri Lanka
+Foreign relations of the Maldives
+Organizations established in 1985
+South Asian Association for Regional Cooperation
+Intergovernmental organizations established by treaty
+Foreign relations of Afghanistan
+United Nations General Assembly observers
+International organisations based in Nepal
+International organizations based in Asia
+International economic organizations
+Foreign relations of Bhutan
+Foreign relations of Bangladesh
+Foreign relations of Nepal
+Foreign relations of Pakistan
+Foreign relations of Sri Lanka
+Foreign relations of the Maldives
+Organizations established in 1985
+South Asian Association for Regional Cooperation
+Intergovernmental organizations established by treaty
+Foreign relations of Afghanistan
+United Nations General Assembly observers
+International organisations based in Nepal
 -1
 Forest certification
 Building materials
@@ -873,11 +772,13 @@ Euphemisms
 Human geography
 Lists of countries
 -1
-Metrication
-Metrication
--1
-Ubiquitous computing
-Ubiquitous computing
+RSS
+RSS
+Computer file formats
+Computer-related introductions in 1999
+Open formats
+Web syndication formats
+XML-based standards
 -1
 G20
 G20
@@ -891,13 +792,11 @@ Intergovernmental organizations
 International economic organizations
 Organizations established in 1999
 -1
-Pakistani inventions
-Pakistani inventions
-Lists of inventions or discoveries
-History of science and technology in Pakistan
-Pakistani inventions
-Lists of inventions or discoveries
-History of science and technology in Pakistan
+Behavioural sciences
+Behavioural sciences
+Cognitive science
+Behavioural sciences
+Cognitive science
 -1
 Biodegradable materials
 Anaerobic digestion
@@ -952,15 +851,51 @@ Safety codes
 NFPA Standards
 Safety codes
 -1
-diagram attributes data dictionary data
-Data management
-Data modeling
-Knowledge representation
-Metadata
-Data management
-Data modeling
-Knowledge representation
-Metadata
+International organizations based in Asia
+Asia-Pacific Economic Cooperation
+International economic organizations
+International political organizations
+International trade organizations
+International organizations based in Asia
+International organizations based in Oceania
+International organizations based in the Americas
+Organizations based in North America
+Organizations based in South America
+Asia-Pacific
+Trade blocs
+Business organisations based in Singapore
+International organisations based in Singapore
+Organizations established in 1989
+1989 establishments in Asia
+1989 establishments in Oceania
+1989 establishments in North America
+1989 establishments in South America
+Asia-Pacific Economic Cooperation
+International economic organizations
+International political organizations
+International trade organizations
+International organizations based in Asia
+International organizations based in Oceania
+International organizations based in the Americas
+Organizations based in North America
+Organizations based in South America
+Asia-Pacific
+Trade blocs
+Business organisations based in Singapore
+International organisations based in Singapore
+Organizations established in 1989
+1989 establishments in Asia
+1989 establishments in Oceania
+1989 establishments in North America
+1989 establishments in South America
+-1
+Motivation
+Motivation
+Experimental psychology
+Cognition
+Motivation
+Experimental psychology
+Cognition
 -1
 Nanshan District, Shenzhen
 Districts of Shenzhen
@@ -1006,6 +941,16 @@ United States federal child welfare legislation
 110th United States Congress
 Consumer protection in the United States
 -1
+Lists of proposals
+Proposed amendments to the United States Constitution
+United States history-related lists
+Lists of United States legislation
+Lists of proposals
+Proposed amendments to the United States Constitution
+United States history-related lists
+Lists of United States legislation
+Lists of proposals
+-1
 Supply chain management
 Freight transport
 Supply chain management
@@ -1049,9 +994,6 @@ Regions of Asia
 South Asia
 Regions of Asia
 South Asia
--1
-Web portals
-Web portals
 -1
 One-of-a-kind computers
 Computers
@@ -1129,9 +1071,6 @@ United States federal law
 United States law
 United States federal law
 -1
-Building materials
-Building materials
--1
 Computing-related lists
 Science-related lists
 Computing-related lists
@@ -1165,6 +1104,81 @@ Video game genres
 Third-person shooters
 Video game terminology
 -1
+Culture of Baltimore
+Culture of Baltimore
+Culture of Baltimore
+-1
+Commonwealth of Nations-related lists
+Member states of the Commonwealth of Nations
+Commonwealth of Nations-related lists
+History of the Commonwealth of Nations
+Countries by international organization
+Member states of the Commonwealth of Nations
+Commonwealth of Nations-related lists
+History of the Commonwealth of Nations
+Countries by international organization
+-1
+Flax
+Linum
+Fiber plants
+Crops originating from Asia
+Medicinal plants of Asia
+Flora of Western Asia
+Crops
+Biodegradable materials
+Demulcents
+Painting materials
+Plants described in 1753
+Flax
+-1
+Video game companies of the United States
+Video gaming by country
+American culture
+-1
+Regions of Asia
+Asia
+Geography of Asia
+Geology of Asia
+Asia
+Geography of Asia
+Geology of Asia
+-1
+Dentistry branches
+Dentistry branches
+-1
+Knowledge representation
+Knowledge representation
+Scientific modeling
+Programming paradigms
+Automated reasoning
+Knowledge representation
+Scientific modeling
+Programming paradigms
+Automated reasoning
+-1
+Video game publishers
+Video game development
+Video game publishers
+-1
+English-speaking countries and territories
+English language
+Country classifications
+English language
+Country classifications
+-1
+Activision
+Activision
+1979 establishments in California
+Academy of Interactive Arts & Sciences members
+American brands
+Companies based in Santa Monica, California
+Former Vivendi subsidiaries
+Video game companies based in California
+Video game companies established in 1979
+Video game companies of the United States
+Video game development companies
+Video game publishers
+-1
 2019 Southeast Asian Games events
 2019 Southeast Asian Games templates
 2019 Southeast Asian Games
@@ -1180,70 +1194,6 @@ Clark Freeport and Special Economic Zone
 November 2019 sports events in the Philippines
 December 2019 sports events in the Philippines
 -1
-Culture of Baltimore
-Culture of Baltimore
-Culture of Baltimore
--1
-Urdu-speaking countries and territories
-Jammu and Kashmir
-North India
-History of the Republic of India
-States and territories established in 2019
-2019 establishments in India
-Urdu-speaking countries and territories
-Kashmiri-speaking countries and territories
-Territorial disputes of Pakistan
-Disputed territories in Asia
-Union Territories of India
-Jammu and Kashmir
-North India
-History of the Republic of India
-States and territories established in 2019
-2019 establishments in India
-Urdu-speaking countries and territories
-Kashmiri-speaking countries and territories
-Territorial disputes of Pakistan
-Disputed territories in Asia
-Union Territories of India
--1
-Flax
-Linum
-Fiber plants
-Crops originating from Asia
-Medicinal plants of Asia
-Flora of Western Asia
-Crops
-Biodegradable materials
-Demulcents
-Painting materials
-Plants described in 1753
-Flax
--1
-Lists of information technology companies
-Lists of companies by revenue
-Economy-related lists of superlatives
-Lists of information technology companies
-Lists of companies by revenue
-Economy-related lists of superlatives
-Lists of information technology companies
--1
-Regions of Asia
-Asia
-Geography of Asia
-Geology of Asia
-Asia
-Geography of Asia
-Geology of Asia
--1
-Dentistry branches
-Dentistry branches
--1
-Lists of video game franchises
-Lists of video game franchises
-Video game lists by company
-Sega franchises
-Sega video games
--1
 Philosophy of love
 Philosophy of love
 Social philosophy
@@ -1253,68 +1203,6 @@ Philosophy of love
 Social philosophy
 Ethics
 Love
--1
-data flow diagram
-Information systems
-Data management
-Diagrams
-Graph drawing
-Systems analysis
-Modeling languages
-Information systems
-Data management
-Diagrams
-Graph drawing
-Systems analysis
-Modeling languages
--1
-FTP clients
-FTP clients
-Network software comparisons
--1
-Shanghai Cooperation Organisation
-Shanghai Cooperation Organisation
-20th-century military alliances
-21st-century military alliances
-Intergovernmental organizations established by treaty
-International organizations based in Asia
-International military organizations
-Multilateral relations of Russia
-Organizations established in 1996
-Post-Soviet alliances
-China–Russia relations
-Kazakhstan–Kyrgyzstan relations
-Kazakhstan–Russia relations
-Kazakhstan–Uzbekistan relations
-Kyrgyzstan–Russia relations
-Kyrgyzstan–Tajikistan relations
-Kyrgyzstan–Uzbekistan relations
-Pakistan–Russia relations
-Russia–Tajikistan relations
-Russia–Uzbekistan relations
-Tajikistan–Uzbekistan relations
-United Nations General Assembly observers
-Shanghai Cooperation Organisation
-20th-century military alliances
-21st-century military alliances
-Intergovernmental organizations established by treaty
-International organizations based in Asia
-International military organizations
-Multilateral relations of Russia
-Organizations established in 1996
-Post-Soviet alliances
-China–Russia relations
-Kazakhstan–Kyrgyzstan relations
-Kazakhstan–Russia relations
-Kazakhstan–Uzbekistan relations
-Kyrgyzstan–Russia relations
-Kyrgyzstan–Tajikistan relations
-Kyrgyzstan–Uzbekistan relations
-Pakistan–Russia relations
-Russia–Tajikistan relations
-Russia–Uzbekistan relations
-Tajikistan–Uzbekistan relations
-United Nations General Assembly observers
 -1
 Metadata
 Data management
@@ -1332,6 +1220,18 @@ Metadata
 Technical communication
 Business intelligence
 -1
+Futurology
+Futurology
+Prediction
+Pseudoscience
+Technology forecasting
+Systems thinking
+Futurology
+Prediction
+Pseudoscience
+Technology forecasting
+Systems thinking
+-1
 Distribution (marketing)
 Distribution (marketing)
 Business terms
@@ -1342,43 +1242,23 @@ Business terms
 Service industries
 Trade
 -1
-International organizations based in Asia
-Asia-Pacific Economic Cooperation
-International economic organizations
-International political organizations
-International trade organizations
-International organizations based in Asia
-International organizations based in Oceania
-International organizations based in the Americas
-Organizations based in North America
-Organizations based in South America
-Asia-Pacific
-Trade blocs
-Business organisations based in Singapore
-International organisations based in Singapore
-Organizations established in 1989
-1989 establishments in Asia
-1989 establishments in Oceania
-1989 establishments in North America
-1989 establishments in South America
-Asia-Pacific Economic Cooperation
-International economic organizations
-International political organizations
-International trade organizations
-International organizations based in Asia
-International organizations based in Oceania
-International organizations based in the Americas
-Organizations based in North America
-Organizations based in South America
-Asia-Pacific
-Trade blocs
-Business organisations based in Singapore
-International organisations based in Singapore
-Organizations established in 1989
-1989 establishments in Asia
-1989 establishments in Oceania
-1989 establishments in North America
-1989 establishments in South America
+India politics-related lists
+Government schemes in India
+India politics-related lists
+India government-related lists
+Government schemes in India
+India politics-related lists
+India government-related lists
+-1
+diagram attributes data dictionary data
+Data management
+Data modeling
+Knowledge representation
+Metadata
+Data management
+Data modeling
+Knowledge representation
+Metadata
 -1
 BRICS
 BRICS
@@ -1412,22 +1292,21 @@ Interpersonal relationships
 Interpersonal relationships
 Interpersonal relationships
 -1
-Holding companies established in 2008
-Companies in the NASDAQ-100 Index
-Companies listed on NASDAQ
-Activision
-Activision Blizzard
-American companies established in 2008
-Blizzard Entertainment
-Companies based in Santa Monica, California
-Companies formed by merger
-Former Vivendi subsidiaries
-Holding companies established in 2008
-Video game companies established in 2008
-Video game companies of the United States
-Video game development companies
-Video game publishers
-2008 establishments in California
+Personality
+Personality
+Epistemology
+Human development
+Metaphysics of mind
+Mind
+Philosophy of mind
+Self
+Personality
+Epistemology
+Human development
+Metaphysics of mind
+Mind
+Philosophy of mind
+Self
 -1
 Software engineering
 Software engineering
@@ -1502,23 +1381,14 @@ Formal statements
 Strategic management
 Venture capital
 -1
-Massively multiplayer online games
-Massively multiplayer online games
-Modeling and simulation
-Multiplayer online games
-Video game genres
-Video game terminology
-Social software
--1
-Video game lists by theme
-Video game lists by theme
-World War I video games
--1
-Companies in the Hang Seng Index
-Companies in the Hang Seng Index
-Hang Seng Index
-Hong Kong stock market indices
-Hang Seng Bank stock market indices
+Companies based in Shenzhen
+Airlines of China
+Chinese brands
+IATA members
+Airlines established in 1992
+Companies based in Shenzhen
+Star Alliance
+Air China
 -1
 Programming paradigms
 Programming paradigms
@@ -1534,9 +1404,19 @@ Content management systems
 Public records
 Records management
 -1
-Systems engineering
-Systems engineering
-Engineering disciplines
+Companies formed by merger
+Companies listed on the Borsa Italiana
+Fiat Chrysler Automobiles
+Chrysler
+Fiat
+Vehicle manufacturing companies established in 2014
+Companies listed on the New York Stock Exchange
+Holding companies established in 2014
+Multinational companies headquartered in the Netherlands
+Manufacturing companies based in Amsterdam
+Naamloze vennootschappen
+Companies formed by merger
+Announced mergers and acquisitions
 -1
 Hindustani-speaking countries and territories
 1912 establishments in India
@@ -1552,95 +1432,24 @@ States and territories established in 1912
 States and union territories of India
 Urdu-speaking countries and territories
 -1
-Windows web browsers
-1993 software
-Cross-platform software
-Discontinued web browsers
-Gopher clients
-History of software
-History of the Internet
-History of web browsers
-Mac OS web browsers
-OS/2 web browsers
-POSIX web browsers
-Windows web browsers
--1
-Tencent
-Companies in the Hang Seng Index
-Companies in the Hang Seng China Enterprises Index
-Hang Seng China 50 Index
-Tencent
-Video game companies established in 1998
-2004 initial public offerings
-Chinese brands
-Chinese companies established in 1998
-Civilian-run enterprises of China
-Companies based in Shenzhen
-Companies listed on the Hong Kong Stock Exchange
-Companies' terms of service
-FTP clients
 Holding companies established in 1998
-Internet properties established in 1998
-Investment companies of China
-Multinational companies headquartered in China
-Nanshan District, Shenzhen
-Offshore companies in the Cayman Islands
-Online companies of China
-RSS
-Software companies of China
-Video game companies of China
-Video game development companies
-Video game publishers
-Web portals
-Windows web browsers
--1
-Woven fabrics
-Woven fabrics
-Textiles
-Textile stubs
+Holding companies of the United States
+Companies based in New York City
+American companies established in 1998
+Holding companies established in 1998
+Retail companies established in 1998
+1998 establishments in Alabama
+Companies formerly listed on the New York Stock Exchange
+Hudson's Bay Company
+2013 mergers and acquisitions
 -1
 Foreign relations of Nepal
 Foreign relations of Nepal
 Foreign relations of Nepal
 -1
-i duty
-Activision Blizzard franchises
-Activision games
-Call of Duty
-Esports games
-First-person shooters
-Third-person shooters
-Multiplayer online games
-Video game franchises
-World War II video games
-Windows games
-Tencent
-Video game franchises introduced in 2003
--1
-Video game companies based in California
-Defunct video game companies of the United States
-Video game companies based in California
-Software companies based in the San Francisco Bay Area
-Companies based in Burlingame, California
-Defunct companies based in the San Francisco Bay Area
--1
-ERP software
-ERP software
-Information technology management
-Computer-aided engineering
-Enterprise resource planning terminology
-Business terms
-Production planning
-Business planning
-Supply chain management
-ERP software
-Information technology management
-Computer-aided engineering
-Enterprise resource planning terminology
-Business terms
-Production planning
-Business planning
-Supply chain management
+Modeling and simulation
+Modeling and simulation
+Military terminology
 -1
 Hang Seng China 50 Index
 Hang Seng China 50 Index
@@ -1649,15 +1458,17 @@ Hong Kong stock market indices
 Lists of companies of China
 Hang Seng Bank stock market indices
 -1
-21st century in Colombo
-Foreign relations stubs
-One Belt, One Road
-Foreign relations of China
-Chinese economic policy
-Foreign relations stubs
-One Belt, One Road
-Foreign relations of China
-Chinese economic policy
+Developmental psychology
+Developmental psychology
+Branches of psychology
+Behavioural sciences
+Developmental psychology
+Branches of psychology
+Behavioural sciences
+-1
+Video game lists by theme
+Video game lists by theme
+World War I video games
 -1
 Companies in the Hang Seng China Enterprises Index
 Companies in the Hang Seng China Enterprises Index
@@ -1787,62 +1598,62 @@ Behavioural sciences
 Psychology
 Behavioural sciences
 -1
-Automated reasoning
-Theoretical computer science
-Automated theorem proving
-Artificial intelligence
-Logic in computer science
-Automated reasoning
-Theoretical computer science
-Automated theorem proving
-Artificial intelligence
-Logic in computer science
-Automated reasoning
+2012 conferences
+NCAA Division I FBS football by conference
+Bowl Championship Series
+College Football Playoff
+NCAA Division I FBS football by conference
+Bowl Championship Series
+College Football Playoff
 -1
-Software development
-Software development
-Software project management
-Computer occupations
-Product development
-Software development
-Software project management
-Computer occupations
-Product development
--1
-Fair trade
-Fair trade
-Economy and the environment
-Economic globalization
-Social movements
--1
-Management by type
-Project management
-Management by type
-IEEE standards
-ISO/IEC standards
-Product development
-Project management
-Management by type
-IEEE standards
-ISO/IEC standards
-Product development
--1
-Activision Blizzard
+Companies in the NASDAQ-100 Index
 Companies in the NASDAQ-100 Index
 Companies listed on NASDAQ
-Activision
-Activision Blizzard
-American companies established in 2008
-Blizzard Entertainment
-Companies based in Santa Monica, California
-Companies formed by merger
-Former Vivendi subsidiaries
-Holding companies established in 2008
-Video game companies established in 2008
-Video game companies of the United States
-Video game development companies
-Video game publishers
-2008 establishments in California
+American stock market indices
+NASDAQ
+-1
+Privacy
+Privacy
+Privacy law
+Human rights
+Identity management
+Digital rights
+-1
+Software development
+Software development
+Software project management
+Computer occupations
+Product development
+Software development
+Software project management
+Computer occupations
+Product development
+-1
+Information
+Concepts in metaphysics
+Information
+Information science
+Concepts in metaphysics
+Information
+Information science
+-1
+Management by type
+Project management
+Management by type
+IEEE standards
+ISO/IEC standards
+Product development
+Project management
+Management by type
+IEEE standards
+ISO/IEC standards
+Product development
+-1
+Online companies of China
+Internet in China
+Online games
+Video game culture
+Video gaming in China
 -1
 2012 in international relations
 Politics
@@ -1852,6 +1663,12 @@ Politics
 International relations
 International relations education
 -1
+Personal life
+Personal life
+Philosophy of life
+Personal life
+Philosophy of life
+-1
 Modeling languages
 Scientific modeling
 Specification languages
@@ -1882,31 +1699,17 @@ Real estate in the United States
 Safety codes
 NFPA Standards
 -1
-College Park, Maryland
-College Park, Maryland
-1856 establishments in Maryland
-Cities in Maryland
-Cities in Prince George's County, Maryland
-Cities in the Baltimore–Washington metropolitan area
-Populated places established in 1856
-University towns in the United States
-Washington metropolitan area
-College Park, Maryland
-1856 establishments in Maryland
-Cities in Maryland
-Cities in Prince George's County, Maryland
-Cities in the Baltimore–Washington metropolitan area
-Populated places established in 1856
-University towns in the United States
-Washington metropolitan area
+Sustainable building
+Sustainable building
+Building engineering
+Sustainable architecture
+Low-energy building
+Buildings and structures by type
+Sustainable urban planning
 -1
-dynamic view mind seiko function dec
-History of computing hardware
-Personal computers
-History of computing topical overviews
-History of computing hardware
-Personal computers
-History of computing topical overviews
+Systems engineering
+Systems engineering
+Engineering disciplines
 -1
 Business planning
 Business documents
@@ -1952,6 +1755,18 @@ Flagship universities in the United States
 Types of university or college
 Universities and colleges in the United States by type by state
 -1
+Strategic management
+Strategic management
+Systems thinking
+Business terms
+Management by type
+Strategy
+Strategic management
+Systems thinking
+Business terms
+Management by type
+Strategy
+-1
 Foreign relations of India
 Foreign relations of India
 India and the Commonwealth of Nations
@@ -1992,27 +1807,23 @@ Outlines of culture and arts
 Wikipedia outlines
 Literature
 -1
-Personality
-Personality
-Epistemology
-Human development
-Metaphysics of mind
-Mind
-Philosophy of mind
-Self
-Personality
-Epistemology
-Human development
-Metaphysics of mind
-Mind
-Philosophy of mind
-Self
+Chinese brands
+Yum! Brands
+Companies listed on the New York Stock Exchange
+Companies based in Louisville, Kentucky
+Restaurants established in 1997
+Food and drink companies of the United States
+Multinational food companies
+Restaurant groups in the United States
+1997 establishments in Kentucky
+American companies established in 1997
+Corporate spin-offs
 -1
-Production and manufacturing
-Manufacturing
-Production and manufacturing
-Manufacturing
-Production and manufacturing
+Linen industry
+Linen industry
+Flax
+Woven fabrics
+Linens
 -1
 G15 nations
 G15 summits
@@ -2028,25 +1839,6 @@ G15 summits
 Diplomatic conferences in Sri Lanka
 21st century in Colombo
 -1
-Companies formed by merger
-Companies listed on the Borsa Italiana
-Fiat Chrysler Automobiles
-Chrysler
-Fiat
-Vehicle manufacturing companies established in 2014
-Companies listed on the New York Stock Exchange
-Holding companies established in 2014
-Multinational companies headquartered in the Netherlands
-Manufacturing companies based in Amsterdam
-Naamloze vennootschappen
-Companies formed by merger
-Announced mergers and acquisitions
--1
-Violence in video games
-Video gaming
-Violence in video games
-Video game controversies
--1
 Building engineering
 Architecture
 Building engineering
@@ -2073,13 +1865,23 @@ Architecture occupations
 Architectural design
 Engineering disciplines
 -1
-Developmental psychology
-Developmental psychology
-Branches of psychology
-Behavioural sciences
-Developmental psychology
-Branches of psychology
-Behavioural sciences
+ERP software
+ERP software
+Information technology management
+Computer-aided engineering
+Enterprise resource planning terminology
+Business terms
+Production planning
+Business planning
+Supply chain management
+ERP software
+Information technology management
+Computer-aided engineering
+Enterprise resource planning terminology
+Business terms
+Production planning
+Business planning
+Supply chain management
 -1
 E7 nations
 Intergovernmental organizations
@@ -2102,17 +1904,6 @@ Intermodal containers
 Economic globalization
 Merchant navy
 Freight transport
--1
-Academy of Interactive Arts & Sciences members
-Video game organizations
-1992 establishments in the United States
-Awards established in 1998
-Interactive Achievement Award winners
-Organizations established in 1992
-Video game development
-Recurring events established in 2002
-Video game trade shows
-2002 establishments in Nevada
 -1
 Blizzard Entertainment
 Blizzard Entertainment
@@ -2173,16 +1964,11 @@ Arts organizations established in 1999
 1947 establishments in the United Kingdom
 Music licensing organizations
 -1
-Foreign relations of Bangladesh
-Bangladesh and the Commonwealth of Nations
-Foreign relations of Bangladesh
-Bangladesh and the Commonwealth of Nations
-Foreign relations of Bangladesh
--1
-Programming languages
-Programming language classification
-Programming languages
-Notation
+Esports at multi-sport events
+2019 Southeast Asian Games events
+2019 in esports
+Esports at multi-sport events
+Esports at the 2019 Southeast Asian Games
 -1
 gam station process focus
 Educational institutions established in 1947
@@ -2194,13 +1980,23 @@ Universities and colleges in Prince George's County, Maryland
 University of Maryland Global Campus
 1947 establishments in Maryland
 -1
-Science and technology in India
-Science and technology in India
-Science and technology in India
+Windows web browsers
+1993 software
+Cross-platform software
+Discontinued web browsers
+Gopher clients
+History of software
+History of the Internet
+History of web browsers
+Mac OS web browsers
+OS/2 web browsers
+POSIX web browsers
+Windows web browsers
 -1
-Classes of computers
-Classes of computers
-Classes of computers
+Computer-aided design
+Computer-aided design software
+Computer-aided design
+Design engineering
 -1
 Programming language classification
 Programming language classification
@@ -2244,41 +2040,8 @@ Pseudoscience
 Health fraud
 Alternative medicine organizations
 -1
-Esports at multi-sport events
-2019 Southeast Asian Games events
-2019 in esports
-Esports at multi-sport events
-Esports at the 2019 Southeast Asian Games
--1
-Member states of the South Asian Association for Regional Cooperation
-International organizations based in Asia
-International economic organizations
-Foreign relations of Bhutan
-Foreign relations of Bangladesh
-Foreign relations of Nepal
-Foreign relations of Pakistan
-Foreign relations of Sri Lanka
-Foreign relations of the Maldives
-Organizations established in 1985
-South Asian Association for Regional Cooperation
-Intergovernmental organizations established by treaty
-Foreign relations of Afghanistan
-United Nations General Assembly observers
-International organisations based in Nepal
-International organizations based in Asia
-International economic organizations
-Foreign relations of Bhutan
-Foreign relations of Bangladesh
-Foreign relations of Nepal
-Foreign relations of Pakistan
-Foreign relations of Sri Lanka
-Foreign relations of the Maldives
-Organizations established in 1985
-South Asian Association for Regional Cooperation
-Intergovernmental organizations established by treaty
-Foreign relations of Afghanistan
-United Nations General Assembly observers
-International organisations based in Nepal
+Web portals
+Web portals
 -1
 States and union territories of India
 States and union territories of India-related lists
@@ -2333,11 +2096,8 @@ Formal statements
 Strategic management
 Venture capital
 -1
-Fictional locations
-Fiction
-Fictional locations
-Fiction
-Fictional locations
+Ubiquitous computing
+Ubiquitous computing
 -1
 Video game companies established in 2008
 Companies based in Massachusetts
@@ -2350,21 +2110,36 @@ Republicanism
 Republicanism
 Republicanism
 -1
-Motivation
-Motivation
-Experimental psychology
-Cognition
-Motivation
-Experimental psychology
-Cognition
+Activision Blizzard
+Companies in the NASDAQ-100 Index
+Companies listed on NASDAQ
+Activision
+Activision Blizzard
+American companies established in 2008
+Blizzard Entertainment
+Companies based in Santa Monica, California
+Companies formed by merger
+Former Vivendi subsidiaries
+Holding companies established in 2008
+Video game companies established in 2008
+Video game companies of the United States
+Video game development companies
+Video game publishers
+2008 establishments in California
 -1
-2012 conferences
-NCAA Division I FBS football by conference
-Bowl Championship Series
-College Football Playoff
-NCAA Division I FBS football by conference
-Bowl Championship Series
-College Football Playoff
+Forms of government
+Government
+Political terminology
+Main topic articles
+Government
+Political terminology
+Main topic articles
+-1
+Indexes of computer topics
+Android (operating system)
+Indexes of computer topics
+Android (operating system)
+Indexes of computer topics
 -1
 Member states of the United Nations
 United Nations relations
@@ -2378,13 +2153,9 @@ Countries by international organization
 Member states of the United Nations
 United Nations-related lists
 -1
-Multiplayer online games
-Massively multiplayer online games
-Modeling and simulation
-Multiplayer online games
-Video game genres
-Video game terminology
-Social software
+Science and technology in India
+Science and technology in India
+Science and technology in India
 -1
 Enterprise resource planning terminology
 ERP software
@@ -2416,32 +2187,59 @@ Bilateral relations of India
 Territorial disputes of the Republic of China
 China–India border
 -1
-Software project management
-Software project management
-Software project management
+Woven fabrics
+Woven fabrics
+Textiles
+Textile stubs
 -1
-Cognition
-Cognition
-Cognitive science
-Mind
-Cognitive psychology
-Cognition
-Cognitive science
-Mind
-Cognitive psychology
+Classes of computers
+Classes of computers
+Classes of computers
 -1
-Modeling and simulation
-Modeling and simulation
-Military terminology
+Lists of information technology companies
+Lists of companies by revenue
+Economy-related lists of superlatives
+Lists of information technology companies
+Lists of companies by revenue
+Economy-related lists of superlatives
+Lists of information technology companies
+-1
+Foreign relations of the Maldives
+Foreign relations of the Maldives
+Maldives and the Commonwealth of Nations
+Foreign relations of the Maldives
+Maldives and the Commonwealth of Nations
+-1
+Technology assessment
+Technology assessment
+Technology forecasting
+Futurology
+Impact assessment
+Technology
+Design for X
+Technology transfer
+Technology assessment
+Technology forecasting
+Futurology
+Impact assessment
+Technology
+Design for X
+Technology transfer
 -1
 Computer-aided manufacturing
 Computer-aided manufacturing
 Information technology management
 Product lifecycle management
 -1
-Software companies of China
-Industry in China
-Software industry
+Experimental psychology
+Experimental psychology
+Branches of psychology
+Psychological methodology
+Mathematical and quantitative methods (economics)
+Experimental psychology
+Branches of psychology
+Psychological methodology
+Mathematical and quantitative methods (economics)
 -1
 Information technology management
 Information technology management
@@ -2459,11 +2257,15 @@ Home appliances
 Office equipment
 Personal computers
 -1
-Companies listed on the Hong Kong Stock Exchange
-Companies listed on the Hong Kong Stock Exchange
-Lists of companies of Hong Kong
-Lists of companies by stock exchange
-Stock exchanges in Hong Kong
+Indian inventions
+Science and technology in India
+Indian inventions
+Lists of inventions or discoveries
+India science and technology-related lists
+Science and technology in India
+Indian inventions
+Lists of inventions or discoveries
+India science and technology-related lists
 -1
 Republicanism in the Commonwealth realms
 Commonwealth republics
@@ -2482,12 +2284,6 @@ Systems engineering
 Forest certification
 Pharmaceuticals policy
 -1
-Online companies of China
-Internet in China
-Online games
-Video game culture
-Video gaming in China
--1
 Foreign relations of Pakistan
 Pakistan and the Commonwealth of Nations
 Foreign relations of Pakistan
@@ -2512,15 +2308,9 @@ University of Maryland Global Campus
 Esports at multi-sport events
 Esports at the 2019 Southeast Asian Games
 -1
-Indian inventions
-Science and technology in India
-Indian inventions
-Lists of inventions or discoveries
-India science and technology-related lists
-Science and technology in India
-Indian inventions
-Lists of inventions or discoveries
-India science and technology-related lists
+Foreign relations of China
+Foreign relations of China
+Foreign relations of China
 -1
 21st-century diplomatic conferences
 2019 conferences
@@ -2550,13 +2340,22 @@ NATO summits
 United Kingdom and NATO
 International organization stubs
 -1
-Programming language topics
-Programming language topics
-System software
-Systems programming languages
-Programming language topics
-System software
-Systems programming languages
+Holding companies established in 2008
+Companies in the NASDAQ-100 Index
+Companies listed on NASDAQ
+Activision
+Activision Blizzard
+American companies established in 2008
+Blizzard Entertainment
+Companies based in Santa Monica, California
+Companies formed by merger
+Former Vivendi subsidiaries
+Holding companies established in 2008
+Video game companies established in 2008
+Video game companies of the United States
+Video game development companies
+Video game publishers
+2008 establishments in California
 -1
 Encodings
 Encodings
@@ -2574,15 +2373,13 @@ Lists of inventions or discoveries
 United Kingdom science-related lists
 Economy of the United Kingdom-related lists
 -1
-Lists of proposals
-Proposed amendments to the United States Constitution
-United States history-related lists
-Lists of United States legislation
-Lists of proposals
-Proposed amendments to the United States Constitution
-United States history-related lists
-Lists of United States legislation
-Lists of proposals
+Programming language topics
+Programming language topics
+System software
+Systems programming languages
+Programming language topics
+System software
+Systems programming languages
 -1
 Organizations established in 1985
 1985 establishments in the United States
@@ -2610,19 +2407,25 @@ Engineering occupations
 Engineering-related lists
 Engineering disciplines
 -1
-Information
-Concepts in metaphysics
-Information
-Information science
-Concepts in metaphysics
-Information
-Information science
+Automated reasoning
+Theoretical computer science
+Automated theorem proving
+Artificial intelligence
+Logic in computer science
+Automated reasoning
+Theoretical computer science
+Automated theorem proving
+Artificial intelligence
+Logic in computer science
+Automated reasoning
 -1
-Personal life
-Personal life
-Philosophy of life
-Personal life
-Philosophy of life
+dynamic view mind seiko function dec
+History of computing hardware
+Personal computers
+History of computing topical overviews
+History of computing hardware
+Personal computers
+History of computing topical overviews
 -1
 Economy-related lists of superlatives
 S&P Dow Jones Indices
@@ -2643,26 +2446,16 @@ Environmental social science
 Industrial ecology
 Market failure
 -1
-Cyberpunk themes
-Cyberpunk
-Dystopian fiction
-Subcultures
-Futurology
-Postmodernism
-Science fiction culture
-Words coined in the 1960s
-Cyberpunk
-Dystopian fiction
-Subcultures
-Futurology
-Postmodernism
-Science fiction culture
-Words coined in the 1960s
--1
-2004 initial public offerings
-Initial public offering
-Stock market terminology
-Dutch inventions
+Academy of Interactive Arts & Sciences members
+Video game organizations
+1992 establishments in the United States
+Awards established in 1998
+Interactive Achievement Award winners
+Organizations established in 1992
+Video game development
+Recurring events established in 2002
+Video game trade shows
+2002 establishments in Nevada
 -1
 Multilateral relations of Russia
 Russia–European Union relations
@@ -2672,15 +2465,9 @@ Russia–European Union relations
 Multilateral relations of Russia
 Third-country relations of the European Union
 -1
-History of computing hardware
-History of computing hardware
-Early computers
-One-of-a-kind computers
-History of computing topical overviews
-History of computing hardware
-Early computers
-One-of-a-kind computers
-History of computing topical overviews
+Software project management
+Software project management
+Software project management
 -1
 Natural materials
 Natural materials
@@ -2704,6 +2491,14 @@ Wood products
 Plant anatomy
 Forest products
 -1
+Multiplayer online games
+Massively multiplayer online games
+Modeling and simulation
+Multiplayer online games
+Video game genres
+Video game terminology
+Social software
+-1
 Infographics
 Illustration
 Graphic design
@@ -2742,11 +2537,10 @@ Computers
 Consumer electronics
 Electronics industry
 -1
-International military organizations
-Intergovernmental organizations
-Globalization
-Intergovernmental organizations
-Globalization
+Violence in video games
+Video gaming
+Violence in video games
+Video game controversies
 -1
 Companies based in Santa Monica, California
 1999 establishments in California
@@ -2779,6 +2573,12 @@ American inventions
 British inventions
 Indian inventions
 Pakistani inventions
+-1
+First-person shooters
+First-person shooters
+Video game genres
+Video game terminology
+Violence in video games
 -1
 Construction standards
 Construction
@@ -2851,6 +2651,22 @@ United States federal law
 United States law
 United States federal law
 -1
+Cyberpunk themes
+Cyberpunk
+Dystopian fiction
+Subcultures
+Futurology
+Postmodernism
+Science fiction culture
+Words coined in the 1960s
+Cyberpunk
+Dystopian fiction
+Subcultures
+Futurology
+Postmodernism
+Science fiction culture
+Words coined in the 1960s
+-1
 Business intelligence
 Business intelligence
 Financial data analysis
@@ -2863,46 +2679,67 @@ Data management
 Financial technology
 Information management
 -1
-International economic organizations
-International organizations
-Cultural globalization
-International organizations
-Cultural globalization
+Lists of video game franchises
+Lists of video game franchises
+Video game lists by company
+Sega franchises
+Sega video games
 -1
-Hampden, Baltimore
-Appalachian culture in Baltimore
-Federal architecture in Maryland
-Greek Revival architecture in Maryland
-Hampden, Baltimore
-Historic districts on the National Register of Historic Places in Baltimore
-Neighborhoods in Baltimore
-Northern Baltimore
-White American culture in Baltimore
-White American working class
-Working-class culture in Baltimore
-Appalachian culture in Baltimore
-Federal architecture in Maryland
-Greek Revival architecture in Maryland
-Hampden, Baltimore
-Historic districts on the National Register of Historic Places in Baltimore
-Neighborhoods in Baltimore
-Northern Baltimore
-White American culture in Baltimore
-White American working class
-Working-class culture in Baltimore
+Wireless
+Wireless
+Wireless networking
+History of radio
+Television terminology
 -1
-Crops
-Crops
+Fictional locations
+Fiction
+Fictional locations
+Fiction
+Fictional locations
 -1
-Knowledge representation
-Knowledge representation
-Scientific modeling
-Programming paradigms
-Automated reasoning
-Knowledge representation
-Scientific modeling
-Programming paradigms
-Automated reasoning
+Shanghai Cooperation Organisation
+Shanghai Cooperation Organisation
+20th-century military alliances
+21st-century military alliances
+Intergovernmental organizations established by treaty
+International organizations based in Asia
+International military organizations
+Multilateral relations of Russia
+Organizations established in 1996
+Post-Soviet alliances
+China–Russia relations
+Kazakhstan–Kyrgyzstan relations
+Kazakhstan–Russia relations
+Kazakhstan–Uzbekistan relations
+Kyrgyzstan–Russia relations
+Kyrgyzstan–Tajikistan relations
+Kyrgyzstan–Uzbekistan relations
+Pakistan–Russia relations
+Russia–Tajikistan relations
+Russia–Uzbekistan relations
+Tajikistan–Uzbekistan relations
+United Nations General Assembly observers
+Shanghai Cooperation Organisation
+20th-century military alliances
+21st-century military alliances
+Intergovernmental organizations established by treaty
+International organizations based in Asia
+International military organizations
+Multilateral relations of Russia
+Organizations established in 1996
+Post-Soviet alliances
+China–Russia relations
+Kazakhstan–Kyrgyzstan relations
+Kazakhstan–Russia relations
+Kazakhstan–Uzbekistan relations
+Kyrgyzstan–Russia relations
+Kyrgyzstan–Tajikistan relations
+Kyrgyzstan–Uzbekistan relations
+Pakistan–Russia relations
+Russia–Tajikistan relations
+Russia–Uzbekistan relations
+Tajikistan–Uzbekistan relations
+United Nations General Assembly observers
 -1
 Demulcents
 Demulcents
@@ -2916,21 +2753,15 @@ Computer-aided engineering
 Product lifecycle management
 Engineering disciplines
 -1
-Technology assessment
-Technology assessment
-Technology forecasting
-Futurology
-Impact assessment
-Technology
-Design for X
-Technology transfer
-Technology assessment
-Technology forecasting
-Futurology
-Impact assessment
-Technology
-Design for X
-Technology transfer
+Cognition
+Cognition
+Cognitive science
+Mind
+Cognitive psychology
+Cognition
+Cognitive science
+Mind
+Cognitive psychology
 -1
 classical linen
 Linen industry
@@ -2960,17 +2791,24 @@ Lists of film lists
 Lists of films
 Lists of films by topic
 -1
-Behavioural sciences
-Behavioural sciences
-Cognitive science
-Behavioural sciences
-Cognitive science
+Pakistani inventions
+Pakistani inventions
+Lists of inventions or discoveries
+History of science and technology in Pakistan
+Pakistani inventions
+Lists of inventions or discoveries
+History of science and technology in Pakistan
 -1
-Foreign relations of the Maldives
-Foreign relations of the Maldives
-Maldives and the Commonwealth of Nations
-Foreign relations of the Maldives
-Maldives and the Commonwealth of Nations
+Building materials
+Building materials
+-1
+relations diagram
+Graphical concepts in set theory
+Diagrams
+Statistical charts and diagrams
+Graphical concepts in set theory
+Diagrams
+Statistical charts and diagrams
 -1
 1856 establishments in Maryland
 University of Maryland, College Park
@@ -2984,15 +2822,27 @@ History of Maryland
 Educational institutions established in 1856
 1856 establishments in Maryland
 -1
-Commonwealth of Nations-related lists
-Member states of the Commonwealth of Nations
-Commonwealth of Nations-related lists
-History of the Commonwealth of Nations
-Countries by international organization
-Member states of the Commonwealth of Nations
-Commonwealth of Nations-related lists
-History of the Commonwealth of Nations
-Countries by international organization
+Urdu-speaking countries and territories
+Jammu and Kashmir
+North India
+History of the Republic of India
+States and territories established in 2019
+2019 establishments in India
+Urdu-speaking countries and territories
+Kashmiri-speaking countries and territories
+Territorial disputes of Pakistan
+Disputed territories in Asia
+Union Territories of India
+Jammu and Kashmir
+North India
+History of the Republic of India
+States and territories established in 2019
+2019 establishments in India
+Urdu-speaking countries and territories
+Kashmiri-speaking countries and territories
+Territorial disputes of Pakistan
+Disputed territories in Asia
+Union Territories of India
 -1
 Radio-frequency identification
 Radio-frequency identification
@@ -3001,38 +2851,20 @@ Privacy
 Ubiquitous computing
 Wireless
 -1
-India politics-related lists
-Government schemes in India
-India politics-related lists
-India government-related lists
-Government schemes in India
-India politics-related lists
-India government-related lists
+FTP clients
+FTP clients
+Network software comparisons
 -1
-Futurology
-Futurology
-Prediction
-Pseudoscience
-Technology forecasting
-Systems thinking
-Futurology
-Prediction
-Pseudoscience
-Technology forecasting
-Systems thinking
+Companies in the Hang Seng Index
+Companies in the Hang Seng Index
+Hang Seng Index
+Hong Kong stock market indices
+Hang Seng Bank stock market indices
 -1
-Lists of PC games
-Lists of PC games
--1
-Member states of the Commonwealth of Nations
-Member states of the Commonwealth of Nations
-Commonwealth of Nations-related lists
-History of the Commonwealth of Nations
-Countries by international organization
-Member states of the Commonwealth of Nations
-Commonwealth of Nations-related lists
-History of the Commonwealth of Nations
-Countries by international organization
+Programming constructs
+Programming language classification
+Programming languages
+Notation
 -1
 Philosophy of mind
 Philosophy of mind
@@ -3104,36 +2936,19 @@ Self
 Theories
 Thought
 -1
-Holding companies established in 1998
-Holding companies of the United States
-Companies based in New York City
-American companies established in 1998
-Holding companies established in 1998
-Retail companies established in 1998
-1998 establishments in Alabama
-Companies formerly listed on the New York Stock Exchange
-Hudson's Bay Company
-2013 mergers and acquisitions
+Internet properties established in 1998
+Defunct online companies of the United States
+Fraud in the United States
+Internet properties disestablished in 2000
+Internet properties established in 1998
+1998 establishments in California
+2000 disestablishments in California
+Corporate scandals
+Information technology company stubs
 -1
 Science and technology in Pakistan
 Science and technology in Pakistan
 Science and technology in Pakistan
--1
-Lists of fictional locations
-Lists of location lists
-Lists of fictional locations
-Fictional locations
-Lists of fictional things
-Lists of location lists
-Lists of fictional locations
-Fictional locations
-Lists of fictional things
--1
-Companies in the NASDAQ-100 Index
-Companies in the NASDAQ-100 Index
-Companies listed on NASDAQ
-American stock market indices
-NASDAQ
 -1
 Call of Duty
 Activision Blizzard franchises
@@ -3149,22 +2964,173 @@ Windows games
 Tencent
 Video game franchises introduced in 2003
 -1
-Indexes of computer topics
-Android (operating system)
-Indexes of computer topics
-Android (operating system)
-Indexes of computer topics
+English language
+Analytic languages
+English language
+English languages
+Fusional languages
+Germanic languages
+Languages of American Samoa
+Languages of Antigua and Barbuda
+Languages of Australia
+Languages of Belize
+Languages of Bermuda
+Languages of Botswana
+Languages of Cameroon
+Languages of Canada
+Languages of Fiji
+Languages of Ghana
+Languages of Grenada
+Languages of Guam
+Languages of Guyana
+Languages of Hong Kong
+Languages of India
+Languages of Ireland
+Languages of Jamaica
+Languages of Kenya
+Languages of Kiribati
+Languages of Lesotho
+Languages of Liberia
+Languages of Malawi
+Languages of Malaysia
+Languages of Malta
+Languages of Mauritius
+Languages of Namibia
+Languages of Nauru
+Languages of New Zealand
+Languages of Nigeria
+Languages of Niue
+Languages of Pakistan
+Languages of Palau
+Languages of Papua New Guinea
+Languages of Rwanda
+Languages of Saint Kitts and Nevis
+Languages of Saint Lucia
+Languages of Saint Vincent and the Grenadines
+Languages of Samoa
+Languages of Seychelles
+Languages of Sierra Leone
+Languages of Singapore
+Languages of South Africa
+Languages of South Sudan
+Languages of Sudan
+Languages of Eswatini
+Languages of the Bahamas
+Languages of the British Virgin Islands
+Languages of the Cayman Islands
+Languages of the Marshall Islands
+Languages of the Philippines
+Languages of the Pitcairn Islands
+Languages of the Solomon Islands
+Languages of the United Kingdom
+Languages of the United States Virgin Islands
+Languages of the United States
+Languages of Tokelau
+Languages of Trinidad and Tobago
+Languages of Uganda
+Languages of Vanuatu
+Languages of Zambia
+Languages of Zimbabwe
+Stress-timed languages
+Subject–verb–object languages
+Cultural globalization
+Languages of Taiwan
+Analytic languages
+English language
+English languages
+Fusional languages
+Germanic languages
+Languages of American Samoa
+Languages of Antigua and Barbuda
+Languages of Australia
+Languages of Belize
+Languages of Bermuda
+Languages of Botswana
+Languages of Cameroon
+Languages of Canada
+Languages of Fiji
+Languages of Ghana
+Languages of Grenada
+Languages of Guam
+Languages of Guyana
+Languages of Hong Kong
+Languages of India
+Languages of Ireland
+Languages of Jamaica
+Languages of Kenya
+Languages of Kiribati
+Languages of Lesotho
+Languages of Liberia
+Languages of Malawi
+Languages of Malaysia
+Languages of Malta
+Languages of Mauritius
+Languages of Namibia
+Languages of Nauru
+Languages of New Zealand
+Languages of Nigeria
+Languages of Niue
+Languages of Pakistan
+Languages of Palau
+Languages of Papua New Guinea
+Languages of Rwanda
+Languages of Saint Kitts and Nevis
+Languages of Saint Lucia
+Languages of Saint Vincent and the Grenadines
+Languages of Samoa
+Languages of Seychelles
+Languages of Sierra Leone
+Languages of Singapore
+Languages of South Africa
+Languages of South Sudan
+Languages of Sudan
+Languages of Eswatini
+Languages of the Bahamas
+Languages of the British Virgin Islands
+Languages of the Cayman Islands
+Languages of the Marshall Islands
+Languages of the Philippines
+Languages of the Pitcairn Islands
+Languages of the Solomon Islands
+Languages of the United Kingdom
+Languages of the United States Virgin Islands
+Languages of the United States
+Languages of Tokelau
+Languages of Trinidad and Tobago
+Languages of Uganda
+Languages of Vanuatu
+Languages of Zambia
+Languages of Zimbabwe
+Stress-timed languages
+Subject–verb–object languages
+Cultural globalization
+Languages of Taiwan
 -1
-Companies' terms of service
-Terms of service
+International military organizations
+Intergovernmental organizations
+Globalization
+Intergovernmental organizations
+Globalization
 -1
-States and territories established in 1947
-India politics-related lists
-Proposed states and territories of India
-Lists of proposals
-India politics-related lists
-Proposed states and territories of India
-Lists of proposals
+Lists of PC games
+Lists of PC games
+-1
+Video game companies based in California
+Defunct video game companies of the United States
+Video game companies based in California
+Software companies based in the San Francisco Bay Area
+Companies based in Burlingame, California
+Defunct companies based in the San Francisco Bay Area
+-1
+Science-related lists
+Lists of film lists
+Science fiction films
+Lists of science fiction films
+Lists of works of science fiction, arranged in chronological order
+Lists of film lists
+Science fiction films
+Lists of science fiction films
+Lists of works of science fiction, arranged in chronological order
 -1
 Multinational companies headquartered in China
 Companies based in Shanghai
@@ -3181,53 +3147,53 @@ Esports games
 Esports at multi-sport events
 Esports at the 2019 Southeast Asian Games
 -1
-Foreign relations of Russia
-Foreign relations of Russia
-Politics of Russia
-Foreign relations of Russia
-Politics of Russia
+Fair trade
+Fair trade
+Economy and the environment
+Economic globalization
+Social movements
 -1
-Experimental psychology
-Experimental psychology
-Branches of psychology
-Psychological methodology
-Mathematical and quantitative methods (economics)
-Experimental psychology
-Branches of psychology
-Psychological methodology
-Mathematical and quantitative methods (economics)
+Foreign relations of Bangladesh
+Bangladesh and the Commonwealth of Nations
+Foreign relations of Bangladesh
+Bangladesh and the Commonwealth of Nations
+Foreign relations of Bangladesh
 -1
-relations diagram
-Graphical concepts in set theory
-Diagrams
-Statistical charts and diagrams
-Graphical concepts in set theory
-Diagrams
-Statistical charts and diagrams
+Video game companies established in 1979
+Infocom
+Defunct Activision subsidiaries
+Defunct video game companies
+Software companies based in Massachusetts
+Defunct companies based in Massachusetts
+Companies based in Cambridge, Massachusetts
+Video game companies established in 1979
+1979 establishments in Massachusetts
+1989 disestablishments in Massachusetts
+Video game companies disestablished in 1989
 -1
-American inventions
-Technology timelines
-Lists of inventions or discoveries
-Technology timelines
-Lists of inventions or discoveries
+i duty
+Activision Blizzard franchises
+Activision games
+Call of Duty
+Esports games
+First-person shooters
+Third-person shooters
+Multiplayer online games
+Video game franchises
+World War II video games
+Windows games
+Tencent
+Video game franchises introduced in 2003
 -1
-Data management
-Data management
-Information technology management
-Data management
-Information technology management
+Linum
+Linum
+Malpighiales genera
 -1
-Strategic management
-Strategic management
-Systems thinking
-Business terms
-Management by type
-Strategy
-Strategic management
-Systems thinking
-Business terms
-Management by type
-Strategy
+Computer occupations
+Lists of occupations
+Computer occupations
+Lists of occupations
+Computer occupations
 -1
 software company level
 Software development
@@ -3245,6 +3211,16 @@ Parabolic partial differential equations
 Biological processes
 Chaos theory
 Alan Turing
+-1
+Member states of the Commonwealth of Nations
+Member states of the Commonwealth of Nations
+Commonwealth of Nations-related lists
+History of the Commonwealth of Nations
+Countries by international organization
+Member states of the Commonwealth of Nations
+Commonwealth of Nations-related lists
+History of the Commonwealth of Nations
+Countries by international organization
 -1
 American brands
 Fortune Brands brands
@@ -3414,28 +3390,17 @@ Thought
 Truth
 Unsolved problems in neuroscience
 -1
-Internet properties established in 1998
-Defunct online companies of the United States
-Fraud in the United States
-Internet properties disestablished in 2000
-Internet properties established in 1998
-1998 establishments in California
-2000 disestablishments in California
-Corporate scandals
-Information technology company stubs
+Data management
+Data management
+Information technology management
+Data management
+Information technology management
 -1
 Video game genres
 Video game genres
 -1
-Systems analysis
-Futurology
-Financial analysts
-Technology assessment
-Systems analysis
-Futurology
-Financial analysts
-Technology assessment
-Systems analysis
+Metrication
+Metrication
 -1
 Flora of Western Asia
 Amaranthaceae
@@ -3454,24 +3419,42 @@ Flora of Saudi Arabia
 Plants described in 1860
 Amaranthaceae stubs
 -1
-Activision
-Activision
-1979 establishments in California
-Academy of Interactive Arts & Sciences members
-American brands
-Companies based in Santa Monica, California
-Former Vivendi subsidiaries
-Video game companies based in California
-Video game companies established in 1979
-Video game companies of the United States
-Video game development companies
-Video game publishers
--1
-First-person shooters
-First-person shooters
+Massively multiplayer online games
+Massively multiplayer online games
+Modeling and simulation
+Multiplayer online games
 Video game genres
 Video game terminology
-Violence in video games
+Social software
+-1
+Tencent
+Companies in the Hang Seng Index
+Companies in the Hang Seng China Enterprises Index
+Hang Seng China 50 Index
+Tencent
+Video game companies established in 1998
+2004 initial public offerings
+Chinese brands
+Chinese companies established in 1998
+Civilian-run enterprises of China
+Companies based in Shenzhen
+Companies listed on the Hong Kong Stock Exchange
+Companies' terms of service
+FTP clients
+Holding companies established in 1998
+Internet properties established in 1998
+Investment companies of China
+Multinational companies headquartered in China
+Nanshan District, Shenzhen
+Offshore companies in the Cayman Islands
+Online companies of China
+RSS
+Software companies of China
+Video game companies of China
+Video game development companies
+Video game publishers
+Web portals
+Windows web browsers
 -1
 Textiles
 Textiles
@@ -3480,29 +3463,46 @@ Clothing industry
 Pharmaceuticals policy
 Pharmaceuticals policy
 -1
+Systems analysis
+Futurology
+Financial analysts
+Technology assessment
+Systems analysis
+Futurology
+Financial analysts
+Technology assessment
+Systems analysis
+-1
 Design engineering
 Engineering
 Mechanical engineering
 Systems engineering
 -1
-Personal development
-Personal development
-Personal development
+Foreign relations of Russia
+Foreign relations of Russia
+Politics of Russia
+Foreign relations of Russia
+Politics of Russia
 -1
-Diagrams
-Infographics
-Diagrams
-Modeling languages
-Infographics
-Diagrams
-Modeling languages
+Software companies of China
+Industry in China
+Software industry
 -1
-RSS
-RSS
-Computer file formats
-Computer-related introductions in 1999
-Open formats
-Web syndication formats
-XML-based standards
+States and territories established in 1947
+India politics-related lists
+Proposed states and territories of India
+Lists of proposals
+India politics-related lists
+Proposed states and territories of India
+Lists of proposals
+-1
+Companies' terms of service
+Terms of service
+-1
+Production and manufacturing
+Manufacturing
+Production and manufacturing
+Manufacturing
+Production and manufacturing
 -1
 -2

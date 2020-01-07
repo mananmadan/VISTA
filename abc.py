@@ -178,11 +178,7 @@ def read_from_file(graph,name):
 
 graph = defaultdict(list)
 
-xl = ["data flow diagram","classical linen","cam scanner art",
-"ability completeness traceability","consistency details design","una tui quot ness","modify ability semantics",
-"tug sri han capability maturity model com","i duty","auth standards organisation blank software companies kernel",
-"act city spa key process seas","repeatable com","adam hefner","anime lib spa","requirement management","project planning",
-"frost i seasons","software project","i ane sight","subcontract management grad stay module","software quality assurance",
+xl = ["i ane sight","subcontract management grad stay module","software quality assurance",
 "configuration management","cam scanner art","time data","diagram event part limit","data event","flow que need",
 "service bacon scenarios events function mange data","monthly weekly trig que","plain dental management","dental service",
 "clos liberia timber thu music","price i","past villas date cd","particular services clinic sends","appointment patient performs",

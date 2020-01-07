@@ -55,6 +55,13 @@ Library cataloging and classification
 Library cataloging and classification
 Knowledge representation
 -1
+Strategic management
+Strategic management
+Systems thinking
+Business terms
+Management by type
+Strategy
+-1
 Human Development Index
 Human Development Index
 Development economics
@@ -89,11 +96,6 @@ Foreign relations of Sri Lanka
 Foreign relations of Sri Lanka
 Sri Lanka and the Commonwealth of Nations
 -1
-Forms of government
-Government
-Political terminology
-Main topic articles
--1
 Product lifecycle management
 Brand management
 Product lifecycle management
@@ -114,6 +116,15 @@ Real estate in the United States
 Architecture schools
 Business schools
 University programs
+-1
+Technology assessment
+Technology assessment
+Technology forecasting
+Futurology
+Impact assessment
+Technology
+Design for X
+Technology transfer
 -1
 Foreign relations of Brazil
 Foreign relations of Brazil
@@ -157,85 +168,13 @@ Happiness
 Home appliances
 Home appliances
 -1
+Foreign relations of China
+Foreign relations of China
+-1
 Asia-related lists
 Lists of city lists
 Lists of cities in Asia
 Lists of cities by continent
--1
-English language
-Analytic languages
-English language
-English languages
-Fusional languages
-Germanic languages
-Languages of American Samoa
-Languages of Antigua and Barbuda
-Languages of Australia
-Languages of Belize
-Languages of Bermuda
-Languages of Botswana
-Languages of Cameroon
-Languages of Canada
-Languages of Fiji
-Languages of Ghana
-Languages of Grenada
-Languages of Guam
-Languages of Guyana
-Languages of Hong Kong
-Languages of India
-Languages of Ireland
-Languages of Jamaica
-Languages of Kenya
-Languages of Kiribati
-Languages of Lesotho
-Languages of Liberia
-Languages of Malawi
-Languages of Malaysia
-Languages of Malta
-Languages of Mauritius
-Languages of Namibia
-Languages of Nauru
-Languages of New Zealand
-Languages of Nigeria
-Languages of Niue
-Languages of Pakistan
-Languages of Palau
-Languages of Papua New Guinea
-Languages of Rwanda
-Languages of Saint Kitts and Nevis
-Languages of Saint Lucia
-Languages of Saint Vincent and the Grenadines
-Languages of Samoa
-Languages of Seychelles
-Languages of Sierra Leone
-Languages of Singapore
-Languages of South Africa
-Languages of South Sudan
-Languages of Sudan
-Languages of Eswatini
-Languages of the Bahamas
-Languages of the British Virgin Islands
-Languages of the Cayman Islands
-Languages of the Marshall Islands
-Languages of the Philippines
-Languages of the Pitcairn Islands
-Languages of the Solomon Islands
-Languages of the United Kingdom
-Languages of the United States Virgin Islands
-Languages of the United States
-Languages of Tokelau
-Languages of Trinidad and Tobago
-Languages of Uganda
-Languages of Vanuatu
-Languages of Zambia
-Languages of Zimbabwe
-Stress-timed languages
-Subject–verb–object languages
-Cultural globalization
-Languages of Taiwan
--1
-Foreign relations of China
-Foreign relations of China
 -1
 United Nations-related lists
 Outlines of organizations
@@ -250,9 +189,13 @@ Information systems
 Information systems
 Information
 -1
-English-speaking countries and territories
-English language
-Country classifications
+data flow diagram
+Information systems
+Data management
+Diagrams
+Graph drawing
+Systems analysis
+Modeling languages
 -1
 South Asian countries
 Regions of Asia
@@ -260,6 +203,12 @@ South Asia
 -1
 Foreign relations of Bhutan
 Foreign relations of Bhutan
+-1
+Lists of fictional locations
+Lists of location lists
+Lists of fictional locations
+Fictional locations
+Lists of fictional things
 -1
 Graph drawing
 Graph drawing
@@ -315,20 +264,10 @@ Federalism
 Political systems
 Political theories
 -1
-Science-related lists
-Lists of film lists
-Science fiction films
-Lists of science fiction films
-Lists of works of science fiction, arranged in chronological order
--1
 Commonwealth republics
 Commonwealth republics
 Member states of the Commonwealth of Nations
 Republicanism in the Commonwealth realms
--1
-Computer occupations
-Lists of occupations
-Computer occupations
 -1
 Concepts in ethics
 Ethics
@@ -403,10 +342,9 @@ Intergovernmental organizations
 International economic organizations
 Organizations established in 1999
 -1
-Pakistani inventions
-Pakistani inventions
-Lists of inventions or discoveries
-History of science and technology in Pakistan
+Behavioural sciences
+Behavioural sciences
+Cognitive science
 -1
 Metaphysics of mind
 Metaphysics
@@ -431,11 +369,25 @@ Safety codes
 NFPA Standards
 Safety codes
 -1
-diagram attributes data dictionary data
-Data management
-Data modeling
-Knowledge representation
-Metadata
+International organizations based in Asia
+Asia-Pacific Economic Cooperation
+International economic organizations
+International political organizations
+International trade organizations
+International organizations based in Asia
+International organizations based in Oceania
+International organizations based in the Americas
+Organizations based in North America
+Organizations based in South America
+Asia-Pacific
+Trade blocs
+Business organisations based in Singapore
+International organisations based in Singapore
+Organizations established in 1989
+1989 establishments in Asia
+1989 establishments in Oceania
+1989 establishments in North America
+1989 establishments in South America
 -1
 Motivational theories
 Motivation
@@ -479,23 +431,11 @@ Computers
 Consumer electronics
 Electronics industry
 -1
-india com
-India
-BRICS nations
-Commonwealth republics
-English-speaking countries and territories
-Federal republics
-E7 nations
-G15 nations
-G20 nations
-Hindustani-speaking countries and territories
-Member states of the Commonwealth of Nations
-Member states of the South Asian Association for Regional Cooperation
-Member states of the United Nations
-South Asian countries
-States and territories established in 1947
-Countries in Asia
-Member states of the Shanghai Cooperation Organisation
+Indian inventions
+Science and technology in India
+Indian inventions
+Lists of inventions or discoveries
+India science and technology-related lists
 -1
 Bihar
 1912 establishments in India
@@ -537,17 +477,11 @@ Consumer protection law
 Culture of Baltimore
 Culture of Baltimore
 -1
-Urdu-speaking countries and territories
-Jammu and Kashmir
-North India
-History of the Republic of India
-States and territories established in 2019
-2019 establishments in India
-Urdu-speaking countries and territories
-Kashmiri-speaking countries and territories
-Territorial disputes of Pakistan
-Disputed territories in Asia
-Union Territories of India
+Commonwealth of Nations-related lists
+Member states of the Commonwealth of Nations
+Commonwealth of Nations-related lists
+History of the Commonwealth of Nations
+Countries by international organization
 -1
 Lists of information technology companies
 Lists of companies by revenue
@@ -565,13 +499,9 @@ Social philosophy
 Ethics
 Love
 -1
-data flow diagram
-Information systems
-Data management
-Diagrams
-Graph drawing
-Systems analysis
-Modeling languages
+English-speaking countries and territories
+English language
+Country classifications
 -1
 Shanghai Cooperation Organisation
 Shanghai Cooperation Organisation
@@ -611,25 +541,11 @@ Business terms
 Service industries
 Trade
 -1
-International organizations based in Asia
-Asia-Pacific Economic Cooperation
-International economic organizations
-International political organizations
-International trade organizations
-International organizations based in Asia
-International organizations based in Oceania
-International organizations based in the Americas
-Organizations based in North America
-Organizations based in South America
-Asia-Pacific
-Trade blocs
-Business organisations based in Singapore
-International organisations based in Singapore
-Organizations established in 1989
-1989 establishments in Asia
-1989 establishments in Oceania
-1989 establishments in North America
-1989 establishments in South America
+diagram attributes data dictionary data
+Data management
+Data modeling
+Knowledge representation
+Metadata
 -1
 BRICS
 BRICS
@@ -665,12 +581,11 @@ Planning
 Production and manufacturing
 Production planning
 -1
-University System of Maryland
-Universities and colleges in Maryland
-University System of Maryland
-Public university systems in the United States
-Educational institutions established in 1988
-1988 establishments in Maryland
+Member states of the Commonwealth of Nations
+Member states of the Commonwealth of Nations
+Commonwealth of Nations-related lists
+History of the Commonwealth of Nations
+Countries by international organization
 -1
 Foreign relations of South Africa
 Foreign relations of South Africa
@@ -704,15 +619,10 @@ Urdu-speaking countries and territories
 Foreign relations of Nepal
 Foreign relations of Nepal
 -1
-ERP software
-ERP software
-Information technology management
-Computer-aided engineering
-Enterprise resource planning terminology
-Business terms
-Production planning
-Business planning
-Supply chain management
+Developmental psychology
+Developmental psychology
+Branches of psychology
+Behavioural sciences
 -1
 21st century in Colombo
 Foreign relations stubs
@@ -786,18 +696,15 @@ Branches of psychology
 Psychology
 Behavioural sciences
 -1
-Automated reasoning
-Theoretical computer science
-Automated theorem proving
-Artificial intelligence
-Logic in computer science
-Automated reasoning
+2012 conferences
+NCAA Division I FBS football by conference
+Bowl Championship Series
+College Football Playoff
 -1
-Software development
-Software development
-Software project management
-Computer occupations
-Product development
+Information
+Concepts in metaphysics
+Information
+Information science
 -1
 Management by type
 Project management
@@ -810,6 +717,10 @@ Product development
 Politics
 International relations
 International relations education
+-1
+Personal life
+Personal life
+Philosophy of life
 -1
 Modeling languages
 Scientific modeling
@@ -837,11 +748,6 @@ Cities in the Baltimore–Washington metropolitan area
 Populated places established in 1856
 University towns in the United States
 Washington metropolitan area
--1
-dynamic view mind seiko function dec
-History of computing hardware
-Personal computers
-History of computing topical overviews
 -1
 Business planning
 Business documents
@@ -910,10 +816,15 @@ Architecture occupations
 Architectural design
 Engineering disciplines
 -1
-Developmental psychology
-Developmental psychology
-Branches of psychology
-Behavioural sciences
+ERP software
+ERP software
+Information technology management
+Computer-aided engineering
+Enterprise resource planning terminology
+Business terms
+Production planning
+Business planning
+Supply chain management
 -1
 E7 nations
 Intergovernmental organizations
@@ -927,13 +838,6 @@ Intermodal containers
 Economic globalization
 Merchant navy
 Freight transport
--1
-Land-grant universities and colleges
-Land-grant universities and colleges
-Universities and colleges in the United States by type
-History of United States colleges and universities
-Public universities and colleges in the United States
-Types of university or college
 -1
 software quality management spa requirements level
 ERP software
@@ -957,9 +861,11 @@ Arts organizations established in 1999
 1947 establishments in the United Kingdom
 Music licensing organizations
 -1
-Foreign relations of Bangladesh
-Bangladesh and the Commonwealth of Nations
-Foreign relations of Bangladesh
+Experimental psychology
+Experimental psychology
+Branches of psychology
+Psychological methodology
+Mathematical and quantitative methods (economics)
 -1
 gam station process focus
 Educational institutions established in 1947
@@ -977,9 +883,6 @@ Programming language classification
 Programming language classification
 Programming languages
 Notation
--1
-software management
-Software project management
 -1
 Universities and colleges in Prince George's County, Maryland
 University of Maryland, College Park
@@ -1048,10 +951,10 @@ Motivation
 Experimental psychology
 Cognition
 -1
-2012 conferences
-NCAA Division I FBS football by conference
-Bowl Championship Series
-College Football Playoff
+Forms of government
+Government
+Political terminology
+Main topic articles
 -1
 Member states of the United Nations
 United Nations relations
@@ -1077,14 +980,15 @@ Bilateral relations of India
 Territorial disputes of the Republic of China
 China–India border
 -1
-Software project management
-Software project management
+History of computing hardware
+History of computing hardware
+Early computers
+One-of-a-kind computers
+History of computing topical overviews
 -1
-Cognition
-Cognition
-Cognitive science
-Mind
-Cognitive psychology
+Foreign relations of the Maldives
+Foreign relations of the Maldives
+Maldives and the Commonwealth of Nations
 -1
 Information technology management
 Information technology management
@@ -1112,11 +1016,23 @@ Universities and colleges in Prince George's County, Maryland
 University of Maryland Global Campus
 1947 establishments in Maryland
 -1
-Indian inventions
-Science and technology in India
-Indian inventions
-Lists of inventions or discoveries
-India science and technology-related lists
+india com
+India
+BRICS nations
+Commonwealth republics
+English-speaking countries and territories
+Federal republics
+E7 nations
+G15 nations
+G20 nations
+Hindustani-speaking countries and territories
+Member states of the Commonwealth of Nations
+Member states of the South Asian Association for Regional Cooperation
+Member states of the United Nations
+South Asian countries
+States and territories established in 1947
+Countries in Asia
+Member states of the Shanghai Cooperation Organisation
 -1
 21st-century diplomatic conferences
 2019 conferences
@@ -1164,14 +1080,17 @@ Engineering occupations
 Engineering-related lists
 Engineering disciplines
 -1
-Information
-Concepts in metaphysics
-Information
-Information science
+Automated reasoning
+Theoretical computer science
+Automated theorem proving
+Artificial intelligence
+Logic in computer science
+Automated reasoning
 -1
-Personal life
-Personal life
-Philosophy of life
+dynamic view mind seiko function dec
+History of computing hardware
+Personal computers
+History of computing topical overviews
 -1
 Economy-related lists of superlatives
 S&P Dow Jones Indices
@@ -1197,11 +1116,8 @@ Russia–European Union relations
 Multilateral relations of Russia
 Third-country relations of the European Union
 -1
-History of computing hardware
-History of computing hardware
-Early computers
-One-of-a-kind computers
-History of computing topical overviews
+Software project management
+Software project management
 -1
 Infographics
 Illustration
@@ -1309,14 +1225,11 @@ Computer-aided engineering
 Product lifecycle management
 Engineering disciplines
 -1
-Technology assessment
-Technology assessment
-Technology forecasting
-Futurology
-Impact assessment
-Technology
-Design for X
-Technology transfer
+Cognition
+Cognition
+Cognitive science
+Mind
+Cognitive psychology
 -1
 G20 nations
 G20
@@ -1331,13 +1244,21 @@ Lists of film lists
 Lists of films
 Lists of films by topic
 -1
-Behavioural sciences
-Behavioural sciences
-Cognitive science
+Pakistani inventions
+Pakistani inventions
+Lists of inventions or discoveries
+History of science and technology in Pakistan
 -1
-Foreign relations of the Maldives
-Foreign relations of the Maldives
-Maldives and the Commonwealth of Nations
+Software development
+Software development
+Software project management
+Computer occupations
+Product development
+-1
+relations diagram
+Graphical concepts in set theory
+Diagrams
+Statistical charts and diagrams
 -1
 1856 establishments in Maryland
 University of Maryland, College Park
@@ -1346,11 +1267,17 @@ History of Maryland
 Educational institutions established in 1856
 1856 establishments in Maryland
 -1
-Commonwealth of Nations-related lists
-Member states of the Commonwealth of Nations
-Commonwealth of Nations-related lists
-History of the Commonwealth of Nations
-Countries by international organization
+Urdu-speaking countries and territories
+Jammu and Kashmir
+North India
+History of the Republic of India
+States and territories established in 2019
+2019 establishments in India
+Urdu-speaking countries and territories
+Kashmiri-speaking countries and territories
+Territorial disputes of Pakistan
+Disputed territories in Asia
+Union Territories of India
 -1
 India politics-related lists
 Government schemes in India
@@ -1364,11 +1291,12 @@ Pseudoscience
 Technology forecasting
 Systems thinking
 -1
-Member states of the Commonwealth of Nations
-Member states of the Commonwealth of Nations
-Commonwealth of Nations-related lists
-History of the Commonwealth of Nations
-Countries by international organization
+University System of Maryland
+Universities and colleges in Maryland
+University System of Maryland
+Public university systems in the United States
+Educational institutions established in 1988
+1988 establishments in Maryland
 -1
 Philosophy of mind
 Philosophy of mind
@@ -1409,35 +1337,101 @@ Thought
 Science and technology in Pakistan
 Science and technology in Pakistan
 -1
-Lists of fictional locations
-Lists of location lists
-Lists of fictional locations
-Fictional locations
-Lists of fictional things
+English language
+Analytic languages
+English language
+English languages
+Fusional languages
+Germanic languages
+Languages of American Samoa
+Languages of Antigua and Barbuda
+Languages of Australia
+Languages of Belize
+Languages of Bermuda
+Languages of Botswana
+Languages of Cameroon
+Languages of Canada
+Languages of Fiji
+Languages of Ghana
+Languages of Grenada
+Languages of Guam
+Languages of Guyana
+Languages of Hong Kong
+Languages of India
+Languages of Ireland
+Languages of Jamaica
+Languages of Kenya
+Languages of Kiribati
+Languages of Lesotho
+Languages of Liberia
+Languages of Malawi
+Languages of Malaysia
+Languages of Malta
+Languages of Mauritius
+Languages of Namibia
+Languages of Nauru
+Languages of New Zealand
+Languages of Nigeria
+Languages of Niue
+Languages of Pakistan
+Languages of Palau
+Languages of Papua New Guinea
+Languages of Rwanda
+Languages of Saint Kitts and Nevis
+Languages of Saint Lucia
+Languages of Saint Vincent and the Grenadines
+Languages of Samoa
+Languages of Seychelles
+Languages of Sierra Leone
+Languages of Singapore
+Languages of South Africa
+Languages of South Sudan
+Languages of Sudan
+Languages of Eswatini
+Languages of the Bahamas
+Languages of the British Virgin Islands
+Languages of the Cayman Islands
+Languages of the Marshall Islands
+Languages of the Philippines
+Languages of the Pitcairn Islands
+Languages of the Solomon Islands
+Languages of the United Kingdom
+Languages of the United States Virgin Islands
+Languages of the United States
+Languages of Tokelau
+Languages of Trinidad and Tobago
+Languages of Uganda
+Languages of Vanuatu
+Languages of Zambia
+Languages of Zimbabwe
+Stress-timed languages
+Subject–verb–object languages
+Cultural globalization
+Languages of Taiwan
 -1
 Indexes of computer topics
 Android (operating system)
 Indexes of computer topics
 -1
-States and territories established in 1947
-India politics-related lists
-Proposed states and territories of India
-Lists of proposals
+Science-related lists
+Lists of film lists
+Science fiction films
+Lists of science fiction films
+Lists of works of science fiction, arranged in chronological order
 -1
-Foreign relations of Russia
-Foreign relations of Russia
-Politics of Russia
+Land-grant universities and colleges
+Land-grant universities and colleges
+Universities and colleges in the United States by type
+History of United States colleges and universities
+Public universities and colleges in the United States
+Types of university or college
 -1
-Experimental psychology
-Experimental psychology
-Branches of psychology
-Psychological methodology
-Mathematical and quantitative methods (economics)
+Foreign relations of Bangladesh
+Bangladesh and the Commonwealth of Nations
+Foreign relations of Bangladesh
 -1
-relations diagram
-Graphical concepts in set theory
-Diagrams
-Statistical charts and diagrams
+software management
+Software project management
 -1
 American inventions
 Technology timelines
@@ -1447,12 +1441,9 @@ Data management
 Data management
 Information technology management
 -1
-Strategic management
-Strategic management
-Systems thinking
-Business terms
-Management by type
-Strategy
+Computer occupations
+Lists of occupations
+Computer occupations
 -1
 software company level
 Software development
@@ -1543,8 +1534,17 @@ Financial analysts
 Technology assessment
 Systems analysis
 -1
+Foreign relations of Russia
+Foreign relations of Russia
+Politics of Russia
+-1
 Personal development
 Personal development
+-1
+States and territories established in 1947
+India politics-related lists
+Proposed states and territories of India
+Lists of proposals
 -1
 Diagrams
 Infographics
