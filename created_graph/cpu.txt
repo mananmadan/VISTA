@@ -20080,6 +20080,11 @@ Philosophy of artificial intelligence
 Open problems
 Philosophy of science by discipline
 -1
+powerful computers
+Computers
+Consumer electronics
+Electronics industry
+-1
 20th-century French male actors
 1966 births
 Living people
@@ -63834,6 +63839,9 @@ Cambridge, Massachusetts
 Member organizations of the American Council of Learned Societies
 Organizations established in 1780
 -1
+Central processing unit
+Central processing unit
+-1
 Inductive reasoning
 Arguments
 Inductive reasoning
@@ -69874,5 +69882,8 @@ Lists of space lists
 Space lists
 Lists of space lists
 Space lists
+-1
+cpu
+Central processing unit
 -1
 -2
