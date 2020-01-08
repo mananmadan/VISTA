@@ -26103,6 +26103,13 @@ Branches of science
 Scientific disciplines
 Science
 -1
+Leadership
+Strategic management
+Industrial and organizational psychology
+Political science terminology
+Leadership
+Social concepts
+-1
 NATO
 NATO
 1949 establishments in Washington, D.C.
@@ -27448,6 +27455,11 @@ Virtue ethics
 Modern history of France
 History of France
 History of France
+-1
+Motivation
+Motivation
+Experimental psychology
+Cognition
 -1
 Philosophical theories
 Philosophical theories
@@ -53590,6 +53602,12 @@ Languages of Canada
 Demographics of Canada
 Languages of North America
 -1
+Management occupations
+Management occupations
+Management
+Organizational theory
+Leadership
+-1
 Philosophers of education
 Philosophy of education
 Philosophy of education
@@ -76138,6 +76156,11 @@ Philosophical theories
 Philosophy
 Religion and science
 -1
+Goal
+Management
+Motivation
+Goal
+-1
 Science-related lists
 Lists of film lists
 Science fiction films
@@ -98584,6 +98607,11 @@ Interdisciplinary subfields
 Complex systems theory
 Systems science
 -1
+main goals
+Management
+Motivation
+Goal
+-1
 British Western Pacific Territories
 British Western Pacific Territories
 Former British colonies and protectorates in Oceania
@@ -106338,6 +106366,9 @@ India politics-related lists
 Proposed states and territories of India
 Lists of proposals
 -1
+Organizational theory
+Organizational theory
+-1
 Philosophy of science by discipline
 Philosophy of science
 Academic discipline interactions
@@ -109008,6 +109039,12 @@ Forms of government
 Collective heads of state
 Diarchies
 Greek words and phrases
+-1
+Management
+Management occupations
+Management
+Organizational theory
+Leadership
 -1
 Computer science
 Electrical engineering
