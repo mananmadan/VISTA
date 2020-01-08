@@ -21388,6 +21388,11 @@ French literature
 20th-century French literature
 French literature
 -1
+Signal processing
+Signal processing
+Media technology
+Telecommunication theory
+-1
 Philosophy
 Philosophy
 Main topic articles
@@ -21437,6 +21442,13 @@ Humanities
 Philosophy
 Main topic articles
 Humanities
+-1
+Telecommunication theory
+Detection theory
+Signal processing
+Telecommunication theory
+Psychophysics
+Mathematical psychology
 -1
 computer system
 Computers
@@ -29643,6 +29655,10 @@ Philosophy of mind
 Reasoning
 Thought
 -1
+Data management
+Data management
+Information technology management
+-1
 henri bergson
 Henri Bergson
 1859 births
@@ -30532,6 +30548,11 @@ Metatheory
 Epistemology
 Metaphilosophy
 Theories
+-1
+Data
+Computer data
+Data
+Data management
 -1
 intelligence artificial intelligence goals objective
 Futurology
@@ -54646,6 +54667,10 @@ People from Wilmette, Illinois
 Male television writers
 Screenwriters from Illinois
 -1
+converts data
+Data
+Signal processing
+-1
 Law
 Law
 Main topic articles
@@ -64052,6 +64077,14 @@ Members of the Ligue de la patrie française
 20th-century male writers
 Colette
 French-language LGBT writers
+-1
+Media technology
+Media technology
+Set indices
+-1
+Computer data
+Computer data storage
+Computer architecture
 -1
 Dichotomies
 Dichotomies
