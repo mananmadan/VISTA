@@ -18,6 +18,10 @@ Science fiction films
 Lists of science fiction films
 Lists of works of science fiction, arranged in chronological order
 -1
+Classification systems
+Biometrics
+Fingerprints
+-1
 History of ideas
 History of ideas
 Historiography of science
@@ -95,6 +99,13 @@ Semi-automatic pistols of the People's Republic of China
 Short recoil firearms
 TT platform
 Weapons and ammunition introduced in 1954
+-1
+Fingerprints
+Biometrics
+Fingerprints
+Fingers
+Human anatomy
+Identification
 -1
 Lists of television series
 Lists of television lists
@@ -990,6 +1001,13 @@ Semi-automatic pistols
 Lists of firearms
 Semi-automatic pistols
 -1
+S&P Dow Jones Indices
+S&P Dow Jones Indices
+Joint ventures
+Financial services companies based in New York City
+American stock market indices
+CME Group
+-1
 Fashion design
 Fashion design
 Design occupations
@@ -1684,6 +1702,12 @@ Law enforcement
 Prevention
 Security
 Law enforcement
+-1
+Biometrics
+Biometrics
+Surveillance
+Authentication methods
+Identification
 -1
 Branches of biology
 Biology
@@ -2442,6 +2466,10 @@ Public safety communications
 English-language television programs
 TNT (American TV network) programs
 -1
+Lists of companies
+Lists of companies lists
+Lists of companies
+-1
 Philosophical theories
 Philosophical theories
 Theories
@@ -2539,6 +2567,10 @@ Words and phrases introduced in 1976
 Decision trees
 Decision trees
 Decision analysis
+-1
+classification system
+Set indices
+Classification systems
 -1
 Domesticated animals
 Domesticated animals
@@ -3166,6 +3198,11 @@ Beretta pistols
 .380 ACP semi-automatic pistols
 Beretta pistols
 -1
+Set indices
+S&P Dow Jones Indices
+Lists of companies
+Standard & Poor's
+-1
 Cable game shows
 Game shows
 Television genres
@@ -3459,6 +3496,17 @@ Cybernetics
 Formal sciences
 Systems theory
 Emergence
+-1
+Standard & Poor's
+American companies established in 1941
+Standard & Poor's
+Financial services companies established in 1941
+Credit rating agencies
+Financial services companies based in New York City
+Financial data vendors
+1941 establishments in New York (state)
+Companies formed by merger
+1966 mergers and acquisitions
 -1
 Neuropsychological assessment
 Neuropsychological assessment

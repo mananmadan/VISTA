@@ -13,15 +13,8 @@ Lists of film lists
 Science fiction films
 Lists of science fiction films
 Lists of works of science fiction, arranged in chronological order
-Lists of film lists
-Science fiction films
-Lists of science fiction films
-Lists of works of science fiction, arranged in chronological order
 -1
 History of ideas
-History of ideas
-Historiography of science
-Thought
 History of ideas
 Historiography of science
 Thought
@@ -35,29 +28,14 @@ Logic
 Philosophical logic
 Philosophy of education
 Philosophy of mathematics
-Philosophy of logic
-Concepts in epistemology
-Concepts in logic
-Epistemology
-Logic
-Philosophical logic
-Philosophy of education
-Philosophy of mathematics
 -1
 Crime prevention
-Criminology
-Crime prevention
-Law enforcement techniques
-Espionage techniques
 Criminology
 Crime prevention
 Law enforcement techniques
 Espionage techniques
 -1
 individual predictions
-Prediction
-Futurology
-Scientific method
 Prediction
 Futurology
 Scientific method
@@ -68,22 +46,6 @@ Lists of domesticated animals
 Lists of superlatives
 Origins
 -1
-Validity (statistics)
-Philosophy of science
-Psychometrics
-Educational psychology
-Validity (statistics)
--1
-Weapons and ammunition introduced in 1954
-7.62×25mm Tokarev semi-automatic pistols
-7.62×25mm Tokarev submachine guns
-9mm Parabellum semi-automatic pistols
-Cold War weapons of China
-China–Soviet Union relations
-Police weapons
-Semi-automatic pistols of the People's Republic of China
-Short recoil firearms
-TT platform
 Weapons and ammunition introduced in 1954
 7.62×25mm Tokarev semi-automatic pistols
 7.62×25mm Tokarev submachine guns
@@ -101,52 +63,7 @@ Lists of television lists
 Lists of television series
 Television programs by topic
 -1
-Monte Carlo methods
-Monte Carlo methods
-Numerical analysis
-Statistical mechanics
-Computational physics
-Sampling techniques
-Statistical approximations
-Stochastic simulation
-Randomized algorithms
-Risk analysis methodologies
--1
 Concepts in the philosophy of mind
-Philosophy of mind
-Abstraction
-Assumption
-Cognition
-Concepts
-Concepts in epistemology
-Concepts in metaphysics
-Consciousness
-Consciousness studies
-Dualism
-Emergence
-Epistemological theories
-Epistemology
-History of ideas
-History of neuroscience
-History of philosophy
-History of science
-Idealism
-Mental content
-Metaphysical theories
-Metaphysics
-Metaphysics of mind
-Mind
-Monism
-Nondualism
-Ontology
-Philosophical concepts
-Philosophical problems
-Philosophical theories
-Qualia
-Reasoning
-Self
-Theories
-Thought
 Philosophy of mind
 Abstraction
 Assumption
@@ -231,14 +148,8 @@ Scientific method
 Scientific revolution
 Philosophy of science
 Empiricism
-Scientific method
-Scientific revolution
-Philosophy of science
-Empiricism
 -1
 Technology forecasting
-Technology forecasting
-Technology assessment
 Technology forecasting
 Technology assessment
 -1
@@ -251,11 +162,6 @@ Mammals of North America
 Extant Miocene first appearances
 -1
 7.62×51mm NATO rifles
-7.62×51mm NATO firearms
-Weapons and ammunition introduced in 1954
-Pistol and rifle cartridges
-Military cartridges
-NATO cartridges
 7.62×51mm NATO firearms
 Weapons and ammunition introduced in 1954
 Pistol and rifle cartridges
@@ -354,98 +260,10 @@ Theory of mind
 Thought
 Truth
 Unsolved problems in neuroscience
-Mind
-Philosophy of mind
-Main topic articles
-A priori
-Abstraction
-Analysis
-Arguments in philosophy of mind
-Artificial intelligence
-Assumption
-Brain
-Cognition
-Cognitive science
-Concepts
-Concepts in ancient Greek epistemology
-Concepts in ancient Greek metaphysics
-Concepts in epistemology
-Concepts in logic
-Concepts in metaphilosophy
-Concepts in metaphysics
-Concepts in the philosophy of mind
-Concepts in the philosophy of science
-Consciousness
-Consciousness studies
-Critical thinking
-Deductive reasoning
-Emergence
-Enactive cognition
-Epistemological theories
-Epistemology
-Feeling
-History of education
-History of ideas
-History of logic
-History of neuroscience
-History of philosophy
-History of psychology
-History of religion
-History of science
-Imagination
-Inductive reasoning
-Innovation
-Intellectualism
-Intelligence
-Knowledge
-Logic
-Memory
-Mental content
-Mental processes
-Metaphilosophy
-Metaphysical theories
-Metaphysics
-Metaphysics of mind
-Mind–body problem
-Neuropsychology
-Neuroscience
-Ontology
-Perception
-Philosophical concepts
-Philosophical logic
-Philosophical problems
-Philosophical theories
-Philosophy of education
-Philosophy of life
-Philosophy of logic
-Philosophy of religion
-Philosophy of science
-Qualia
-Reality
-Reasoning
-Self
-Sources of knowledge
-Subjective experience
-Theories
-Theory of mind
-Thought
-Truth
-Unsolved problems in neuroscience
 -1
 20th-century American engineers
 20th century
 Modern history
--1
-decision boundary
-Classification algorithms
-Statistical classification
-Pattern recognition
-Artificial intelligence stubs
--1
-Classification algorithms
-Machine learning
-Classification algorithms
-Statistical classification
 -1
 Spanish-language television programming in the United States
 Spanish dialects of North America
@@ -486,11 +304,6 @@ Television series by Universal Television
 Television shows set in New York (state)
 Television shows filmed in New York (state)
 -1
-Computational fields of study
-Applied mathematics
-Computational science
-Computational fields of study
--1
 Human head and neck
 Human head and neck
 -1
@@ -505,15 +318,6 @@ Home renovation television series
 PBS network shows
 -1
 Emergence
-Emergence
-Chaos theory
-Complex systems theory
-Concepts in epistemology
-Concepts in metaphysics
-Consciousness–matter dualism
-Metaphysics of mind
-Metaphysics of science
-Pattern formation
 Emergence
 Chaos theory
 Complex systems theory
@@ -542,11 +346,6 @@ English-language television programs
 MTV television series
 Television series produced in Montreal
 -1
-Millennium Prize Problems
-Millennium Prize Problems
-Challenge awards
-Unsolved problems in mathematics
--1
 Lists of American television series
 Lists of television lists
 Lists of television series
@@ -557,13 +356,6 @@ Lists of American television series
 American game shows
 Lists of game shows
 -1
-Pattern recognition
-Machine learning
-Formal sciences
-Pattern recognition
-Computational fields of study
--1
-Philosophical concepts
 Philosophical concepts
 Philosophical concepts
 -1
@@ -683,55 +475,6 @@ Scientific method
 Skills
 Theories
 Theory of mind
-Analysis
-Abstraction
-Concepts
-Concepts in ancient Greek epistemology
-Concepts in ancient Greek metaphysics
-Concepts in ancient Greek philosophy of mind
-Concepts in epistemology
-Concepts in logic
-Concepts in metaphilosophy
-Concepts in metaphysics
-Concepts in the philosophy of mathematics
-Concepts in the philosophy of mind
-Concepts in the philosophy of science
-Critical thinking
-Critical thinking skills
-Emergence
-Empiricism
-Epistemological theories
-Epistemology
-History of education
-History of ideas
-History of linguistics
-History of logic
-History of mathematics
-History of philosophy
-History of science
-Intelligence
-Logic
-Mathematical modeling
-Metaphilosophy
-Metaphysics
-Metaphysics of mind
-Methodology
-Ontology
-Philosophical concepts
-Philosophical theories
-Philosophy of education
-Philosophy of language
-Philosophy of logic
-Philosophy of mathematics
-Philosophy of mind
-Philosophy of science
-Rationalism
-Reasoning
-Research methods
-Scientific method
-Skills
-Theories
-Theory of mind
 -1
 1998 American television series debuts
 1998 American television series debuts
@@ -752,15 +495,8 @@ American fantasy drama television series
 Simple blowback firearms
 Firearm actions
 Firearm terminology
-Firearm actions
-Firearm terminology
 -1
 decision makers
-Decision-making
-Neuropsychological assessment
-Unsolved problems in neuroscience
-Analysis
-Prediction
 Decision-making
 Neuropsychological assessment
 Unsolved problems in neuroscience
@@ -806,10 +542,6 @@ Disney-related lists
 Primetime Emmy Award for Outstanding Variety Series winners
 English-language television programs
 -1
-Dresses
-Dresses
-History of clothing
--1
 Intensive care medicine
 Intensive care medicine
 -1
@@ -817,24 +549,7 @@ possible decision
 Decision trees
 Decision analysis
 -1
-Statistical inference
-Statistical inference
-Inductive reasoning
-Deductive reasoning
-Logic and statistics
-Philosophy of science
-Psychometrics
-Arab inventions
--1
 Surveillance
-Surveillance
-Crime prevention
-Espionage techniques
-Law enforcement
-Law enforcement techniques
-National security
-Privacy
-Security
 Surveillance
 Crime prevention
 Espionage techniques
@@ -883,19 +598,6 @@ risk 5.study
 Heart
 Medical scoring system
 -1
-Brassieres
-1880s fashion
-19th-century fashion
-20th-century fashion
-21st-century fashion
-Brassieres
-Breast
-Feminism and health
-History of clothing (Western fashion)
-Lingerie
-Undergarments
-American inventions
--1
 Television series by Reveille Productions
 The Office (American TV series)
 2005 American television series debuts
@@ -928,35 +630,8 @@ Developmental psychology
 Intelligence
 Neuropsychological assessment
 Systems science
-Learning
-Cognitive science
-Educational psychology
-Developmental psychology
-Intelligence
-Neuropsychological assessment
-Systems science
 -1
 Concepts in ancient Greek philosophy of mind
-Ancient Greek philosophical concepts
-Concepts in ancient Greek epistemology
-Concepts in ancient Greek metaphysics
-Concepts in ancient Greek philosophy of mind
-Concepts in epistemology
-Concepts in metaphysics
-Epistemology
-Heraclitus
-Metaphysical theories
-Metaphysics
-Ontology
-Philosophical concepts
-Philosophical theories
-Philosophy of history
-Philosophy of mind
-Philosophy of time
-Process philosophy
-Reality
-Time
-Truth
 Ancient Greek philosophical concepts
 Concepts in ancient Greek epistemology
 Concepts in ancient Greek metaphysics
@@ -981,19 +656,10 @@ Truth
 .40 S&W semi-automatic pistols
 Lists of firearms
 Semi-automatic pistols
-Lists of firearms
-Semi-automatic pistols
 -1
 .45 GAP semi-automatic pistols
 Lists of firearms
 Semi-automatic pistols
-Lists of firearms
-Semi-automatic pistols
--1
-Fashion design
-Fashion design
-Design occupations
-Arts occupations
 -1
 American World War II propaganda films
 American propaganda during World War II
@@ -1044,9 +710,6 @@ Pistol and rifle cartridges
 Pistol and rifle cartridges
 Lists of weapons
 Lists of gun cartridges
-Pistol and rifle cartridges
-Lists of weapons
-Lists of gun cartridges
 -1
 2000s American teen drama television series
 Beverly Hills, 90210 (franchise)
@@ -1072,8 +735,6 @@ Television shows filmed in Los Angeles
 Firearm actions
 Firearm actions
 Firearm terminology
-Firearm actions
-Firearm terminology
 -1
 Learning
 Learning
@@ -1083,23 +744,6 @@ Developmental psychology
 Intelligence
 Neuropsychological assessment
 Systems science
-Learning
-Cognitive science
-Educational psychology
-Developmental psychology
-Intelligence
-Neuropsychological assessment
-Systems science
--1
-Inductive reasoning
-Arguments
-Inductive reasoning
-Epistemology
-Problem solving skills
-Reasoning
-Philosophy of statistics
-Causal inference
-Epistemology of science
 -1
 Mathematical modeling
 Applied mathematics
@@ -1109,20 +753,6 @@ Knowledge representation
 Mathematical modeling
 Mathematical terminology
 Mathematical and quantitative methods (economics)
-Applied mathematics
-Collective intelligence
-Conceptual modelling
-Knowledge representation
-Mathematical modeling
-Mathematical terminology
-Mathematical and quantitative methods (economics)
--1
-Survey methodology
-Forecasting
-Survey methodology
-Psychometrics
-Quantitative research
-Product testing
 -1
 .45 ACP semi-automatic pistols
 1911 platform
@@ -1135,18 +765,7 @@ Firearms by John Browning
 Weapons of the Philippine Army
 Weapons and ammunition introduced in 1911
 Springfield firearms
-1911 platform
-.45 ACP semi-automatic pistols
-Colt semi-automatic pistols
-World War I infantry weapons of the United States
-World War II infantry weapons of the United States
-Cold War firearms of the United States
-Firearms by John Browning
-Weapons of the Philippine Army
-Weapons and ammunition introduced in 1911
-Springfield firearms
 -1
-Metaphysics
 Metaphysics
 Metaphysics
 -1
@@ -1162,21 +781,11 @@ National security
 Public safety
 Security
 Surveillance
-Crime prevention
-Law enforcement
-Legal professions
-National security
-Public safety
-Security
-Surveillance
 -1
 Branches of psychology
 Psychology
 Behavioural sciences
-Psychology
-Behavioural sciences
 -1
-Epistemology
 Epistemology
 Epistemology
 -1
@@ -1206,22 +815,7 @@ Reasoning
 School qualifications
 Thought
 Critical theory
-Critical thinking
-Educational psychology
-Epistemology
-Learning
-Logic
-Mind
-Philosophy
-Philosophy of education
-Philosophy of mind
-Problem solving skills
-Reasoning
-School qualifications
-Thought
-Critical theory
 -1
-Scientific revolution
 Scientific revolution
 Scientific revolution
 -1
@@ -1246,13 +840,6 @@ Emergence
 Systems
 Systems science
 Mathematical modeling
-Complex dynamics
-Complex systems theory
-Cybernetics
-Emergence
-Systems
-Systems science
-Mathematical modeling
 -1
 2019 American television series debuts
 2019 in American television
@@ -1260,7 +847,6 @@ Mathematical modeling
 Media timelines by year
 -1
 Concepts in the philosophy of mathematics
-Philosophy of mathematics
 Philosophy of mathematics
 -1
 2005 American television series debuts
@@ -1297,15 +883,7 @@ Television programs based on podcasts
 Television series by Universal Television
 USA Network shows
 -1
-Nonparametric statistics
-Nonparametric statistics
-Statistical inference
-Robust statistics
-Mathematical and quantitative methods (economics)
--1
 Semi-automatic pistols of Austria
-Lists of firearms
-Semi-automatic pistols
 Lists of firearms
 Semi-automatic pistols
 -1
@@ -1314,13 +892,6 @@ Game Show Network original programs
 Lists of television series by network
 Lists of game shows
 Lists of American television series
--1
-Causal inference
-Causal inference
-Graphical models
-Regression analysis
-Inductive reasoning
-Philosophy of statistics
 -1
 First-run syndicated television programs in the United States
 First-run syndicated television programs in the United States
@@ -1335,18 +906,7 @@ Communism
 Fascism
 Political movements
 -1
-Feminism and health
-Feminism
-Words coined in the 1830s
-Gender
-Social theories
--1
 Concepts in ancient Greek metaphysics
-Concepts in ancient Greek metaphysics
-Trinitarianism
-Christian terminology
-Christianity and Hellenistic philosophy
-Greek words and phrases
 Concepts in ancient Greek metaphysics
 Trinitarianism
 Christian terminology
@@ -1357,19 +917,10 @@ History of philosophy
 Philosophy
 Main topic articles
 Humanities
-Philosophy
-Main topic articles
-Humanities
 -1
 Epistemological theories
 Epistemology
-Epistemology
 -1
-Sampling (statistics)
-Sampling (statistics)
-Survey methodology
--1
-Philosophy of mathematics
 Philosophy of mathematics
 Philosophy of mathematics
 -1
@@ -1381,17 +932,8 @@ Philosophy of mathematics
 Police weapons
 SIG Sauer semi-automatic pistols
 Modular firearms
-.357 SIG semi-automatic pistols
-.40 S&W semi-automatic pistols
-.45 ACP semi-automatic pistols
-9mm Parabellum semi-automatic pistols
-Police weapons
-SIG Sauer semi-automatic pistols
-Modular firearms
 -1
 History of mathematics
-History of mathematics
-History of science topical overviews
 History of mathematics
 History of science topical overviews
 -1
@@ -1401,33 +943,6 @@ Weapons and ammunition introduced in 1954
 Pistol and rifle cartridges
 Military cartridges
 NATO cartridges
-7.62×51mm NATO firearms
-Weapons and ammunition introduced in 1954
-Pistol and rifle cartridges
-Military cartridges
-NATO cartridges
--1
-Clothing controversies
-Retail processes and techniques
-Sizes in clothing
-19th-century fashion
-20th-century fashion
-21st-century fashion
-Clothing controversies
-Dresses
-Fashion design
--1
-Statistical classification
-Machine learning
-Classification algorithms
-Statistical classification
--1
-random sample
-Sampling techniques
--1
-bootstrap sample
-Computational statistics
-Resampling (statistics)
 -1
 American film directors of Italian descent
 Living people
@@ -1467,14 +982,7 @@ Television series created by Andy Breckman
 1897 births
 1897
 -1
-Breast
-Breast
-Breastfeeding
-Human sexuality
--1
 Military in the Arctic
-Arctic
-Polar regions of the Earth
 Arctic
 Polar regions of the Earth
 -1
@@ -1532,31 +1040,9 @@ Awards and decorations of the United States Navy
 Awards established in 1919
 Recipients of the Navy Distinguished Service Medal
 -1
-History of clothing (Western fashion)
-History of fashion
-History of clothing (Europe)
-History of clothing (Western fashion)
--1
 National security
 National security
 Political terminology
-National security
-Political terminology
--1
-Psychometrics
-Psychometrics
-Applied psychology
-Branches of psychology
-Educational assessment and evaluation
-Educational psychology
-Educational research
-Psychological testing
-Applied statistics
--1
-data sample data quantity
-Computer data
-Data
-Data management
 -1
 2000s American LGBT-related drama television series
 Lists of LGBT fictional characters
@@ -1566,27 +1052,8 @@ Developmental psychology
 Developmental psychology
 Branches of psychology
 Behavioural sciences
-Developmental psychology
-Branches of psychology
-Behavioural sciences
 -1
 Theories
-Theories
-Abstraction
-Concepts
-Concepts in epistemology
-Concepts in metaphilosophy
-Concepts in metaphysics
-Concepts in the philosophy of mathematics
-Concepts in the philosophy of mind
-Concepts in the philosophy of science
-Conceptual systems
-Epistemology
-Inductive reasoning
-Metaphilosophy
-Metaphysics
-Ontology
-Philosophical concepts
 Theories
 Abstraction
 Concepts
@@ -1610,15 +1077,6 @@ Barriers to critical thinking
 Fringe theory
 Pejoratives
 Deception
-Pseudoscience
-Barriers to critical thinking
-Fringe theory
-Pejoratives
-Deception
--1
-Graphical models
-Bayesian statistics
-Graphical models
 -1
 United States National Medal of Arts recipients
 American awards
@@ -1632,11 +1090,6 @@ United States National Medal of Arts recipients
 1984 establishments in Washington, D.C.
 -1
 Systems thinking
-Systems theory
-Emergence
-Interdisciplinary subfields
-Complex systems theory
-Systems science
 Systems theory
 Emergence
 Interdisciplinary subfields
@@ -1681,9 +1134,6 @@ Security
 Prevention
 Security
 Law enforcement
-Prevention
-Security
-Law enforcement
 -1
 Branches of biology
 Biology
@@ -1698,20 +1148,10 @@ Historiography of science
 Philosophy by topic
 Science in society
 Science studies
-Philosophy of science
-Academic discipline interactions
-Analytic philosophy
-Epistemology
-Historiography of science
-Philosophy by topic
-Science in society
-Science studies
 -1
 Meat industry
 Meat industry
 -1
-Military cartridges
-Shotgun shells
 Military cartridges
 Shotgun shells
 Military cartridges
@@ -1745,19 +1185,6 @@ History of psychology
 Metaphysics of mind
 Mind
 Philosophical concepts
-Theory of mind
-Philosophy of mind
-Cognitive science
-Concepts in epistemology
-Concepts in metaphysics
-Concepts in the philosophy of mind
-History of ideas
-History of neuroscience
-History of philosophy
-History of psychology
-Metaphysics of mind
-Mind
-Philosophical concepts
 -1
 Television series by Universal Television
 Universal Television
@@ -1777,15 +1204,7 @@ American companies established in 1943
 American companies established in 1951
 American companies established in 2004
 -1
-Sampling techniques
-Sampling (statistics)
-Survey methodology
--1
 Intelligence
-Intelligence
-Educational psychology
-Developmental psychology
-Psychological testing
 Intelligence
 Educational psychology
 Developmental psychology
@@ -1822,16 +1241,6 @@ Music video stubs
 -1
 Cybernetics
 Cybernetics
-Cybernetics
--1
-Undergarments
-Undergarments
-History of clothing (Europe)
-History of clothing (Western fashion)
-History of fashion
--1
-21st-century fashion
-2000s fashion
 -1
 American military personnel of World War II
 Native American military history
@@ -1897,51 +1306,6 @@ Truth
 Virtue
 Western culture
 Western philosophy
-Reasoning
-Age of Enlightenment
-Analytic philosophy
-Belief
-Cognition
-Concepts in ancient Greek metaphysics
-Concepts in ancient Greek philosophy of mind
-Concepts in epistemology
-Concepts in ethics
-Concepts in logic
-Concepts in metaphilosophy
-Concepts in metaphysics
-Concepts in the philosophy of mind
-Concepts in the philosophy of science
-Continental philosophy
-Critical thinking
-Deductive reasoning
-Epistemology
-History of education
-History of ideas
-History of logic
-History of philosophy
-Idealism
-Inductive reasoning
-Knowledge
-Learning
-Logic
-Metaphilosophy
-Metaphysics
-Metaphysics of mind
-Mind
-Ontology
-Philosophical logic
-Philosophy
-Philosophy of education
-Philosophy of logic
-Philosophy of mind
-Problem solving skills
-Rationalism
-Secularism
-Thought
-Truth
-Virtue
-Western culture
-Western philosophy
 -1
 2000s American reality television series
 Dating and relationship reality television series
@@ -1954,11 +1318,6 @@ Television series by Reveille Productions
 -1
 Concepts in metaphilosophy
 Metaphilosophy
-Metaphilosophy
--1
-1880s fashion
-1880s
-1880s fashion
 -1
 Burials at Coachella Valley Public Cemetery
 Cemeteries in Riverside County, California
@@ -1977,47 +1336,7 @@ Biota by conservation status
 IUCN Red List
 Biology stubs
 -1
-Unsolved problems in mathematics
-Unsolved problems in mathematics
-Conjectures
-Lists of unsolved problems
-Mathematics-related lists
--1
 Metaphysics of mind
-Philosophy of mind
-Abstraction
-Assumption
-Cognition
-Concepts
-Concepts in epistemology
-Concepts in metaphysics
-Consciousness
-Consciousness studies
-Dualism
-Emergence
-Epistemological theories
-Epistemology
-History of ideas
-History of neuroscience
-History of philosophy
-History of science
-Idealism
-Mental content
-Metaphysical theories
-Metaphysics
-Metaphysics of mind
-Mind
-Monism
-Nondualism
-Ontology
-Philosophical concepts
-Philosophical problems
-Philosophical theories
-Qualia
-Reasoning
-Self
-Theories
-Thought
 Philosophy of mind
 Abstraction
 Assumption
@@ -2067,28 +1386,7 @@ Philosophy of language
 Philosophy of mind
 Semantics
 Main topic articles
-Abstraction
-Assumption
-Cognitive science
-Concepts
-Mental content
-Ontology
-Metaphysics
-Philosophical concepts
-Philosophy
-Philosophy of language
-Philosophy of mind
-Semantics
-Main topic articles
 -1
-Mathematics-related lists
-Lists of mathematics lists
-Mathematics-related lists
-Outlines of mathematics and logic
-Wikipedia outlines
-Lists of topics
--1
-Philosophy of education
 Philosophy of education
 Philosophy of education
 -1
@@ -2107,29 +1405,8 @@ American television series revived after cancellation
 Weapons and ammunition introduced in 1983
 Military cartridges
 Pistol and rifle cartridges
-10mm Auto firearms
-Weapons and ammunition introduced in 1983
-Military cartridges
-Pistol and rifle cartridges
--1
-Resampling (statistics)
-Monte Carlo methods
-Statistical inference
-Resampling (statistics)
-Nonparametric statistics
 -1
 Rationalism
-Rationalism
-Epistemological theories
-History of philosophy
-Internalism and externalism
-Justification
-Philosophical concepts
-Philosophical movements
-Philosophy and thought in the Dutch Republic
-Philosophy of mind
-Reasoning
-Thought
 Rationalism
 Epistemological theories
 History of philosophy
@@ -2161,9 +1438,6 @@ Machine pistols
 Machine pistols
 Law enforcement equipment
 Military equipment
-Machine pistols
-Law enforcement equipment
-Military equipment
 -1
 American pacifists
 Christian pacifism
@@ -2171,10 +1445,6 @@ Christian ethics
 Christian philosophy
 Christian terminology
 Pacifism
--1
-Data management
-Data management
-Information technology management
 -1
 Fantasy Island
 1977 American television series debuts
@@ -2203,27 +1473,7 @@ Lists of human anatomical features
 Anatomical terminology
 Anatomy
 -1
-Computer data storage
-Computer data storage
-Computer architecture
--1
 Weapons and ammunition introduced in 1982
-9mm Parabellum semi-automatic pistols
-9mm Parabellum submachine guns
-10mm Auto semi-automatic pistols
-.357 SIG semi-automatic pistols
-.380 ACP semi-automatic pistols
-.40 S&W semi-automatic pistols
-.45 ACP semi-automatic pistols
-.45 GAP semi-automatic pistols
-Glock pistols
-Machine pistols
-Police weapons
-Semi-automatic pistols of Austria
-Simple blowback firearms
-Short recoil firearms
-Weapons and ammunition introduced in 1982
-Post–Cold War weapons of Myanmar
 9mm Parabellum semi-automatic pistols
 9mm Parabellum submachine guns
 10mm Auto semi-automatic pistols
@@ -2268,11 +1518,6 @@ Orders of chivalry of the United Kingdom
 Orders of chivalry awarded to heads of state, consorts and sovereign family members
 British honours system
 -1
-Lingerie
-Lingerie
-Undergarments
-French words and phrases
--1
 California Republicans
 Republican Party (United States) by state
 Political parties in California
@@ -2294,8 +1539,6 @@ English-language television programs
 Arctic
 Arctic
 Polar regions of the Earth
-Arctic
-Polar regions of the Earth
 -1
 Decision-making
 Decision-making
@@ -2303,15 +1546,6 @@ Neuropsychological assessment
 Unsolved problems in neuroscience
 Analysis
 Prediction
-Decision-making
-Neuropsychological assessment
-Unsolved problems in neuroscience
-Analysis
-Prediction
--1
-size use
-Brassieres
-Sizes in clothing
 -1
 Attention deficit hyperactivity disorder
 Attention deficit hyperactivity disorder
@@ -2325,37 +1559,14 @@ Amphetamine
 Methylphenidate
 Ailments of unknown cause
 Words and phrases introduced in 1987
-Attention deficit hyperactivity disorder
-Attention disorders
-Childhood psychiatric disorders
-Educational psychology
-Emotional and behavioral disorders in childhood and adolescence
-Learning disabilities
-Psychiatric diagnosis
-Amphetamine
-Methylphenidate
-Ailments of unknown cause
-Words and phrases introduced in 1987
 -1
-Metaphilosophy
 Metaphilosophy
 Metaphilosophy
 -1
 Concepts in epistemology
 Epistemology
-Epistemology
 -1
 9mm Parabellum semi-automatic pistols
-7.65×21mm Parabellum semi-automatic pistols
-9mm Parabellum semi-automatic pistols
-9mm Parabellum submachine guns
-19th-century semi-automatic pistols
-Machine pistols
-Semi-automatic pistols of Germany
-Weapons of the Ottoman Empire
-Weapons and ammunition introduced in 1900
-World War I German infantry weapons
-World War II infantry weapons of Germany
 7.65×21mm Parabellum semi-automatic pistols
 9mm Parabellum semi-automatic pistols
 9mm Parabellum submachine guns
@@ -2396,11 +1607,6 @@ Women television producers
 Women television writers
 Writers from Long Beach, California
 -1
-Philosophy of statistics
-Philosophy of statistics
-Ethics and statistics
-Applied philosophy
--1
 Lists of game shows
 Lists of entertainment lists
 Lists of game shows
@@ -2409,23 +1615,8 @@ Ontology
 Ontology
 Metaphysics
 Meaning (philosophy of language)
-Ontology
-Metaphysics
-Meaning (philosophy of language)
--1
-Data
-Computer data
-Data
-Data management
 -1
 Public safety
-Emergency services
-Crime
-Law enforcement
-Justice
-Public sphere
-Public safety
-Public safety communications
 Emergency services
 Crime
 Law enforcement
@@ -2446,9 +1637,6 @@ Philosophical theories
 Philosophical theories
 Theories
 Dogma
-Philosophical theories
-Theories
-Dogma
 -1
 Critical thinking skills
 Critical thinking
@@ -2465,49 +1653,8 @@ Reasoning
 School qualifications
 Thought
 Critical theory
-Critical thinking
-Educational psychology
-Epistemology
-Learning
-Logic
-Mind
-Philosophy
-Philosophy of education
-Philosophy of mind
-Problem solving skills
-Reasoning
-School qualifications
-Thought
-Critical theory
 -1
 Concepts in the philosophy of science
-Memes
-Abstraction
-Collective intelligence
-Concepts
-Concepts in epistemology
-Concepts in the philosophy of mind
-Concepts in the philosophy of science
-Cultural anthropology
-Emergence
-Epistemology
-Evolution
-Evolutionary psychology
-History of education
-History of ideas
-History of philosophy
-History of science
-Intelligence
-Metaphysics of mind
-Mind
-Philosophical concepts
-Philosophical theories
-Philosophy of education
-Philosophy of language
-Philosophy of mind
-Philosophy of science
-Words coined in the 1970s
-Words and phrases introduced in 1976
 Memes
 Abstraction
 Collective intelligence
@@ -2580,19 +1727,7 @@ Television shows filmed in New York (state)
 Television shows set in New York City
 2000s American sex comedy television series
 -1
-Sizes in clothing
-Retail processes and techniques
-Sizes in clothing
-19th-century fashion
-20th-century fashion
-21st-century fashion
-Clothing controversies
-Dresses
-Fashion design
--1
 Lists of firearms
-Lists of military lists
-Lists of weapons
 Lists of military lists
 Lists of weapons
 -1
@@ -2614,27 +1749,11 @@ Machine learning
 Machine learning
 Cybernetics
 Learning
-Machine learning
-Cybernetics
-Learning
 -1
-American inventions
-Technology timelines
-Lists of inventions or discoveries
--1
-Sniper rifles
 Sniper rifles
 Sniper rifles
 -1
 Empiricism
-Empiricism
-Philosophical movements
-Epistemological theories
-Justification
-Philosophical methodology
-Internalism and externalism
-Philosophy of science
-Empirical laws
 Empiricism
 Philosophical movements
 Epistemological theories
@@ -2655,12 +1774,6 @@ Fauna of Azerbaijan
 Lists of biota of Azerbaijan
 Mammals of Azerbaijan
 -1
-Computer data
-Computer data storage
-Computer architecture
--1
-Bolt-action rifles
-Firearm actions
 Bolt-action rifles
 Firearm actions
 Bolt-action rifles
@@ -2718,11 +1831,6 @@ English-language television programs
 Formal sciences
 Formal sciences
 Branches of science
-Formal sciences
-Branches of science
--1
-Information technology management
-Information technology management
 -1
 Organs (anatomy)
 Levels of organization (Biology)
@@ -2732,13 +1840,6 @@ Organs (anatomy)
 Research methods
 Research
 Scientific method
-Research
-Scientific method
--1
-Regression analysis
-Regression analysis
-Estimation theory
-Actuarial science
 -1
 MTV reality television series
 2008 American television series debuts
@@ -2785,22 +1886,6 @@ Simple blowback firearms
 Short recoil firearms
 Weapons and ammunition introduced in 1982
 Post–Cold War weapons of Myanmar
-9mm Parabellum semi-automatic pistols
-9mm Parabellum submachine guns
-10mm Auto semi-automatic pistols
-.357 SIG semi-automatic pistols
-.380 ACP semi-automatic pistols
-.40 S&W semi-automatic pistols
-.45 ACP semi-automatic pistols
-.45 GAP semi-automatic pistols
-Glock pistols
-Machine pistols
-Police weapons
-Semi-automatic pistols of Austria
-Simple blowback firearms
-Short recoil firearms
-Weapons and ammunition introduced in 1982
-Post–Cold War weapons of Myanmar
 -1
 Population genetics
 Population genetics
@@ -2809,14 +1894,8 @@ Statistical genetics
 -1
 Law enforcement
 Law enforcement
-Law enforcement
 -1
 Lists of unsolved problems
-Lists of science lists
-Lists of unsolved problems
-Open problems
-Science-related lists
-Lists of problems
 Lists of science lists
 Lists of unsolved problems
 Open problems
@@ -2832,25 +1911,9 @@ Cognitive science
 Cognitive science
 Interdisciplinary subfields
 Branches of psychology
-Cognitive science
-Interdisciplinary subfields
-Branches of psychology
 -1
 ensemble learning
 Ensemble learning
--1
-Engineering awards
-1929 establishments in California
-Academy Awards
-Performing arts trophies
-American annual television specials
-American film awards
-Annual events in Los Angeles County, California
-Awards established in 1929
-Cinema of Southern California
-Events in Los Angeles
-Hollywood history and culture
-American live television programs
 -1
 Television shows filmed in Hawaii
 Hawaii media
@@ -2858,34 +1921,15 @@ Hawaii culture
 United States in popular culture
 Cinema of the United States
 -1
-Conjectures
-Conjectures
-Concepts in the philosophy of science
-Statements
--1
 Sniper rifles of the United Kingdom
 Lists of firearms
 Sniper rifles
-Lists of firearms
-Sniper rifles
--1
-Computational statistics
-Numerical analysis
-Computational statistics
-Computational fields of study
-Mathematics of computing
 -1
 Goat's-milk cheeses
 Goat's-milk cheeses
 Lists of cheeses
 -1
 overall accuracy
-7.62×51mm NATO rifles
-Bolt-action rifles
-Military in the Arctic
-Police weapons
-Sniper rifles of the United Kingdom
-Weapons and ammunition introduced in 1982
 7.62×51mm NATO rifles
 Bolt-action rifles
 Military in the Arctic
@@ -2925,9 +1969,6 @@ multiple learning machines
 Machine learning
 Cybernetics
 Learning
-Machine learning
-Cybernetics
-Learning
 -1
 1990s American late-night television series
 Late Night (NBC)
@@ -2950,15 +1991,8 @@ Emergence
 Interdisciplinary subfields
 Complex systems theory
 Systems science
-Systems theory
-Emergence
-Interdisciplinary subfields
-Complex systems theory
-Systems science
 -1
 Short recoil firearms
-Firearm actions
-Artillery components
 Firearm actions
 Artillery components
 -1
@@ -3006,7 +2040,6 @@ Engineers from California
 California Republicans
 American conservative people
 -1
-Methodology
 Methodology
 Methodology
 -1
@@ -3060,21 +2093,8 @@ Morphology
 Submachine guns of Czechoslovakia
 Telescoping bolt submachine guns
 Weapons and ammunition introduced in 1948
-7.62×25mm Tokarev submachine guns
-9mm Parabellum submachine guns
-Submachine guns of Czechoslovakia
-Telescoping bolt submachine guns
-Weapons and ammunition introduced in 1948
--1
-Computer architecture
-Computer architecture
-Central processing unit
 -1
 History of education
-History of education
-History of science by discipline
-History of education in Europe
-History of society topical overviews
 History of education
 History of science by discipline
 History of education in Europe
@@ -3083,22 +2103,8 @@ History of society topical overviews
 History of science
 History of science
 Science studies
-History of science
-Science studies
 -1
 Abstraction
-Abstraction
-Concepts in aesthetics
-Concepts in epistemology
-Concepts in metaphilosophy
-Concepts in metaphysics
-Creativity
-Epistemology
-Metaphilosophy
-Metaphysics
-Ontology
-Philosophical concepts
-Thought
 Abstraction
 Concepts in aesthetics
 Concepts in epistemology
@@ -3130,9 +2136,6 @@ Unsolved problems in neuroscience
 Unsolved problems in neuroscience
 Lists of unsolved problems
 Science-related lists
-Unsolved problems in neuroscience
-Lists of unsolved problems
-Science-related lists
 -1
 overall model selection
 Population genetics
@@ -3152,15 +2155,8 @@ Interdisciplinary subfields
 Interdisciplinary subfields of sociology
 Organizational studies
 Sociology stubs
-Interdisciplinary subfields of sociology
-Organizational studies
-Sociology stubs
 -1
 .380 ACP semi-automatic pistols
-.22 LR pistols
-.32 ACP semi-automatic pistols
-.380 ACP semi-automatic pistols
-Beretta pistols
 .22 LR pistols
 .32 ACP semi-automatic pistols
 .380 ACP semi-automatic pistols
@@ -3174,15 +2170,8 @@ Philosophy of language
 Philosophy of language
 Semiotics
 Philosophy of science by discipline
-Philosophy of language
-Semiotics
-Philosophy of science by discipline
 -1
 Polar regions of the Earth
-Polar regions of the Earth
-Geography of Antarctica
-Arctic Ocean
-Geography of the Arctic
 Polar regions of the Earth
 Geography of Antarctica
 Arctic Ocean
@@ -3193,8 +2182,6 @@ Lists of LGBT fictional characters
 Lists of LGBT-related television programs
 -1
 Behavioural sciences
-Behavioural sciences
-Cognitive science
 Behavioural sciences
 Cognitive science
 -1
@@ -3210,10 +2197,6 @@ Mammals of Azerbaijan
 Mammals of Europe
 Mammals described in 1758
 -1
-Challenge awards
-Engineering awards
-Challenge awards
--1
 American television series based on British television series
 Lists of British television series
 British television-related lists
@@ -3225,13 +2208,8 @@ Educational psychology
 Attention deficit hyperactivity disorder
 Branches of psychology
 Educational psychology
-Attention deficit hyperactivity disorder
-Branches of psychology
-Educational psychology
 -1
 Skills
-Skills
-Learning
 Skills
 Learning
 -1
@@ -3241,32 +2219,7 @@ Prediction
 Pseudoscience
 Technology forecasting
 Systems thinking
-Futurology
-Prediction
-Pseudoscience
-Technology forecasting
-Systems thinking
 -1
-train validity test
-Causal inference
-Validity (statistics)
--1
-Post–Cold War weapons of Myanmar
-.22 LR submachine guns
-9mm Parabellum submachine guns
-9×21mm IMI submachine guns
-.41 Action Express firearms
-.45 ACP submachine guns
-Infantry weapons of the Cold War
-Israeli brands
-Israeli inventions
-Machine pistols
-Police weapons
-Simple blowback firearms
-Telescoping bolt submachine guns
-Firearms of Israel
-Personal defense weapons
-Weapons and ammunition introduced in 1954
 Post–Cold War weapons of Myanmar
 .22 LR submachine guns
 9mm Parabellum submachine guns
@@ -3325,40 +2278,6 @@ Reasoning
 Self
 Theories
 Thought
-Philosophy of mind
-Abstraction
-Assumption
-Cognition
-Concepts
-Concepts in epistemology
-Concepts in metaphysics
-Consciousness
-Consciousness studies
-Dualism
-Emergence
-Epistemological theories
-Epistemology
-History of ideas
-History of neuroscience
-History of philosophy
-History of science
-Idealism
-Mental content
-Metaphysical theories
-Metaphysics
-Metaphysics of mind
-Mind
-Monism
-Nondualism
-Ontology
-Philosophical concepts
-Philosophical problems
-Philosophical theories
-Qualia
-Reasoning
-Self
-Theories
-Thought
 -1
 Herbivorous mammals
 Lists of animals
@@ -3377,9 +2296,6 @@ Magazines published in Washington, D.C.
 Pat Buchanan
 -1
 Logic
-Logic
-Abstraction
-Formal sciences
 Logic
 Abstraction
 Formal sciences
@@ -3420,11 +2336,6 @@ American films
 Films produced by Michael Nozik
 Films scored by Mark Isham
 -1
-Numerical analysis
-Numerical analysis
-Mathematical physics
-Computational science
--1
 American chemical engineers
 American engineering organizations
 Chemical engineering organizations
@@ -3439,12 +2350,6 @@ World cuisine
 -1
 Concepts in metaphysics
 Metaphysics
-Metaphysics
--1
-certain problems
-Millennium Prize Problems
-Challenge awards
-Unsolved problems in mathematics
 -1
 Systems science
 Systems science
@@ -3453,25 +2358,14 @@ Cybernetics
 Formal sciences
 Systems theory
 Emergence
-Systems science
-Complex systems theory
-Cybernetics
-Formal sciences
-Systems theory
-Emergence
 -1
 Neuropsychological assessment
 Neuropsychological assessment
-Neuropsychological assessment
 -1
-Legal professions
 Legal professions
 Legal professions
 -1
 Prediction
-Prediction
-Futurology
-Scientific method
 Prediction
 Futurology
 Scientific method
@@ -3511,20 +2405,10 @@ History of logic
 History of logic
 Logic
 History of science by discipline
-History of logic
-Logic
-History of science by discipline
 -1
 History of linguistics
 History of linguistics
 History of science by discipline
-History of linguistics
-History of science by discipline
--1
-19th-century fashion
-19th-century fashion
-History of fashion
-Fashion stubs
 -1
 Evolutionary biology
 Evolutionary biology
@@ -3540,8 +2424,6 @@ Herbivorous mammals
 Livestock
 -1
 Psychological testing
-Psychological testing
-Clinical psychology
 Psychological testing
 Clinical psychology
 -1
