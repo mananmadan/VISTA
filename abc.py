@@ -178,13 +178,7 @@ def read_from_file(graph,name):
 
 graph = defaultdict(list)
 
-xl = ["complete re local","smiles doctor","content diagram","note fec","apt hunts patient i digital requests","patient services",
-"ans formation","record clinic","whoitolaitosent keri corset mil art sustain copy moment","patient record","appointment schedule",
-"cam scanner man","time data","date tine","pain ii patient word louis event list","patient record","i click fins","moment request",
-"david i services","goal sentiment patient lent uses rat","patio pats ami click bra vail reg appointment","appointments patient",
-"palate i patients list","dentists i dentists patient days request","patients patients dentist","patriot guards",
-"patient secrets patient records services","cam scanner",
-]
+xl=["ensemble","learning refers","multiple learning machines","decision makers","individual predictions","overall accuracy","individual committee menter","numbers class labels posterior probabilities rankings clusterings etc","esemble learning","real world situations","machine learning model","essemble learning","possible decision","overall model selection","classifier lobe","cross valiation 2.","ensemble learning","direuse models 3.","ouy 4.model selection","final goat","risk 5.study","data sample data quantity","train validity test","separate subsets","size use","different bootstrap samples","different classifiers","bootstrap sample","random sample","decision boundary","certain problems","esemble learning","classification system","classifier learns","simpler partitions data fusions","suitable combinations","different source","data fusion data/informations fusion","complementary informations","confidence estimations","decison esemble","high confidence","different decisio esemble","low confidence","high cnfidence","esemble decision","high esemble learning algorithms 1. bagging/bootstrap","bootstarp replicas 2. boostng","creates replicas","informative training data","consecutive classifier","iteration- 3weak classifiers 1. classifiers c1","random subset 2. c2","informative subset","training data","3. c3","c2 disagree","binary class problems ada boost","subset database","sample distributions","classifiers training errors random forests","decision trees","random variables","multicates classification","train /predict","decorate","diverse ensemble creation","artificial training examples","artificial examples","diverse ensembles","combining","ensemble members 1. majority","3. borda"]
 for query in xl:
    read_from_file(graph,query)
    create_graph(query,0,graph)    

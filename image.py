@@ -117,7 +117,7 @@ def create_graph(query,lvl,graph):
     addEdge(graph,query, i)
   for j in templist:
    #print(j)
-   if lvl<5:
+   if lvl<6:
     if j !=query :
      create_graph(j,lvl,graph)
    else:
@@ -178,7 +178,7 @@ def read_from_file(graph,name):
 
 graph = defaultdict(list)
 
-xl=["camera on road","ceiling mounted projector","home laser printer color","Center Console","ultrasound machine","game controller"]
+xl=["fountain"]
 for query in xl:
    read_from_file(graph,query)
    create_graph(query,0,graph)    
