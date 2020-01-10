@@ -2163,6 +2163,9 @@ Port settlements in Ontario
 Single-tier municipalities in Ontario
 Windsor, Ontario
 -1
+bit plaintext
+Chosen-plaintext attacks
+-1
 small block size
 Ford engines
 V8 engines

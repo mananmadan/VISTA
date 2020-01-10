@@ -1,11 +1,19 @@
-Units of information
-Units of information
--1
 Cryptography
 Cryptography
 Banking technology
 Formal sciences
 Applied mathematics
+Cryptography
+Banking technology
+Formal sciences
+Applied mathematics
+Cryptography
+Banking technology
+Formal sciences
+Applied mathematics
+-1
+Units of information
+Units of information
 -1
 Primitive types
 Data types
@@ -23,6 +31,20 @@ Data laws
 Data protection
 2016 establishments in Europe
 2018 in Europe
+Privacy law
+Information privacy
+European Union regulations
+Data laws
+Data protection
+2016 establishments in Europe
+2018 in Europe
+Privacy law
+Information privacy
+European Union regulations
+Data laws
+Data protection
+2016 establishments in Europe
+2018 in Europe
 -1
 Binary arithmetic
 Binary arithmetic
@@ -32,6 +54,10 @@ Positional numeral systems
 Gottfried Leibniz
 -1
 modern encryption techniques
+Cryptography
+Data protection
+Cryptography
+Data protection
 Cryptography
 Data protection
 -1

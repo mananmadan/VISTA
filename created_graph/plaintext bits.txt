@@ -103,8 +103,87 @@ Primitive types
 Syntactic entities
 String (computer science)
 Algorithms on strings
+Character encoding
+Data types
+Formal languages
+Combinatorics on words
+Primitive types
+Syntactic entities
+String (computer science)
+Algorithms on strings
+Character encoding
+Data types
+Formal languages
+Combinatorics on words
+Primitive types
+Syntactic entities
+String (computer science)
+Algorithms on strings
+Character encoding
+Data types
+Formal languages
+Combinatorics on words
+Primitive types
+Syntactic entities
+String (computer science)
+Algorithms on strings
+Character encoding
+Data types
+Formal languages
+Combinatorics on words
+Primitive types
+Syntactic entities
+String (computer science)
+Algorithms on strings
+Character encoding
+Data types
+Formal languages
+Combinatorics on words
+Primitive types
+Syntactic entities
+String (computer science)
+Algorithms on strings
+Character encoding
+Data types
+Formal languages
+Combinatorics on words
+Primitive types
+Syntactic entities
+String (computer science)
+Algorithms on strings
+Character encoding
+Data types
+Formal languages
+Combinatorics on words
+Primitive types
+Syntactic entities
+String (computer science)
+Algorithms on strings
+Character encoding
+Data types
+Formal languages
+Combinatorics on words
+Primitive types
+Syntactic entities
+String (computer science)
+Algorithms on strings
+Character encoding
+Data types
+Formal languages
+Combinatorics on words
+Primitive types
+Syntactic entities
+String (computer science)
+Algorithms on strings
+-1
+basic scheme
+Hypertext Transfer Protocol
+Computer access control protocols
+Hypertext Transfer Protocol
+Computer access control protocols
 -1
 time i.e
+Transport economics
 Transport economics
 Transport economics
 Transport economics
@@ -215,100 +294,388 @@ Binary arithmetic
 Primitive types
 Data types
 Units of information
+Binary arithmetic
+Primitive types
+Data types
+Units of information
+Binary arithmetic
+Primitive types
+Data types
+Units of information
+Binary arithmetic
+Primitive types
+Data types
+Units of information
+Binary arithmetic
+Primitive types
+Data types
+Units of information
+Binary arithmetic
+Primitive types
+Data types
+Units of information
+Binary arithmetic
+Primitive types
+Data types
+Units of information
+Binary arithmetic
+Primitive types
+Data types
+Units of information
+Binary arithmetic
+Primitive types
+Data types
+Units of information
+Binary arithmetic
+Primitive types
+Data types
+Units of information
+Binary arithmetic
+Primitive types
+Data types
+Units of information
+Binary arithmetic
+Primitive types
+Data types
+Units of information
+Binary arithmetic
+Primitive types
+Data types
+Units of information
+Binary arithmetic
+Primitive types
+Data types
+Units of information
+Binary arithmetic
+Primitive types
+Data types
+Units of information
+Binary arithmetic
+Primitive types
+Data types
+Units of information
+Binary arithmetic
+Primitive types
+Data types
+Units of information
+Binary arithmetic
+Primitive types
+Data types
+Units of information
+Binary arithmetic
+Primitive types
+Data types
+Units of information
+Binary arithmetic
+Primitive types
+Data types
+Units of information
+Binary arithmetic
+Primitive types
+Data types
+Units of information
 -1
-basic scheme
-Hypertext Transfer Protocol
-Computer access control protocols
-Hypertext Transfer Protocol
-Computer access control protocols
+Syntactic entities
+Syntax (logic)
+Formal languages
+Metalogic
+Concepts in logic
+Philosophy of logic
+Syntax (logic)
+Formal languages
+Metalogic
+Concepts in logic
+Philosophy of logic
+Syntax (logic)
+Formal languages
+Metalogic
+Concepts in logic
+Philosophy of logic
+Syntax (logic)
+Formal languages
+Metalogic
+Concepts in logic
+Philosophy of logic
+Syntax (logic)
+Formal languages
+Metalogic
+Concepts in logic
+Philosophy of logic
+Syntax (logic)
+Formal languages
+Metalogic
+Concepts in logic
+Philosophy of logic
+Syntax (logic)
+Formal languages
+Metalogic
+Concepts in logic
+Philosophy of logic
+Syntax (logic)
+Formal languages
+Metalogic
+Concepts in logic
+Philosophy of logic
+Syntax (logic)
+Formal languages
+Metalogic
+Concepts in logic
+Philosophy of logic
+Syntax (logic)
+Formal languages
+Metalogic
+Concepts in logic
+Philosophy of logic
+Syntax (logic)
+Formal languages
+Metalogic
+Concepts in logic
+Philosophy of logic
+Syntax (logic)
+Formal languages
+Metalogic
+Concepts in logic
+Philosophy of logic
+Syntax (logic)
+Formal languages
+Metalogic
+Concepts in logic
+Philosophy of logic
+Syntax (logic)
+Formal languages
+Metalogic
+Concepts in logic
+Philosophy of logic
+Syntax (logic)
+Formal languages
+Metalogic
+Concepts in logic
+Philosophy of logic
+Syntax (logic)
+Formal languages
+Metalogic
+Concepts in logic
+Philosophy of logic
+Syntax (logic)
+Formal languages
+Metalogic
+Concepts in logic
+Philosophy of logic
+Syntax (logic)
+Formal languages
+Metalogic
+Concepts in logic
+Philosophy of logic
+Syntax (logic)
+Formal languages
+Metalogic
+Concepts in logic
+Philosophy of logic
+Syntax (logic)
+Formal languages
+Metalogic
+Concepts in logic
+Philosophy of logic
+Syntax (logic)
+Formal languages
+Metalogic
+Concepts in logic
+Philosophy of logic
+Syntax (logic)
+Formal languages
+Metalogic
+Concepts in logic
+Philosophy of logic
+Syntax (logic)
+Formal languages
+Metalogic
+Concepts in logic
+Philosophy of logic
+Syntax (logic)
+Formal languages
+Metalogic
+Concepts in logic
+Philosophy of logic
+Syntax (logic)
+Formal languages
+Metalogic
+Concepts in logic
+Philosophy of logic
+Syntax (logic)
+Formal languages
+Metalogic
+Concepts in logic
+Philosophy of logic
+Syntax (logic)
+Formal languages
+Metalogic
+Concepts in logic
+Philosophy of logic
+Syntax (logic)
+Formal languages
+Metalogic
+Concepts in logic
+Philosophy of logic
+Syntax (logic)
+Formal languages
+Metalogic
+Concepts in logic
+Philosophy of logic
+Syntax (logic)
+Formal languages
+Metalogic
+Concepts in logic
+Philosophy of logic
+Syntax (logic)
+Formal languages
+Metalogic
+Concepts in logic
+Philosophy of logic
+Syntax (logic)
+Formal languages
+Metalogic
+Concepts in logic
+Philosophy of logic
+Syntax (logic)
+Formal languages
+Metalogic
+Concepts in logic
+Philosophy of logic
+Syntax (logic)
+Formal languages
+Metalogic
+Concepts in logic
+Philosophy of logic
+Syntax (logic)
+Formal languages
+Metalogic
+Concepts in logic
+Philosophy of logic
+Syntax (logic)
+Formal languages
+Metalogic
+Concepts in logic
+Philosophy of logic
+Syntax (logic)
+Formal languages
+Metalogic
+Concepts in logic
+Philosophy of logic
+Syntax (logic)
+Formal languages
+Metalogic
+Concepts in logic
+Philosophy of logic
+Syntax (logic)
+Formal languages
+Metalogic
+Concepts in logic
+Philosophy of logic
+Syntax (logic)
+Formal languages
+Metalogic
+Concepts in logic
+Philosophy of logic
+Syntax (logic)
+Formal languages
+Metalogic
+Concepts in logic
+Philosophy of logic
+Syntax (logic)
+Formal languages
+Metalogic
+Concepts in logic
+Philosophy of logic
 -1
-Open formats
-Computer file formats
-Open standards
-Computer file formats
-Open standards
-Computer file formats
-Open standards
-Computer file formats
-Open standards
-Computer file formats
-Open standards
-Computer file formats
-Open standards
-Computer file formats
-Open standards
-Computer file formats
-Open standards
-Computer file formats
-Open standards
+Egyptian inventions
+Ancient Egyptian society
+Ancient Egyptian technology
+Technology by period
+Egyptian inventions
+Science and technology in Egypt
+Ancient Egyptian society
+Ancient Egyptian technology
+Technology by period
+Egyptian inventions
+Science and technology in Egypt
+Ancient Egyptian society
+Ancient Egyptian technology
+Technology by period
+Egyptian inventions
+Science and technology in Egypt
+Ancient Egyptian society
+Ancient Egyptian technology
+Technology by period
+Egyptian inventions
+Science and technology in Egypt
+Ancient Egyptian society
+Ancient Egyptian technology
+Technology by period
+Egyptian inventions
+Science and technology in Egypt
+Ancient Egyptian society
+Ancient Egyptian technology
+Technology by period
+Egyptian inventions
+Science and technology in Egypt
+Ancient Egyptian society
+Ancient Egyptian technology
+Technology by period
+Egyptian inventions
+Science and technology in Egypt
+Ancient Egyptian society
+Ancient Egyptian technology
+Technology by period
+Egyptian inventions
+Science and technology in Egypt
+Ancient Egyptian society
+Ancient Egyptian technology
+Technology by period
+Egyptian inventions
+Science and technology in Egypt
+Ancient Egyptian society
+Ancient Egyptian technology
+Technology by period
+Egyptian inventions
+Science and technology in Egypt
+Ancient Egyptian society
+Ancient Egyptian technology
+Technology by period
+Egyptian inventions
+Science and technology in Egypt
+Ancient Egyptian society
+Ancient Egyptian technology
+Technology by period
+Egyptian inventions
+Science and technology in Egypt
+Ancient Egyptian society
+Ancient Egyptian technology
+Technology by period
+Egyptian inventions
+Science and technology in Egypt
+Ancient Egyptian society
+Ancient Egyptian technology
+Technology by period
+Egyptian inventions
+Science and technology in Egypt
+Ancient Egyptian society
+Ancient Egyptian technology
+Technology by period
+Egyptian inventions
+Science and technology in Egypt
+Ancient Egyptian society
+Ancient Egyptian technology
+Technology by period
+Egyptian inventions
+Science and technology in Egypt
+Ancient Egyptian society
+Ancient Egyptian technology
+Technology by period
+Egyptian inventions
+Science and technology in Egypt
 -1
-Egyptian inventions
-Ancient Egyptian society
-Ancient Egyptian technology
-Technology by period
-Egyptian inventions
-Science and technology in Egypt
-Ancient Egyptian society
-Ancient Egyptian technology
-Technology by period
-Egyptian inventions
-Science and technology in Egypt
-Ancient Egyptian society
-Ancient Egyptian technology
-Technology by period
-Egyptian inventions
-Science and technology in Egypt
-Ancient Egyptian society
-Ancient Egyptian technology
-Technology by period
-Egyptian inventions
-Science and technology in Egypt
-Ancient Egyptian society
-Ancient Egyptian technology
-Technology by period
-Egyptian inventions
-Science and technology in Egypt
-Ancient Egyptian society
-Ancient Egyptian technology
-Technology by period
-Egyptian inventions
-Science and technology in Egypt
-Ancient Egyptian society
-Ancient Egyptian technology
-Technology by period
-Egyptian inventions
-Science and technology in Egypt
-Ancient Egyptian society
-Ancient Egyptian technology
-Technology by period
-Egyptian inventions
-Science and technology in Egypt
-Ancient Egyptian society
-Ancient Egyptian technology
-Technology by period
-Egyptian inventions
-Science and technology in Egypt
-Ancient Egyptian society
-Ancient Egyptian technology
-Technology by period
-Egyptian inventions
-Science and technology in Egypt
-Ancient Egyptian society
-Ancient Egyptian technology
-Technology by period
-Egyptian inventions
-Science and technology in Egypt
-Ancient Egyptian society
-Ancient Egyptian technology
-Technology by period
-Egyptian inventions
-Science and technology in Egypt
-Ancient Egyptian society
-Ancient Egyptian technology
-Technology by period
-Egyptian inventions
-Science and technology in Egypt
--1
+Transport economics
+Regional science
 Transport economics
 Regional science
 Transport economics
@@ -333,141 +700,389 @@ Redirects to Wiktionary
 Redirects to Wiktionary
 Redirects to Wiktionary
 Redirects to Wiktionary
--1
-Cryptography
-Cryptography
-Banking technology
-Formal sciences
-Applied mathematics
-Cryptography
-Banking technology
-Formal sciences
-Applied mathematics
-Cryptography
-Banking technology
-Formal sciences
-Applied mathematics
-Cryptography
-Banking technology
-Formal sciences
-Applied mathematics
-Cryptography
-Banking technology
-Formal sciences
-Applied mathematics
-Cryptography
-Banking technology
-Formal sciences
-Applied mathematics
-Cryptography
-Banking technology
-Formal sciences
-Applied mathematics
-Cryptography
-Banking technology
-Formal sciences
-Applied mathematics
-Cryptography
-Banking technology
-Formal sciences
-Applied mathematics
-Cryptography
-Banking technology
-Formal sciences
-Applied mathematics
-Cryptography
-Banking technology
-Formal sciences
-Applied mathematics
-Cryptography
-Banking technology
-Formal sciences
-Applied mathematics
-Cryptography
-Banking technology
-Formal sciences
-Applied mathematics
-Cryptography
-Banking technology
-Formal sciences
-Applied mathematics
-Cryptography
-Banking technology
-Formal sciences
-Applied mathematics
-Cryptography
-Banking technology
-Formal sciences
-Applied mathematics
-Cryptography
-Banking technology
-Formal sciences
-Applied mathematics
-Cryptography
-Banking technology
-Formal sciences
-Applied mathematics
-Cryptography
-Banking technology
-Formal sciences
-Applied mathematics
-Cryptography
-Banking technology
-Formal sciences
-Applied mathematics
-Cryptography
-Banking technology
-Formal sciences
-Applied mathematics
-Cryptography
-Banking technology
-Formal sciences
-Applied mathematics
-Cryptography
-Banking technology
-Formal sciences
-Applied mathematics
-Cryptography
-Banking technology
-Formal sciences
-Applied mathematics
-Cryptography
-Banking technology
-Formal sciences
-Applied mathematics
-Cryptography
-Banking technology
-Formal sciences
-Applied mathematics
--1
 Redirects to Wiktionary
-Protected soft redirects
 Redirects to Wiktionary
-Protected soft redirects
 Redirects to Wiktionary
-Protected soft redirects
 Redirects to Wiktionary
-Protected soft redirects
 Redirects to Wiktionary
-Protected soft redirects
 Redirects to Wiktionary
-Protected soft redirects
 Redirects to Wiktionary
-Protected soft redirects
-Redirects to Wiktionary
-Protected soft redirects
-Redirects to Wiktionary
-Protected soft redirects
-Redirects to Wiktionary
-Protected soft redirects
-Redirects to Wiktionary
-Protected soft redirects
-Redirects to Wiktionary
-Protected soft redirects
-Redirects to Wiktionary
-Protected soft redirects
 Redirects to Wiktionary
 -1
+Cryptography
+Cryptography
+Banking technology
+Formal sciences
+Applied mathematics
+Cryptography
+Banking technology
+Formal sciences
+Applied mathematics
+Cryptography
+Banking technology
+Formal sciences
+Applied mathematics
+Cryptography
+Banking technology
+Formal sciences
+Applied mathematics
+Cryptography
+Banking technology
+Formal sciences
+Applied mathematics
+Cryptography
+Banking technology
+Formal sciences
+Applied mathematics
+Cryptography
+Banking technology
+Formal sciences
+Applied mathematics
+Cryptography
+Banking technology
+Formal sciences
+Applied mathematics
+Cryptography
+Banking technology
+Formal sciences
+Applied mathematics
+Cryptography
+Banking technology
+Formal sciences
+Applied mathematics
+Cryptography
+Banking technology
+Formal sciences
+Applied mathematics
+Cryptography
+Banking technology
+Formal sciences
+Applied mathematics
+Cryptography
+Banking technology
+Formal sciences
+Applied mathematics
+Cryptography
+Banking technology
+Formal sciences
+Applied mathematics
+Cryptography
+Banking technology
+Formal sciences
+Applied mathematics
+Cryptography
+Banking technology
+Formal sciences
+Applied mathematics
+Cryptography
+Banking technology
+Formal sciences
+Applied mathematics
+Cryptography
+Banking technology
+Formal sciences
+Applied mathematics
+Cryptography
+Banking technology
+Formal sciences
+Applied mathematics
+Cryptography
+Banking technology
+Formal sciences
+Applied mathematics
+Cryptography
+Banking technology
+Formal sciences
+Applied mathematics
+Cryptography
+Banking technology
+Formal sciences
+Applied mathematics
+Cryptography
+Banking technology
+Formal sciences
+Applied mathematics
+Cryptography
+Banking technology
+Formal sciences
+Applied mathematics
+Cryptography
+Banking technology
+Formal sciences
+Applied mathematics
+Cryptography
+Banking technology
+Formal sciences
+Applied mathematics
+Cryptography
+Banking technology
+Formal sciences
+Applied mathematics
+Cryptography
+Banking technology
+Formal sciences
+Applied mathematics
+Cryptography
+Banking technology
+Formal sciences
+Applied mathematics
+Cryptography
+Banking technology
+Formal sciences
+Applied mathematics
+Cryptography
+Banking technology
+Formal sciences
+Applied mathematics
+Cryptography
+Banking technology
+Formal sciences
+Applied mathematics
+Cryptography
+Banking technology
+Formal sciences
+Applied mathematics
+Cryptography
+Banking technology
+Formal sciences
+Applied mathematics
+Cryptography
+Banking technology
+Formal sciences
+Applied mathematics
+Cryptography
+Banking technology
+Formal sciences
+Applied mathematics
+Cryptography
+Banking technology
+Formal sciences
+Applied mathematics
+Cryptography
+Banking technology
+Formal sciences
+Applied mathematics
+Cryptography
+Banking technology
+Formal sciences
+Applied mathematics
+Cryptography
+Banking technology
+Formal sciences
+Applied mathematics
+Cryptography
+Banking technology
+Formal sciences
+Applied mathematics
+Cryptography
+Banking technology
+Formal sciences
+Applied mathematics
+Cryptography
+Banking technology
+Formal sciences
+Applied mathematics
+Cryptography
+Banking technology
+Formal sciences
+Applied mathematics
+Cryptography
+Banking technology
+Formal sciences
+Applied mathematics
+Cryptography
+Banking technology
+Formal sciences
+Applied mathematics
+Cryptography
+Banking technology
+Formal sciences
+Applied mathematics
+Cryptography
+Banking technology
+Formal sciences
+Applied mathematics
+Cryptography
+Banking technology
+Formal sciences
+Applied mathematics
+Cryptography
+Banking technology
+Formal sciences
+Applied mathematics
+-1
+Redirects to Wiktionary
+Protected soft redirects
+Redirects to Wiktionary
+Protected soft redirects
+Redirects to Wiktionary
+Protected soft redirects
+Redirects to Wiktionary
+Protected soft redirects
+Redirects to Wiktionary
+Protected soft redirects
+Redirects to Wiktionary
+Protected soft redirects
+Redirects to Wiktionary
+Protected soft redirects
+Redirects to Wiktionary
+Protected soft redirects
+Redirects to Wiktionary
+Protected soft redirects
+Redirects to Wiktionary
+Protected soft redirects
+Redirects to Wiktionary
+Protected soft redirects
+Redirects to Wiktionary
+Protected soft redirects
+Redirects to Wiktionary
+Protected soft redirects
+Redirects to Wiktionary
+Protected soft redirects
+Redirects to Wiktionary
+Protected soft redirects
+Redirects to Wiktionary
+Protected soft redirects
+Redirects to Wiktionary
+Protected soft redirects
+Redirects to Wiktionary
+Protected soft redirects
+Redirects to Wiktionary
+Protected soft redirects
+Redirects to Wiktionary
+Protected soft redirects
+Redirects to Wiktionary
+Protected soft redirects
+Redirects to Wiktionary
+-1
+Algorithms on strings
+Character encoding
+Data types
+Formal languages
+Combinatorics on words
+Primitive types
+Syntactic entities
+String (computer science)
+Algorithms on strings
+Character encoding
+Data types
+Formal languages
+Combinatorics on words
+Primitive types
+Syntactic entities
+String (computer science)
+Algorithms on strings
+Character encoding
+Data types
+Formal languages
+Combinatorics on words
+Primitive types
+Syntactic entities
+String (computer science)
+Algorithms on strings
+Character encoding
+Data types
+Formal languages
+Combinatorics on words
+Primitive types
+Syntactic entities
+String (computer science)
+Algorithms on strings
+Character encoding
+Data types
+Formal languages
+Combinatorics on words
+Primitive types
+Syntactic entities
+String (computer science)
+Algorithms on strings
+Character encoding
+Data types
+Formal languages
+Combinatorics on words
+Primitive types
+Syntactic entities
+String (computer science)
+Algorithms on strings
+Character encoding
+Data types
+Formal languages
+Combinatorics on words
+Primitive types
+Syntactic entities
+String (computer science)
+Algorithms on strings
+Character encoding
+Data types
+Formal languages
+Combinatorics on words
+Primitive types
+Syntactic entities
+String (computer science)
+Algorithms on strings
+Character encoding
+Data types
+Formal languages
+Combinatorics on words
+Primitive types
+Syntactic entities
+String (computer science)
+Algorithms on strings
+Character encoding
+Data types
+Formal languages
+Combinatorics on words
+Primitive types
+Syntactic entities
+String (computer science)
+Algorithms on strings
+Character encoding
+Data types
+Formal languages
+Combinatorics on words
+Primitive types
+Syntactic entities
+String (computer science)
+Algorithms on strings
+Character encoding
+Data types
+Formal languages
+Combinatorics on words
+Primitive types
+Syntactic entities
+String (computer science)
+Algorithms on strings
+Character encoding
+Data types
+Formal languages
+Combinatorics on words
+Primitive types
+Syntactic entities
+String (computer science)
+Algorithms on strings
+Character encoding
+Data types
+Formal languages
+Combinatorics on words
+Primitive types
+Syntactic entities
+String (computer science)
+Algorithms on strings
+Character encoding
+Data types
+Formal languages
+Combinatorics on words
+Primitive types
+Syntactic entities
+String (computer science)
+Algorithms on strings
+Character encoding
+Data types
+Formal languages
+Combinatorics on words
+Primitive types
+Syntactic entities
+String (computer science)
 Algorithms on strings
 Character encoding
 Data types
@@ -679,6 +1294,106 @@ String (computer science)
 Algorithms on strings
 -1
 Binary arithmetic
+Binary arithmetic
+Computer arithmetic
+Elementary arithmetic
+Positional numeral systems
+Gottfried Leibniz
+Binary arithmetic
+Computer arithmetic
+Elementary arithmetic
+Positional numeral systems
+Gottfried Leibniz
+Binary arithmetic
+Computer arithmetic
+Elementary arithmetic
+Positional numeral systems
+Gottfried Leibniz
+Binary arithmetic
+Computer arithmetic
+Elementary arithmetic
+Positional numeral systems
+Gottfried Leibniz
+Binary arithmetic
+Computer arithmetic
+Elementary arithmetic
+Positional numeral systems
+Gottfried Leibniz
+Binary arithmetic
+Computer arithmetic
+Elementary arithmetic
+Positional numeral systems
+Gottfried Leibniz
+Binary arithmetic
+Computer arithmetic
+Elementary arithmetic
+Positional numeral systems
+Gottfried Leibniz
+Binary arithmetic
+Computer arithmetic
+Elementary arithmetic
+Positional numeral systems
+Gottfried Leibniz
+Binary arithmetic
+Computer arithmetic
+Elementary arithmetic
+Positional numeral systems
+Gottfried Leibniz
+Binary arithmetic
+Computer arithmetic
+Elementary arithmetic
+Positional numeral systems
+Gottfried Leibniz
+Binary arithmetic
+Computer arithmetic
+Elementary arithmetic
+Positional numeral systems
+Gottfried Leibniz
+Binary arithmetic
+Computer arithmetic
+Elementary arithmetic
+Positional numeral systems
+Gottfried Leibniz
+Binary arithmetic
+Computer arithmetic
+Elementary arithmetic
+Positional numeral systems
+Gottfried Leibniz
+Binary arithmetic
+Computer arithmetic
+Elementary arithmetic
+Positional numeral systems
+Gottfried Leibniz
+Binary arithmetic
+Computer arithmetic
+Elementary arithmetic
+Positional numeral systems
+Gottfried Leibniz
+Binary arithmetic
+Computer arithmetic
+Elementary arithmetic
+Positional numeral systems
+Gottfried Leibniz
+Binary arithmetic
+Computer arithmetic
+Elementary arithmetic
+Positional numeral systems
+Gottfried Leibniz
+Binary arithmetic
+Computer arithmetic
+Elementary arithmetic
+Positional numeral systems
+Gottfried Leibniz
+Binary arithmetic
+Computer arithmetic
+Elementary arithmetic
+Positional numeral systems
+Gottfried Leibniz
+Binary arithmetic
+Computer arithmetic
+Elementary arithmetic
+Positional numeral systems
+Gottfried Leibniz
 Binary arithmetic
 Computer arithmetic
 Elementary arithmetic
@@ -811,6 +1526,12 @@ Positional numeral systems
 Gottfried Leibniz
 -1
 Text file formats
+Text file formats
+Computer data
+Text file formats
+Computer data
+Text file formats
+Computer data
 Text file formats
 Computer data
 Text file formats
@@ -849,61 +1570,353 @@ Text file formats
 Open formats
 Text file formats
 Open formats
+Text file formats
+Open formats
+Text file formats
+Open formats
+Text file formats
+Open formats
 -1
-Block ciphers
-Block ciphers
-Cryptographic primitives
-Arab inventions
-Egyptian inventions
-Block ciphers
-Cryptographic primitives
-Arab inventions
-Egyptian inventions
-Block ciphers
-Cryptographic primitives
-Arab inventions
-Egyptian inventions
-Block ciphers
-Cryptographic primitives
-Arab inventions
-Egyptian inventions
-Block ciphers
-Cryptographic primitives
-Arab inventions
-Egyptian inventions
-Block ciphers
-Cryptographic primitives
-Arab inventions
-Egyptian inventions
-Block ciphers
-Cryptographic primitives
-Arab inventions
-Egyptian inventions
-Block ciphers
-Cryptographic primitives
-Arab inventions
-Egyptian inventions
-Block ciphers
-Cryptographic primitives
-Arab inventions
-Egyptian inventions
-Block ciphers
-Cryptographic primitives
-Arab inventions
-Egyptian inventions
-Block ciphers
-Cryptographic primitives
-Arab inventions
-Egyptian inventions
-Block ciphers
-Cryptographic primitives
-Arab inventions
-Egyptian inventions
-Block ciphers
-Cryptographic primitives
-Arab inventions
-Egyptian inventions
+String (computer science)
+Character encoding
+Data types
+Formal languages
+Combinatorics on words
+Primitive types
+Syntactic entities
+String (computer science)
+Algorithms on strings
+Character encoding
+Data types
+Formal languages
+Combinatorics on words
+Primitive types
+Syntactic entities
+String (computer science)
+Algorithms on strings
+Character encoding
+Data types
+Formal languages
+Combinatorics on words
+Primitive types
+Syntactic entities
+String (computer science)
+Algorithms on strings
+Character encoding
+Data types
+Formal languages
+Combinatorics on words
+Primitive types
+Syntactic entities
+String (computer science)
+Algorithms on strings
+Character encoding
+Data types
+Formal languages
+Combinatorics on words
+Primitive types
+Syntactic entities
+String (computer science)
+Algorithms on strings
+Character encoding
+Data types
+Formal languages
+Combinatorics on words
+Primitive types
+Syntactic entities
+String (computer science)
+Algorithms on strings
+Character encoding
+Data types
+Formal languages
+Combinatorics on words
+Primitive types
+Syntactic entities
+String (computer science)
+Algorithms on strings
+Character encoding
+Data types
+Formal languages
+Combinatorics on words
+Primitive types
+Syntactic entities
+String (computer science)
+Algorithms on strings
+Character encoding
+Data types
+Formal languages
+Combinatorics on words
+Primitive types
+Syntactic entities
+String (computer science)
+Algorithms on strings
+Character encoding
+Data types
+Formal languages
+Combinatorics on words
+Primitive types
+Syntactic entities
+String (computer science)
+Algorithms on strings
+Character encoding
+Data types
+Formal languages
+Combinatorics on words
+Primitive types
+Syntactic entities
+String (computer science)
+Algorithms on strings
+Character encoding
+Data types
+Formal languages
+Combinatorics on words
+Primitive types
+Syntactic entities
+String (computer science)
+Algorithms on strings
+Character encoding
+Data types
+Formal languages
+Combinatorics on words
+Primitive types
+Syntactic entities
+String (computer science)
+Algorithms on strings
+Character encoding
+Data types
+Formal languages
+Combinatorics on words
+Primitive types
+Syntactic entities
+String (computer science)
+Algorithms on strings
+Character encoding
+Data types
+Formal languages
+Combinatorics on words
+Primitive types
+Syntactic entities
+String (computer science)
+Algorithms on strings
+Character encoding
+Data types
+Formal languages
+Combinatorics on words
+Primitive types
+Syntactic entities
+String (computer science)
+Algorithms on strings
+Character encoding
+Data types
+Formal languages
+Combinatorics on words
+Primitive types
+Syntactic entities
+String (computer science)
+Algorithms on strings
+Character encoding
+Data types
+Formal languages
+Combinatorics on words
+Primitive types
+Syntactic entities
+String (computer science)
+Algorithms on strings
+Character encoding
+Data types
+Formal languages
+Combinatorics on words
+Primitive types
+Syntactic entities
+String (computer science)
+Algorithms on strings
+Character encoding
+Data types
+Formal languages
+Combinatorics on words
+Primitive types
+Syntactic entities
+String (computer science)
+Algorithms on strings
+Character encoding
+Data types
+Formal languages
+Combinatorics on words
+Primitive types
+Syntactic entities
+String (computer science)
+Algorithms on strings
+Character encoding
+Data types
+Formal languages
+Combinatorics on words
+Primitive types
+Syntactic entities
+String (computer science)
+Algorithms on strings
+Character encoding
+Data types
+Formal languages
+Combinatorics on words
+Primitive types
+Syntactic entities
+String (computer science)
+Algorithms on strings
+Character encoding
+Data types
+Formal languages
+Combinatorics on words
+Primitive types
+Syntactic entities
+String (computer science)
+Algorithms on strings
+Character encoding
+Data types
+Formal languages
+Combinatorics on words
+Primitive types
+Syntactic entities
+String (computer science)
+Algorithms on strings
+Character encoding
+Data types
+Formal languages
+Combinatorics on words
+Primitive types
+Syntactic entities
+String (computer science)
+Algorithms on strings
+Character encoding
+Data types
+Formal languages
+Combinatorics on words
+Primitive types
+Syntactic entities
+String (computer science)
+Algorithms on strings
+Character encoding
+Data types
+Formal languages
+Combinatorics on words
+Primitive types
+Syntactic entities
+String (computer science)
+Algorithms on strings
+Character encoding
+Data types
+Formal languages
+Combinatorics on words
+Primitive types
+Syntactic entities
+String (computer science)
+Algorithms on strings
+Character encoding
+Data types
+Formal languages
+Combinatorics on words
+Primitive types
+Syntactic entities
+String (computer science)
+Algorithms on strings
+Character encoding
+Data types
+Formal languages
+Combinatorics on words
+Primitive types
+Syntactic entities
+String (computer science)
+Algorithms on strings
+Character encoding
+Data types
+Formal languages
+Combinatorics on words
+Primitive types
+Syntactic entities
+String (computer science)
+Algorithms on strings
+Character encoding
+Data types
+Formal languages
+Combinatorics on words
+Primitive types
+Syntactic entities
+String (computer science)
+Algorithms on strings
+Character encoding
+Data types
+Formal languages
+Combinatorics on words
+Primitive types
+Syntactic entities
+String (computer science)
+Algorithms on strings
+Character encoding
+Data types
+Formal languages
+Combinatorics on words
+Primitive types
+Syntactic entities
+String (computer science)
+Algorithms on strings
+Character encoding
+Data types
+Formal languages
+Combinatorics on words
+Primitive types
+Syntactic entities
+String (computer science)
+Algorithms on strings
+Character encoding
+Data types
+Formal languages
+Combinatorics on words
+Primitive types
+Syntactic entities
+String (computer science)
+Algorithms on strings
+Character encoding
+Data types
+Formal languages
+Combinatorics on words
+Primitive types
+Syntactic entities
+String (computer science)
+Algorithms on strings
+Character encoding
+Data types
+Formal languages
+Combinatorics on words
+Primitive types
+Syntactic entities
+String (computer science)
+Algorithms on strings
+Character encoding
+Data types
+Formal languages
+Combinatorics on words
+Primitive types
+Syntactic entities
+String (computer science)
+Algorithms on strings
+Character encoding
+Data types
+Formal languages
+Combinatorics on words
+Primitive types
+Syntactic entities
+String (computer science)
+Algorithms on strings
+Character encoding
+Data types
+Formal languages
+Combinatorics on words
+Primitive types
+Syntactic entities
+String (computer science)
+Algorithms on strings
 -1
+Chosen-plaintext attacks
+Chosen-plaintext attacks
 Chosen-plaintext attacks
 Chosen-plaintext attacks
 Chosen-plaintext attacks
@@ -925,6 +1938,8 @@ Chosen-plaintext attacks
 Chosen-plaintext attacks
 Chosen-plaintext attacks
 Chosen-plaintext attacks
+Chosen-plaintext attacks
+Chosen-plaintext attacks
 -1
 Cryptographic primitives
 Cryptographic primitives
@@ -940,235 +1955,123 @@ Cryptographic primitives
 Cryptographic primitives
 Cryptographic primitives
 Cryptographic primitives
--1
-Stream ciphers
-Stream ciphers
 Cryptographic primitives
-Stream ciphers
 Cryptographic primitives
-Stream ciphers
 Cryptographic primitives
-Stream ciphers
-Cryptographic primitives
-Stream ciphers
-Cryptographic primitives
-Stream ciphers
-Cryptographic primitives
-Stream ciphers
-Cryptographic primitives
-Stream ciphers
 Cryptographic primitives
 -1
-String (computer science)
-Character encoding
-Data types
-Formal languages
-Combinatorics on words
-Primitive types
-Syntactic entities
-String (computer science)
-Algorithms on strings
-Character encoding
-Data types
-Formal languages
-Combinatorics on words
-Primitive types
-Syntactic entities
-String (computer science)
-Algorithms on strings
-Character encoding
-Data types
-Formal languages
-Combinatorics on words
-Primitive types
-Syntactic entities
-String (computer science)
-Algorithms on strings
-Character encoding
-Data types
-Formal languages
-Combinatorics on words
-Primitive types
-Syntactic entities
-String (computer science)
-Algorithms on strings
-Character encoding
-Data types
-Formal languages
-Combinatorics on words
-Primitive types
-Syntactic entities
-String (computer science)
-Algorithms on strings
-Character encoding
-Data types
-Formal languages
-Combinatorics on words
-Primitive types
-Syntactic entities
-String (computer science)
-Algorithms on strings
-Character encoding
-Data types
-Formal languages
-Combinatorics on words
-Primitive types
-Syntactic entities
-String (computer science)
-Algorithms on strings
-Character encoding
-Data types
-Formal languages
-Combinatorics on words
-Primitive types
-Syntactic entities
-String (computer science)
-Algorithms on strings
-Character encoding
-Data types
-Formal languages
-Combinatorics on words
-Primitive types
-Syntactic entities
-String (computer science)
-Algorithms on strings
-Character encoding
-Data types
-Formal languages
-Combinatorics on words
-Primitive types
-Syntactic entities
-String (computer science)
-Algorithms on strings
-Character encoding
-Data types
-Formal languages
-Combinatorics on words
-Primitive types
-Syntactic entities
-String (computer science)
-Algorithms on strings
-Character encoding
-Data types
-Formal languages
-Combinatorics on words
-Primitive types
-Syntactic entities
-String (computer science)
-Algorithms on strings
-Character encoding
-Data types
-Formal languages
-Combinatorics on words
-Primitive types
-Syntactic entities
-String (computer science)
-Algorithms on strings
-Character encoding
-Data types
-Formal languages
-Combinatorics on words
-Primitive types
-Syntactic entities
-String (computer science)
-Algorithms on strings
-Character encoding
-Data types
-Formal languages
-Combinatorics on words
-Primitive types
-Syntactic entities
-String (computer science)
-Algorithms on strings
-Character encoding
-Data types
-Formal languages
-Combinatorics on words
-Primitive types
-Syntactic entities
-String (computer science)
-Algorithms on strings
-Character encoding
-Data types
-Formal languages
-Combinatorics on words
-Primitive types
-Syntactic entities
-String (computer science)
-Algorithms on strings
-Character encoding
-Data types
-Formal languages
-Combinatorics on words
-Primitive types
-Syntactic entities
-String (computer science)
-Algorithms on strings
-Character encoding
-Data types
-Formal languages
-Combinatorics on words
-Primitive types
-Syntactic entities
-String (computer science)
-Algorithms on strings
-Character encoding
-Data types
-Formal languages
-Combinatorics on words
-Primitive types
-Syntactic entities
-String (computer science)
-Algorithms on strings
-Character encoding
-Data types
-Formal languages
-Combinatorics on words
-Primitive types
-Syntactic entities
-String (computer science)
-Algorithms on strings
-Character encoding
-Data types
-Formal languages
-Combinatorics on words
-Primitive types
-Syntactic entities
-String (computer science)
-Algorithms on strings
-Character encoding
-Data types
-Formal languages
-Combinatorics on words
-Primitive types
-Syntactic entities
-String (computer science)
-Algorithms on strings
-Character encoding
-Data types
-Formal languages
-Combinatorics on words
-Primitive types
-Syntactic entities
-String (computer science)
-Algorithms on strings
-Character encoding
-Data types
-Formal languages
-Combinatorics on words
-Primitive types
-Syntactic entities
-String (computer science)
-Algorithms on strings
-Character encoding
-Data types
-Formal languages
-Combinatorics on words
-Primitive types
-Syntactic entities
-String (computer science)
-Algorithms on strings
+Stream ciphers
+Stream ciphers
+Cryptographic primitives
+Stream ciphers
+Cryptographic primitives
+Stream ciphers
+Cryptographic primitives
+Stream ciphers
+Cryptographic primitives
+Stream ciphers
+Cryptographic primitives
+Stream ciphers
+Cryptographic primitives
+Stream ciphers
+Cryptographic primitives
+Stream ciphers
+Cryptographic primitives
+Stream ciphers
+Cryptographic primitives
+Stream ciphers
+Cryptographic primitives
 -1
+Block ciphers
+Block ciphers
+Cryptographic primitives
+Arab inventions
+Egyptian inventions
+Block ciphers
+Cryptographic primitives
+Arab inventions
+Egyptian inventions
+Block ciphers
+Cryptographic primitives
+Arab inventions
+Egyptian inventions
+Block ciphers
+Cryptographic primitives
+Arab inventions
+Egyptian inventions
+Block ciphers
+Cryptographic primitives
+Arab inventions
+Egyptian inventions
+Block ciphers
+Cryptographic primitives
+Arab inventions
+Egyptian inventions
+Block ciphers
+Cryptographic primitives
+Arab inventions
+Egyptian inventions
+Block ciphers
+Cryptographic primitives
+Arab inventions
+Egyptian inventions
+Block ciphers
+Cryptographic primitives
+Arab inventions
+Egyptian inventions
+Block ciphers
+Cryptographic primitives
+Arab inventions
+Egyptian inventions
+Block ciphers
+Cryptographic primitives
+Arab inventions
+Egyptian inventions
+Block ciphers
+Cryptographic primitives
+Arab inventions
+Egyptian inventions
+Block ciphers
+Cryptographic primitives
+Arab inventions
+Egyptian inventions
+Block ciphers
+Cryptographic primitives
+Arab inventions
+Egyptian inventions
+Block ciphers
+Cryptographic primitives
+Arab inventions
+Egyptian inventions
+Block ciphers
+Cryptographic primitives
+Arab inventions
+Egyptian inventions
+Block ciphers
+Cryptographic primitives
+Arab inventions
+Egyptian inventions
+-1
+Units of information
+Units of information
+Units of information
+Units of information
+Units of information
+Units of information
+Units of information
+Units of information
+Units of information
+Units of information
+Units of information
+Units of information
+Units of information
+Units of information
+Units of information
+Units of information
+Units of information
+Units of information
+Units of information
+Units of information
 Units of information
 Units of information
 Units of information
@@ -1250,8 +2153,80 @@ Data types
 Primitive types
 Data types
 Primitive types
+Data types
+Primitive types
+Data types
+Primitive types
+Data types
+Primitive types
+Data types
+Primitive types
+Data types
+Primitive types
+Data types
+Primitive types
+Data types
+Primitive types
+Data types
+Primitive types
+Data types
+Primitive types
+Data types
+Primitive types
+Data types
+Primitive types
+Data types
+Primitive types
+Data types
+Primitive types
+Data types
+Primitive types
+Data types
+Primitive types
+Data types
+Primitive types
+Data types
+Primitive types
+Data types
+Primitive types
+Data types
+Primitive types
+Data types
+Primitive types
 -1
 Character encoding
+Character encoding
+Natural language and computing
+Character encoding
+Natural language and computing
+Character encoding
+Natural language and computing
+Character encoding
+Natural language and computing
+Character encoding
+Natural language and computing
+Character encoding
+Natural language and computing
+Character encoding
+Natural language and computing
+Character encoding
+Natural language and computing
+Character encoding
+Natural language and computing
+Character encoding
+Natural language and computing
+Character encoding
+Natural language and computing
+Character encoding
+Natural language and computing
+Character encoding
+Natural language and computing
+Character encoding
+Natural language and computing
+Character encoding
+Natural language and computing
+Character encoding
+Natural language and computing
 Character encoding
 Natural language and computing
 Character encoding
@@ -1363,8 +2338,36 @@ Technology-related lists
 Technology timelines
 Lists of inventions or discoveries
 Technology-related lists
+Technology timelines
+Lists of inventions or discoveries
+Technology-related lists
+Technology timelines
+Lists of inventions or discoveries
+Technology-related lists
+Technology timelines
+Lists of inventions or discoveries
+Technology-related lists
+Technology timelines
+Lists of inventions or discoveries
+Technology-related lists
 -1
 block ciphers
+Block ciphers
+Cryptographic primitives
+Arab inventions
+Egyptian inventions
+Block ciphers
+Cryptographic primitives
+Arab inventions
+Egyptian inventions
+Block ciphers
+Cryptographic primitives
+Arab inventions
+Egyptian inventions
+Block ciphers
+Cryptographic primitives
+Arab inventions
+Egyptian inventions
 Block ciphers
 Cryptographic primitives
 Arab inventions
@@ -1627,140 +2630,166 @@ Primitive types
 Syntactic entities
 String (computer science)
 Algorithms on strings
--1
+Character encoding
+Data types
+Formal languages
+Combinatorics on words
+Primitive types
 Syntactic entities
-Syntax (logic)
+String (computer science)
+Algorithms on strings
+Character encoding
+Data types
 Formal languages
-Metalogic
-Concepts in logic
-Philosophy of logic
-Syntax (logic)
+Combinatorics on words
+Primitive types
+Syntactic entities
+String (computer science)
+Algorithms on strings
+Character encoding
+Data types
 Formal languages
-Metalogic
-Concepts in logic
-Philosophy of logic
-Syntax (logic)
+Combinatorics on words
+Primitive types
+Syntactic entities
+String (computer science)
+Algorithms on strings
+Character encoding
+Data types
 Formal languages
-Metalogic
-Concepts in logic
-Philosophy of logic
-Syntax (logic)
+Combinatorics on words
+Primitive types
+Syntactic entities
+String (computer science)
+Algorithms on strings
+Character encoding
+Data types
 Formal languages
-Metalogic
-Concepts in logic
-Philosophy of logic
-Syntax (logic)
+Combinatorics on words
+Primitive types
+Syntactic entities
+String (computer science)
+Algorithms on strings
+Character encoding
+Data types
 Formal languages
-Metalogic
-Concepts in logic
-Philosophy of logic
-Syntax (logic)
+Combinatorics on words
+Primitive types
+Syntactic entities
+String (computer science)
+Algorithms on strings
+Character encoding
+Data types
 Formal languages
-Metalogic
-Concepts in logic
-Philosophy of logic
-Syntax (logic)
+Combinatorics on words
+Primitive types
+Syntactic entities
+String (computer science)
+Algorithms on strings
+Character encoding
+Data types
 Formal languages
-Metalogic
-Concepts in logic
-Philosophy of logic
-Syntax (logic)
+Combinatorics on words
+Primitive types
+Syntactic entities
+String (computer science)
+Algorithms on strings
+Character encoding
+Data types
 Formal languages
-Metalogic
-Concepts in logic
-Philosophy of logic
-Syntax (logic)
+Combinatorics on words
+Primitive types
+Syntactic entities
+String (computer science)
+Algorithms on strings
+Character encoding
+Data types
 Formal languages
-Metalogic
-Concepts in logic
-Philosophy of logic
-Syntax (logic)
+Combinatorics on words
+Primitive types
+Syntactic entities
+String (computer science)
+Algorithms on strings
+Character encoding
+Data types
 Formal languages
-Metalogic
-Concepts in logic
-Philosophy of logic
-Syntax (logic)
+Combinatorics on words
+Primitive types
+Syntactic entities
+String (computer science)
+Algorithms on strings
+Character encoding
+Data types
 Formal languages
-Metalogic
-Concepts in logic
-Philosophy of logic
-Syntax (logic)
+Combinatorics on words
+Primitive types
+Syntactic entities
+String (computer science)
+Algorithms on strings
+Character encoding
+Data types
 Formal languages
-Metalogic
-Concepts in logic
-Philosophy of logic
-Syntax (logic)
+Combinatorics on words
+Primitive types
+Syntactic entities
+String (computer science)
+Algorithms on strings
+Character encoding
+Data types
 Formal languages
-Metalogic
-Concepts in logic
-Philosophy of logic
-Syntax (logic)
+Combinatorics on words
+Primitive types
+Syntactic entities
+String (computer science)
+Algorithms on strings
+Character encoding
+Data types
 Formal languages
-Metalogic
-Concepts in logic
-Philosophy of logic
-Syntax (logic)
+Combinatorics on words
+Primitive types
+Syntactic entities
+String (computer science)
+Algorithms on strings
+Character encoding
+Data types
 Formal languages
-Metalogic
-Concepts in logic
-Philosophy of logic
-Syntax (logic)
-Formal languages
-Metalogic
-Concepts in logic
-Philosophy of logic
-Syntax (logic)
-Formal languages
-Metalogic
-Concepts in logic
-Philosophy of logic
-Syntax (logic)
-Formal languages
-Metalogic
-Concepts in logic
-Philosophy of logic
-Syntax (logic)
-Formal languages
-Metalogic
-Concepts in logic
-Philosophy of logic
-Syntax (logic)
-Formal languages
-Metalogic
-Concepts in logic
-Philosophy of logic
-Syntax (logic)
-Formal languages
-Metalogic
-Concepts in logic
-Philosophy of logic
-Syntax (logic)
-Formal languages
-Metalogic
-Concepts in logic
-Philosophy of logic
-Syntax (logic)
-Formal languages
-Metalogic
-Concepts in logic
-Philosophy of logic
-Syntax (logic)
-Formal languages
-Metalogic
-Concepts in logic
-Philosophy of logic
-Syntax (logic)
-Formal languages
-Metalogic
-Concepts in logic
-Philosophy of logic
-Syntax (logic)
-Formal languages
-Metalogic
-Concepts in logic
-Philosophy of logic
+Combinatorics on words
+Primitive types
+Syntactic entities
+String (computer science)
+Algorithms on strings
+-1
+Open formats
+Computer file formats
+Open standards
+Computer file formats
+Open standards
+Computer file formats
+Open standards
+Computer file formats
+Open standards
+Computer file formats
+Open standards
+Computer file formats
+Open standards
+Computer file formats
+Open standards
+Computer file formats
+Open standards
+Computer file formats
+Open standards
+Computer file formats
+Open standards
+Computer file formats
+Open standards
+Computer file formats
+Open standards
 -1
 stream ciphers
+Stream ciphers
+Cryptographic primitives
+Stream ciphers
+Cryptographic primitives
 Stream ciphers
 Cryptographic primitives
 Stream ciphers
@@ -1795,6 +2824,46 @@ World Wide Web Consortium standards
 Computer-related introductions in 1991
 -1
 Data types
+Data types
+Programming language concepts
+Data types
+Programming language concepts
+Data types
+Programming language concepts
+Data types
+Programming language concepts
+Data types
+Programming language concepts
+Data types
+Programming language concepts
+Data types
+Programming language concepts
+Data types
+Programming language concepts
+Data types
+Programming language concepts
+Data types
+Programming language concepts
+Data types
+Programming language concepts
+Data types
+Programming language concepts
+Data types
+Programming language concepts
+Data types
+Programming language concepts
+Data types
+Programming language concepts
+Data types
+Programming language concepts
+Data types
+Programming language concepts
+Data types
+Programming language concepts
+Data types
+Programming language concepts
+Data types
+Programming language concepts
 Data types
 Programming language concepts
 Data types
@@ -1849,6 +2918,174 @@ Data types
 Programming language concepts
 -1
 Data protection
+Privacy law
+Information privacy
+European Union regulations
+Data laws
+Data protection
+2016 establishments in Europe
+2018 in Europe
+Privacy law
+Information privacy
+European Union regulations
+Data laws
+Data protection
+2016 establishments in Europe
+2018 in Europe
+Privacy law
+Information privacy
+European Union regulations
+Data laws
+Data protection
+2016 establishments in Europe
+2018 in Europe
+Privacy law
+Information privacy
+European Union regulations
+Data laws
+Data protection
+2016 establishments in Europe
+2018 in Europe
+Privacy law
+Information privacy
+European Union regulations
+Data laws
+Data protection
+2016 establishments in Europe
+2018 in Europe
+Privacy law
+Information privacy
+European Union regulations
+Data laws
+Data protection
+2016 establishments in Europe
+2018 in Europe
+Privacy law
+Information privacy
+European Union regulations
+Data laws
+Data protection
+2016 establishments in Europe
+2018 in Europe
+Privacy law
+Information privacy
+European Union regulations
+Data laws
+Data protection
+2016 establishments in Europe
+2018 in Europe
+Privacy law
+Information privacy
+European Union regulations
+Data laws
+Data protection
+2016 establishments in Europe
+2018 in Europe
+Privacy law
+Information privacy
+European Union regulations
+Data laws
+Data protection
+2016 establishments in Europe
+2018 in Europe
+Privacy law
+Information privacy
+European Union regulations
+Data laws
+Data protection
+2016 establishments in Europe
+2018 in Europe
+Privacy law
+Information privacy
+European Union regulations
+Data laws
+Data protection
+2016 establishments in Europe
+2018 in Europe
+Privacy law
+Information privacy
+European Union regulations
+Data laws
+Data protection
+2016 establishments in Europe
+2018 in Europe
+Privacy law
+Information privacy
+European Union regulations
+Data laws
+Data protection
+2016 establishments in Europe
+2018 in Europe
+Privacy law
+Information privacy
+European Union regulations
+Data laws
+Data protection
+2016 establishments in Europe
+2018 in Europe
+Privacy law
+Information privacy
+European Union regulations
+Data laws
+Data protection
+2016 establishments in Europe
+2018 in Europe
+Privacy law
+Information privacy
+European Union regulations
+Data laws
+Data protection
+2016 establishments in Europe
+2018 in Europe
+Privacy law
+Information privacy
+European Union regulations
+Data laws
+Data protection
+2016 establishments in Europe
+2018 in Europe
+Privacy law
+Information privacy
+European Union regulations
+Data laws
+Data protection
+2016 establishments in Europe
+2018 in Europe
+Privacy law
+Information privacy
+European Union regulations
+Data laws
+Data protection
+2016 establishments in Europe
+2018 in Europe
+Privacy law
+Information privacy
+European Union regulations
+Data laws
+Data protection
+2016 establishments in Europe
+2018 in Europe
+Privacy law
+Information privacy
+European Union regulations
+Data laws
+Data protection
+2016 establishments in Europe
+2018 in Europe
+Privacy law
+Information privacy
+European Union regulations
+Data laws
+Data protection
+2016 establishments in Europe
+2018 in Europe
+Privacy law
+Information privacy
+European Union regulations
+Data laws
+Data protection
+2016 establishments in Europe
+2018 in Europe
 Privacy law
 Information privacy
 European Union regulations
@@ -2041,8 +3278,58 @@ Cryptography
 Cryptography
 Cryptography
 Cryptography
+Cryptography
+Cryptography
 -1
 Formal languages
+Formal languages
+Theoretical computer science
+Combinatorics on words
+Formal languages
+Theoretical computer science
+Combinatorics on words
+Formal languages
+Theoretical computer science
+Combinatorics on words
+Formal languages
+Theoretical computer science
+Combinatorics on words
+Formal languages
+Theoretical computer science
+Combinatorics on words
+Formal languages
+Theoretical computer science
+Combinatorics on words
+Formal languages
+Theoretical computer science
+Combinatorics on words
+Formal languages
+Theoretical computer science
+Combinatorics on words
+Formal languages
+Theoretical computer science
+Combinatorics on words
+Formal languages
+Theoretical computer science
+Combinatorics on words
+Formal languages
+Theoretical computer science
+Combinatorics on words
+Formal languages
+Theoretical computer science
+Combinatorics on words
+Formal languages
+Theoretical computer science
+Combinatorics on words
+Formal languages
+Theoretical computer science
+Combinatorics on words
+Formal languages
+Theoretical computer science
+Combinatorics on words
+Formal languages
+Theoretical computer science
+Combinatorics on words
 Formal languages
 Theoretical computer science
 Combinatorics on words
@@ -2175,7 +3462,71 @@ Cryptography
 Data protection
 Cryptography
 Data protection
+Cryptography
+Data protection
+Cryptography
+Data protection
+Cryptography
+Data protection
+Cryptography
+Data protection
+Cryptography
+Data protection
+Cryptography
+Data protection
+Cryptography
+Data protection
+Cryptography
+Data protection
+Cryptography
+Data protection
+Cryptography
+Data protection
+Cryptography
+Data protection
+Cryptography
+Data protection
+Cryptography
+Data protection
+Cryptography
+Data protection
+Cryptography
+Data protection
+Cryptography
+Data protection
+Cryptography
+Data protection
+Cryptography
+Data protection
+Cryptography
+Data protection
+Cryptography
+Data protection
+Cryptography
+Data protection
+Cryptography
+Data protection
+Cryptography
+Data protection
+Cryptography
+Data protection
 -1
+Combinatorics on words
+Combinatorics on words
+Combinatorics on words
+Combinatorics on words
+Combinatorics on words
+Combinatorics on words
+Combinatorics on words
+Combinatorics on words
+Combinatorics on words
+Combinatorics on words
+Combinatorics on words
+Combinatorics on words
+Combinatorics on words
+Combinatorics on words
+Combinatorics on words
+Combinatorics on words
 Combinatorics on words
 Combinatorics on words
 Combinatorics on words

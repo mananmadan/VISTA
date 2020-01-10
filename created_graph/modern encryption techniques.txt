@@ -1,3 +1,7 @@
+modern encryption techniques
+Cryptography
+Data protection
+-1
 Data protection
 Privacy law
 Information privacy
@@ -6,10 +10,6 @@ Data laws
 Data protection
 2016 establishments in Europe
 2018 in Europe
--1
-modern encryption techniques
-Cryptography
-Data protection
 -1
 Cryptography
 Cryptography

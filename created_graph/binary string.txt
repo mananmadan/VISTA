@@ -7,16 +7,63 @@ Primitive types
 Syntactic entities
 String (computer science)
 Algorithms on strings
+Character encoding
+Data types
+Formal languages
+Combinatorics on words
+Primitive types
+Syntactic entities
+String (computer science)
+Algorithms on strings
 -1
-Units of information
-Units of information
+based
+Redirects to Wiktionary
 -1
 Cryptography
 Cryptography
 Banking technology
 Formal sciences
 Applied mathematics
+Cryptography
+Banking technology
+Formal sciences
+Applied mathematics
+Cryptography
+Banking technology
+Formal sciences
+Applied mathematics
+Cryptography
+Banking technology
+Formal sciences
+Applied mathematics
+Cryptography
+Banking technology
+Formal sciences
+Applied mathematics
+Cryptography
+Banking technology
+Formal sciences
+Applied mathematics
+Cryptography
+Banking technology
+Formal sciences
+Applied mathematics
 -1
+Units of information
+Units of information
+Units of information
+Units of information
+Units of information
+Units of information
+-1
+Primitive types
+Data types
+Primitive types
+Data types
+Primitive types
+Data types
+Primitive types
+Data types
 Primitive types
 Data types
 Primitive types
@@ -24,12 +71,70 @@ Primitive types
 Data types
 Data types
 Programming language concepts
+Data types
+Programming language concepts
+Data types
+Programming language concepts
+Data types
+Programming language concepts
+Data types
+Programming language concepts
 -1
 Character encoding
 Character encoding
 Natural language and computing
+Character encoding
+Natural language and computing
+Character encoding
+Natural language and computing
+-1
+Redirects to Wiktionary
+Protected soft redirects
+Redirects to Wiktionary
 -1
 Data protection
+Privacy law
+Information privacy
+European Union regulations
+Data laws
+Data protection
+2016 establishments in Europe
+2018 in Europe
+Privacy law
+Information privacy
+European Union regulations
+Data laws
+Data protection
+2016 establishments in Europe
+2018 in Europe
+Privacy law
+Information privacy
+European Union regulations
+Data laws
+Data protection
+2016 establishments in Europe
+2018 in Europe
+Privacy law
+Information privacy
+European Union regulations
+Data laws
+Data protection
+2016 establishments in Europe
+2018 in Europe
+Privacy law
+Information privacy
+European Union regulations
+Data laws
+Data protection
+2016 establishments in Europe
+2018 in Europe
+Privacy law
+Information privacy
+European Union regulations
+Data laws
+Data protection
+2016 establishments in Europe
+2018 in Europe
 Privacy law
 Information privacy
 European Union regulations
@@ -44,13 +149,51 @@ Computer arithmetic
 Elementary arithmetic
 Positional numeral systems
 Gottfried Leibniz
+Binary arithmetic
+Computer arithmetic
+Elementary arithmetic
+Positional numeral systems
+Gottfried Leibniz
+Binary arithmetic
+Computer arithmetic
+Elementary arithmetic
+Positional numeral systems
+Gottfried Leibniz
+Binary arithmetic
+Computer arithmetic
+Elementary arithmetic
+Positional numeral systems
+Gottfried Leibniz
+Binary arithmetic
+Computer arithmetic
+Elementary arithmetic
+Positional numeral systems
+Gottfried Leibniz
 -1
 Formal languages
 Formal languages
 Theoretical computer science
 Combinatorics on words
+Formal languages
+Theoretical computer science
+Combinatorics on words
+Formal languages
+Theoretical computer science
+Combinatorics on words
 -1
 modern encryption techniques
+Cryptography
+Data protection
+Cryptography
+Data protection
+Cryptography
+Data protection
+Cryptography
+Data protection
+Cryptography
+Data protection
+Cryptography
+Data protection
 Cryptography
 Data protection
 -1
@@ -59,8 +202,40 @@ Binary arithmetic
 Primitive types
 Data types
 Units of information
+Binary arithmetic
+Primitive types
+Data types
+Units of information
+Binary arithmetic
+Primitive types
+Data types
+Units of information
+Binary arithmetic
+Primitive types
+Data types
+Units of information
+Binary arithmetic
+Primitive types
+Data types
+Units of information
 -1
 binary strings
+Character encoding
+Data types
+Formal languages
+Combinatorics on words
+Primitive types
+Syntactic entities
+String (computer science)
+Algorithms on strings
+Character encoding
+Data types
+Formal languages
+Combinatorics on words
+Primitive types
+Syntactic entities
+String (computer science)
+Algorithms on strings
 Character encoding
 Data types
 Formal languages
@@ -76,8 +251,34 @@ Formal languages
 Metalogic
 Concepts in logic
 Philosophy of logic
+Syntax (logic)
+Formal languages
+Metalogic
+Concepts in logic
+Philosophy of logic
+Syntax (logic)
+Formal languages
+Metalogic
+Concepts in logic
+Philosophy of logic
 -1
 String (computer science)
+Character encoding
+Data types
+Formal languages
+Combinatorics on words
+Primitive types
+Syntactic entities
+String (computer science)
+Algorithms on strings
+Character encoding
+Data types
+Formal languages
+Combinatorics on words
+Primitive types
+Syntactic entities
+String (computer science)
+Algorithms on strings
 Character encoding
 Data types
 Formal languages
@@ -89,7 +290,25 @@ Algorithms on strings
 -1
 Combinatorics on words
 Combinatorics on words
+Combinatorics on words
+Combinatorics on words
 -1
+Algorithms on strings
+Character encoding
+Data types
+Formal languages
+Combinatorics on words
+Primitive types
+Syntactic entities
+String (computer science)
+Algorithms on strings
+Character encoding
+Data types
+Formal languages
+Combinatorics on words
+Primitive types
+Syntactic entities
+String (computer science)
 Algorithms on strings
 Character encoding
 Data types
