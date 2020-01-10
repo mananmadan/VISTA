@@ -110,6 +110,7 @@ def create_graph(query,lvl,graph):
 
  if templist != 0 and len(templist) != 0 :
   if a!=1:
+   print("these things were not found")
    print(query," ",templist)
    print("\n")
   for i in templist:
@@ -131,16 +132,17 @@ def create_graph(query,lvl,graph):
 
 # Adding data to file
 def add_to_file(graph,name):
-    open("created_graph/"+name+".txt", 'w').close()
-    fout = open("created_graph/"+name+".txt","w")
-    for node in graph:
+  open("New_graphs/"+name+".txt", "w").close()
+  fout = open("New_graphs/"+name+".txt","w")
+  print("i am gonna write")
+  for node in graph:
         fout.write(node)
         fout.write("\n")
         for neighbour in graph[node]:
             fout.write(neighbour)
             fout.write("\n")
         fout.write("-1\n")
-    fout.write("-2\n")
+        fout.write("-2\n")
 
 def output_file(query,gname,path):
     fout = open("output5.txt","a")
@@ -160,8 +162,9 @@ def output_file(query,gname,path):
 def read_from_file(graph,name):
 
     try:
-        fin = open("created_graph/"+name+".txt")
+        fin = open("New_graphs/"+name+".txt")
     except :
+        print("I found this i am skipping the gra[h of this query")
         return 0
     query=fin.readline()
     query=query.replace("\n","")
@@ -213,8 +216,8 @@ xl = ["ciphertext bits","encryption scheme","key length","block size","avoid","s
 ]
 
 for query in xl:
-   read_from_file(graph,query)
-   create_graph(query,0,graph)    
-   add_to_file(graph,query)
+   read_from_file(graph,query)#working fine 
+   create_graph(query,0,graph) #working fine
+   add_to_file(graph,query)#working fine
    show_edges(graph)
    print("\n")
