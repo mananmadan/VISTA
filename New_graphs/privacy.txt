@@ -15,6 +15,22 @@ Global Positioning System
 20th-century inventions
 Global Positioning System
 20th-century inventions
+Global Positioning System
+20th-century inventions
+Global Positioning System
+20th-century inventions
+Global Positioning System
+20th-century inventions
+Global Positioning System
+20th-century inventions
+Global Positioning System
+20th-century inventions
+Global Positioning System
+20th-century inventions
+Global Positioning System
+20th-century inventions
+Global Positioning System
+20th-century inventions
 -1
 -2
 History of psychology
@@ -167,6 +183,11 @@ American rock music genres
 -2
 Cryptographic primitives
 Cryptographic primitives
+-1
+-2
+History of free and open-source software
+History of free and open-source software
+Free culture movement
 -1
 -2
 dictionary needs
@@ -328,6 +349,20 @@ Egyptian inventions
 -2
 ciphertext bits
 Cryptography
+-1
+-2
+privacy
+Privacy
+Privacy law
+Human rights
+Identity management
+Digital rights
+-1
+-2
+Privacy law
+Data laws
+Privacy law
+Privacy
 -1
 -2
 Data Encryption Standard
@@ -594,6 +629,12 @@ Lists of artists by record label
 Elektra Records artists
 -1
 -2
+Digital rights
+Digital rights
+Computing and society
+Access to Knowledge movement
+-1
+-2
 Competition
 Competition
 Social events
@@ -663,6 +704,12 @@ Scientific method
 Assumption
 -1
 -2
+Software version histories
+Version control
+Software version histories
+Software release
+-1
+-2
 Arab inventions
 Technology timelines
 Lists of inventions or discoveries
@@ -674,6 +721,13 @@ Block ciphers
 Advanced Encryption Standard
 -1
 -2
+early versions
+Firefox
+History of free and open-source software
+History of web browsers
+Software version histories
+-1
+-2
 Key management
 Key management
 Data security
@@ -681,6 +735,13 @@ Data security
 -2
 key length
 Key management
+-1
+-2
+History of web browsers
+History of web browsers
+History of software
+History of the Internet
+History of computing topical overviews
 -1
 -2
 Ancient Greek philosophy
@@ -693,6 +754,43 @@ Binary arithmetic
 Primitive types
 Data types
 Units of information
+-1
+-2
+Privacy
+Privacy
+Privacy law
+Human rights
+Identity management
+Digital rights
+-1
+-2
+Firefox
+Firefox
+2002 software
+Cross-platform free software
+Cross-platform web browsers
+Free FTP clients
+Free multilingual software
+Free software programmed in C++
+Free web browsers
+Gecko-based software
+Gopher clients
+History of the Internet
+IOS web browsers
+Linux web browsers
+MacOS web browsers
+Mozilla
+News aggregator software
+OS/2 web browsers
+POSIX web browsers
+Software that uses XUL
+Software using the Mozilla license
+Unix Internet software
+Web browsers for AmigaOS
+Web browsers
+Windows web browsers
+Web browsers that use GTK
+Software programmed in Rust
 -1
 -2
 Feistel ciphers
@@ -1125,6 +1223,11 @@ Data types
 Programming language concepts
 -1
 -2
+Identity management
+Identity management
+Computer security procedures
+-1
+-2
 Direct selling
 Direct selling
 -1
@@ -1160,6 +1263,10 @@ Statistical process control
 Quantitative research
 Experiments
 Metascience
+-1
+-2
+key size
+Key management
 -1
 -2
 new block cipher
@@ -1410,6 +1517,18 @@ Epistemology
 ciphers process blocks
 Block cipher modes of operation
 Cryptographic algorithms
+-1
+-2
+Human rights
+Human rights
+Legal doctrines and principles
+Philosophy
+Culture
+Society
+Politics
+Law and economics
+International relations
+Theories of law
 -1
 -2
 Protective gear

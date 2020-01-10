@@ -1162,6 +1162,10 @@ Experiments
 Metascience
 -1
 -2
+key size
+Key management
+-1
+-2
 new block cipher
 Block ciphers
 Cryptographic primitives

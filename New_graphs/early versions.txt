@@ -15,6 +15,22 @@ Global Positioning System
 20th-century inventions
 Global Positioning System
 20th-century inventions
+Global Positioning System
+20th-century inventions
+Global Positioning System
+20th-century inventions
+Global Positioning System
+20th-century inventions
+Global Positioning System
+20th-century inventions
+Global Positioning System
+20th-century inventions
+Global Positioning System
+20th-century inventions
+Global Positioning System
+20th-century inventions
+Global Positioning System
+20th-century inventions
 -1
 -2
 History of psychology
@@ -167,6 +183,11 @@ American rock music genres
 -2
 Cryptographic primitives
 Cryptographic primitives
+-1
+-2
+History of free and open-source software
+History of free and open-source software
+Free culture movement
 -1
 -2
 dictionary needs
@@ -663,6 +684,12 @@ Scientific method
 Assumption
 -1
 -2
+Software version histories
+Version control
+Software version histories
+Software release
+-1
+-2
 Arab inventions
 Technology timelines
 Lists of inventions or discoveries
@@ -674,6 +701,13 @@ Block ciphers
 Advanced Encryption Standard
 -1
 -2
+early versions
+Firefox
+History of free and open-source software
+History of web browsers
+Software version histories
+-1
+-2
 Key management
 Key management
 Data security
@@ -681,6 +715,13 @@ Data security
 -2
 key length
 Key management
+-1
+-2
+History of web browsers
+History of web browsers
+History of software
+History of the Internet
+History of computing topical overviews
 -1
 -2
 Ancient Greek philosophy
@@ -693,6 +734,35 @@ Binary arithmetic
 Primitive types
 Data types
 Units of information
+-1
+-2
+Firefox
+Firefox
+2002 software
+Cross-platform free software
+Cross-platform web browsers
+Free FTP clients
+Free multilingual software
+Free software programmed in C++
+Free web browsers
+Gecko-based software
+Gopher clients
+History of the Internet
+IOS web browsers
+Linux web browsers
+MacOS web browsers
+Mozilla
+News aggregator software
+OS/2 web browsers
+POSIX web browsers
+Software that uses XUL
+Software using the Mozilla license
+Unix Internet software
+Web browsers for AmigaOS
+Web browsers
+Windows web browsers
+Web browsers that use GTK
+Software programmed in Rust
 -1
 -2
 Feistel ciphers
@@ -1160,6 +1230,10 @@ Statistical process control
 Quantitative research
 Experiments
 Metascience
+-1
+-2
+key size
+Key management
 -1
 -2
 new block cipher
