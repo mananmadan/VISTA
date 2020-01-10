@@ -178,11 +178,7 @@ def read_from_file(graph,name):
 
 graph = defaultdict(list)
 
-xl = ["modern encryption techniques","digital","binary digits","modern cryptosystems need","binary strings",
-"binary string","based","binary strings","symmetric encryption schemes","block ciphers","plain binary text",
-"plaintext bits","ciphertext bits","des","aes","block sizes","stream ciphers","time i.e","technically","stream ciphers",
-"block ciphers","block size","block cipher","basic scheme","block cipher","block cipher","plaintext bits","ciphertext bits",
-"block size","encryption scheme","key length","block size","avoid","small block size","say","block size","m bits",
+xl = ["ciphertext bits","encryption scheme","key length","block size","avoid","small block size","say","block size","m bits",
 "possible plaintext bits combinations","attacker discovers","plain text blocks","ciphertext blocks","dictionary attack",
 "plaintext_ciphertext pairs","encryption key","block size","dictionary needs","large block size","large block size",
 "such plaintexts","multiples","block size","computer processor","padding","block cipher block","ciphers process blocks",
