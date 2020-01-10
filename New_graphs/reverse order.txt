@@ -9696,6 +9696,10 @@ Single-tier municipalities in Ontario
 Windsor, Ontario
 -1
 -2
+Order theory
+Order theory
+-1
+-2
 idea
 A priori
 Abstraction
@@ -11078,6 +11082,12 @@ Words coined in the 1970s
 Words and phrases introduced in 1976
 -1
 -2
+Lexicography
+Lexicography
+Lexicology
+Applied linguistics
+-1
+-2
 function needs
 Method (computer programming)
 -1
@@ -11560,6 +11570,11 @@ China-related lists
 Chinese inventions
 History of science and technology in China
 Lists of inventions or discoveries
+-1
+-2
+reverse order
+Order theory
+Lexicography
 -1
 -2
 Mathematical logic
