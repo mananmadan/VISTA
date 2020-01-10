@@ -670,6 +670,10 @@ Cryptographic primitives
 Cryptographic primitives
 -1
 -2
+dependent key
+Database normalization
+-1
+-2
 History of free and open-source software
 History of free and open-source software
 Free culture movement
@@ -2183,6 +2187,15 @@ Process philosophy
 Reality
 Time
 Truth
+-1
+-2
+Database normalization
+Database normalization
+Database management systems
+Database constraints
+Data management
+Data modeling
+Relational algebra
 -1
 -2
 RAID

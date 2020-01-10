@@ -263,206 +263,6 @@ Global Positioning System
 20th-century inventions
 Global Positioning System
 20th-century inventions
-Global Positioning System
-20th-century inventions
-Global Positioning System
-20th-century inventions
-Global Positioning System
-20th-century inventions
-Global Positioning System
-20th-century inventions
-Global Positioning System
-20th-century inventions
-Global Positioning System
-20th-century inventions
-Global Positioning System
-20th-century inventions
-Global Positioning System
-20th-century inventions
-Global Positioning System
-20th-century inventions
-Global Positioning System
-20th-century inventions
-Global Positioning System
-20th-century inventions
-Global Positioning System
-20th-century inventions
-Global Positioning System
-20th-century inventions
-Global Positioning System
-20th-century inventions
-Global Positioning System
-20th-century inventions
-Global Positioning System
-20th-century inventions
-Global Positioning System
-20th-century inventions
-Global Positioning System
-20th-century inventions
-Global Positioning System
-20th-century inventions
-Global Positioning System
-20th-century inventions
-Global Positioning System
-20th-century inventions
-Global Positioning System
-20th-century inventions
-Global Positioning System
-20th-century inventions
-Global Positioning System
-20th-century inventions
-Global Positioning System
-20th-century inventions
-Global Positioning System
-20th-century inventions
-Global Positioning System
-20th-century inventions
-Global Positioning System
-20th-century inventions
-Global Positioning System
-20th-century inventions
-Global Positioning System
-20th-century inventions
-Global Positioning System
-20th-century inventions
-Global Positioning System
-20th-century inventions
-Global Positioning System
-20th-century inventions
-Global Positioning System
-20th-century inventions
-Global Positioning System
-20th-century inventions
-Global Positioning System
-20th-century inventions
-Global Positioning System
-20th-century inventions
-Global Positioning System
-20th-century inventions
-Global Positioning System
-20th-century inventions
-Global Positioning System
-20th-century inventions
-Global Positioning System
-20th-century inventions
-Global Positioning System
-20th-century inventions
-Global Positioning System
-20th-century inventions
-Global Positioning System
-20th-century inventions
-Global Positioning System
-20th-century inventions
-Global Positioning System
-20th-century inventions
-Global Positioning System
-20th-century inventions
-Global Positioning System
-20th-century inventions
-Global Positioning System
-20th-century inventions
-Global Positioning System
-20th-century inventions
-Global Positioning System
-20th-century inventions
-Global Positioning System
-20th-century inventions
-Global Positioning System
-20th-century inventions
-Global Positioning System
-20th-century inventions
-Global Positioning System
-20th-century inventions
-Global Positioning System
-20th-century inventions
-Global Positioning System
-20th-century inventions
-Global Positioning System
-20th-century inventions
-Global Positioning System
-20th-century inventions
-Global Positioning System
-20th-century inventions
-Global Positioning System
-20th-century inventions
-Global Positioning System
-20th-century inventions
-Global Positioning System
-20th-century inventions
-Global Positioning System
-20th-century inventions
-Global Positioning System
-20th-century inventions
-Global Positioning System
-20th-century inventions
-Global Positioning System
-20th-century inventions
-Global Positioning System
-20th-century inventions
-Global Positioning System
-20th-century inventions
-Global Positioning System
-20th-century inventions
-Global Positioning System
-20th-century inventions
-Global Positioning System
-20th-century inventions
-Global Positioning System
-20th-century inventions
-Global Positioning System
-20th-century inventions
-Global Positioning System
-20th-century inventions
-Global Positioning System
-20th-century inventions
-Global Positioning System
-20th-century inventions
-Global Positioning System
-20th-century inventions
-Global Positioning System
-20th-century inventions
-Global Positioning System
-20th-century inventions
-Global Positioning System
-20th-century inventions
-Global Positioning System
-20th-century inventions
-Global Positioning System
-20th-century inventions
-Global Positioning System
-20th-century inventions
-Global Positioning System
-20th-century inventions
-Global Positioning System
-20th-century inventions
-Global Positioning System
-20th-century inventions
-Global Positioning System
-20th-century inventions
-Global Positioning System
-20th-century inventions
-Global Positioning System
-20th-century inventions
-Global Positioning System
-20th-century inventions
-Global Positioning System
-20th-century inventions
-Global Positioning System
-20th-century inventions
-Global Positioning System
-20th-century inventions
-Global Positioning System
-20th-century inventions
-Global Positioning System
-20th-century inventions
-Global Positioning System
-20th-century inventions
-Global Positioning System
-20th-century inventions
-Global Positioning System
-20th-century inventions
-Global Positioning System
-20th-century inventions
 -1
 -2
 Cryptographic software
@@ -552,20 +352,6 @@ Theories
 Thought
 -1
 -2
-function _f_
-Functions and mappings
-Basic concepts in set theory
-Elementary mathematics
--1
--2
-Cardiovascular physiology
-Cardiovascular physiology
-Cardiology
-Circulatory system
-Heart
-Cardiac anatomy
--1
--2
 Operating systems
 Operating systems
 -1
@@ -592,12 +378,6 @@ V8 engines
 V8 engines
 Piston engine configurations
 French inventions
--1
--2
-mathematical function
-Functions and mappings
-Basic concepts in set theory
-Elementary mathematics
 -1
 -2
 Mind–body problem
@@ -635,11 +415,6 @@ Self
 Thought
 -1
 -2
-Functions and mappings
-Functions and mappings
-Basic concepts in set theory
--1
--2
 Industrial rock musical groups
 Industrial music
 Electronic music genres
@@ -659,11 +434,6 @@ Video game companies established in 1991
 Video game companies of the United States
 Video game development companies
 ZeniMax Media
--1
--2
-Basic concepts in set theory
-Basic concepts in set theory
-Binary operations
 -1
 -2
 Cryptographic primitives
@@ -798,10 +568,6 @@ Truth
 Unsolved problems in neuroscience
 -1
 -2
-Political science terminology
-Political science
--1
--2
 Pyramid and Ponzi schemes
 Confidence tricks
 Pyramid and Ponzi schemes
@@ -821,12 +587,6 @@ Operating systems
 -2
 Legal documents
 Legal documents
--1
--2
-real implementation
-Computing terminology
-Political science terminology
-Design
 -1
 -2
 aes
@@ -957,15 +717,6 @@ English dictionaries
 -1
 -2
 History of Windsor, Ontario
-1749 establishments in North America
-Busking venues
-Detroit River
-French mission settlements in North America
-Populated places established in 1749
-Populated places on the Underground Railroad
-Port settlements in Ontario
-Single-tier municipalities in Ontario
-Windsor, Ontario
 1749 establishments in North America
 Busking venues
 Detroit River
@@ -1147,11 +898,6 @@ Main topic articles
 Humanities
 -1
 -2
-xor
-Logical connectives
-Dichotomies
--1
--2
 Cryptography
 Cryptography
 Banking technology
@@ -1241,12 +987,6 @@ Thought
 -2
 Chess tactics
 Chess tactics
--1
--2
-Computing terminology
-Tasks of natural language processing
-Library science terminology
-Computing terminology
 -1
 -2
 Observation
@@ -1374,12 +1114,6 @@ Web browsers that use GTK
 Software programmed in Rust
 -1
 -2
-Dichotomies
-Dichotomies
-Logic
-Greek words and phrases
--1
--2
 Feistel ciphers
 Cryptography
 Feistel ciphers
@@ -1432,10 +1166,6 @@ Musical groups from Dallas
 Alternative rock groups from Texas
 American post-grunge musical groups
 Rock music groups from Texas
--1
--2
-r.
-ISO basic Latin letters
 -1
 -2
 Reasoning
@@ -1662,17 +1392,9 @@ Reasoning
 Thought
 -1
 -2
-output f
-Cardiovascular physiology
--1
--2
 encryption algorithm
 Cryptography
 Data protection
--1
--2
-Elementary mathematics
-Elementary mathematics
 -1
 -2
 feistel block cipher
@@ -1745,11 +1467,6 @@ Units of information
 -2
 Concepts in epistemology
 Epistemology
--1
--2
-Logical connectives
-Logical connectives
-Logic symbols
 -1
 -2
 Sewing
@@ -1889,11 +1606,6 @@ Letters (message)
 Formal sciences
 Formal sciences
 Branches of science
--1
--2
-ISO basic Latin letters
-Latin alphabets
-ISO basic Latin alphabet
 -1
 -2
 Data types
@@ -2300,10 +2012,6 @@ Cryptography contests
 History of cryptography
 Advanced Encryption Standard
 National Institute of Standards and Technology
--1
--2
-l.
-ISO basic Latin letters
 -1
 -2
 Concepts in metaphysics

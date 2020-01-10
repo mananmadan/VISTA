@@ -263,206 +263,6 @@ Global Positioning System
 20th-century inventions
 Global Positioning System
 20th-century inventions
-Global Positioning System
-20th-century inventions
-Global Positioning System
-20th-century inventions
-Global Positioning System
-20th-century inventions
-Global Positioning System
-20th-century inventions
-Global Positioning System
-20th-century inventions
-Global Positioning System
-20th-century inventions
-Global Positioning System
-20th-century inventions
-Global Positioning System
-20th-century inventions
-Global Positioning System
-20th-century inventions
-Global Positioning System
-20th-century inventions
-Global Positioning System
-20th-century inventions
-Global Positioning System
-20th-century inventions
-Global Positioning System
-20th-century inventions
-Global Positioning System
-20th-century inventions
-Global Positioning System
-20th-century inventions
-Global Positioning System
-20th-century inventions
-Global Positioning System
-20th-century inventions
-Global Positioning System
-20th-century inventions
-Global Positioning System
-20th-century inventions
-Global Positioning System
-20th-century inventions
-Global Positioning System
-20th-century inventions
-Global Positioning System
-20th-century inventions
-Global Positioning System
-20th-century inventions
-Global Positioning System
-20th-century inventions
-Global Positioning System
-20th-century inventions
-Global Positioning System
-20th-century inventions
-Global Positioning System
-20th-century inventions
-Global Positioning System
-20th-century inventions
-Global Positioning System
-20th-century inventions
-Global Positioning System
-20th-century inventions
-Global Positioning System
-20th-century inventions
-Global Positioning System
-20th-century inventions
-Global Positioning System
-20th-century inventions
-Global Positioning System
-20th-century inventions
-Global Positioning System
-20th-century inventions
-Global Positioning System
-20th-century inventions
-Global Positioning System
-20th-century inventions
-Global Positioning System
-20th-century inventions
-Global Positioning System
-20th-century inventions
-Global Positioning System
-20th-century inventions
-Global Positioning System
-20th-century inventions
-Global Positioning System
-20th-century inventions
-Global Positioning System
-20th-century inventions
-Global Positioning System
-20th-century inventions
-Global Positioning System
-20th-century inventions
-Global Positioning System
-20th-century inventions
-Global Positioning System
-20th-century inventions
-Global Positioning System
-20th-century inventions
-Global Positioning System
-20th-century inventions
-Global Positioning System
-20th-century inventions
-Global Positioning System
-20th-century inventions
-Global Positioning System
-20th-century inventions
-Global Positioning System
-20th-century inventions
-Global Positioning System
-20th-century inventions
-Global Positioning System
-20th-century inventions
-Global Positioning System
-20th-century inventions
-Global Positioning System
-20th-century inventions
-Global Positioning System
-20th-century inventions
-Global Positioning System
-20th-century inventions
-Global Positioning System
-20th-century inventions
-Global Positioning System
-20th-century inventions
-Global Positioning System
-20th-century inventions
-Global Positioning System
-20th-century inventions
-Global Positioning System
-20th-century inventions
-Global Positioning System
-20th-century inventions
-Global Positioning System
-20th-century inventions
-Global Positioning System
-20th-century inventions
-Global Positioning System
-20th-century inventions
-Global Positioning System
-20th-century inventions
-Global Positioning System
-20th-century inventions
-Global Positioning System
-20th-century inventions
-Global Positioning System
-20th-century inventions
-Global Positioning System
-20th-century inventions
-Global Positioning System
-20th-century inventions
-Global Positioning System
-20th-century inventions
-Global Positioning System
-20th-century inventions
-Global Positioning System
-20th-century inventions
-Global Positioning System
-20th-century inventions
-Global Positioning System
-20th-century inventions
-Global Positioning System
-20th-century inventions
-Global Positioning System
-20th-century inventions
-Global Positioning System
-20th-century inventions
-Global Positioning System
-20th-century inventions
-Global Positioning System
-20th-century inventions
-Global Positioning System
-20th-century inventions
-Global Positioning System
-20th-century inventions
-Global Positioning System
-20th-century inventions
-Global Positioning System
-20th-century inventions
-Global Positioning System
-20th-century inventions
-Global Positioning System
-20th-century inventions
-Global Positioning System
-20th-century inventions
-Global Positioning System
-20th-century inventions
-Global Positioning System
-20th-century inventions
-Global Positioning System
-20th-century inventions
-Global Positioning System
-20th-century inventions
-Global Positioning System
-20th-century inventions
-Global Positioning System
-20th-century inventions
-Global Positioning System
-20th-century inventions
-Global Positioning System
-20th-century inventions
-Global Positioning System
-20th-century inventions
 -1
 -2
 Cryptographic software
@@ -558,14 +358,6 @@ Basic concepts in set theory
 Elementary mathematics
 -1
 -2
-Cardiovascular physiology
-Cardiovascular physiology
-Cardiology
-Circulatory system
-Heart
-Cardiac anatomy
--1
--2
 Operating systems
 Operating systems
 -1
@@ -592,12 +384,6 @@ V8 engines
 V8 engines
 Piston engine configurations
 French inventions
--1
--2
-mathematical function
-Functions and mappings
-Basic concepts in set theory
-Elementary mathematics
 -1
 -2
 Mind–body problem
@@ -798,10 +584,6 @@ Truth
 Unsolved problems in neuroscience
 -1
 -2
-Political science terminology
-Political science
--1
--2
 Pyramid and Ponzi schemes
 Confidence tricks
 Pyramid and Ponzi schemes
@@ -821,12 +603,6 @@ Operating systems
 -2
 Legal documents
 Legal documents
--1
--2
-real implementation
-Computing terminology
-Political science terminology
-Design
 -1
 -2
 aes
@@ -1147,11 +923,6 @@ Main topic articles
 Humanities
 -1
 -2
-xor
-Logical connectives
-Dichotomies
--1
--2
 Cryptography
 Cryptography
 Banking technology
@@ -1241,12 +1012,6 @@ Thought
 -2
 Chess tactics
 Chess tactics
--1
--2
-Computing terminology
-Tasks of natural language processing
-Library science terminology
-Computing terminology
 -1
 -2
 Observation
@@ -1372,12 +1137,6 @@ Web browsers
 Windows web browsers
 Web browsers that use GTK
 Software programmed in Rust
--1
--2
-Dichotomies
-Dichotomies
-Logic
-Greek words and phrases
 -1
 -2
 Feistel ciphers
@@ -1662,10 +1421,6 @@ Reasoning
 Thought
 -1
 -2
-output f
-Cardiovascular physiology
--1
--2
 encryption algorithm
 Cryptography
 Data protection
@@ -1745,11 +1500,6 @@ Units of information
 -2
 Concepts in epistemology
 Epistemology
--1
--2
-Logical connectives
-Logical connectives
-Logic symbols
 -1
 -2
 Sewing
@@ -2300,10 +2050,6 @@ Cryptography contests
 History of cryptography
 Advanced Encryption Standard
 National Institute of Standards and Technology
--1
--2
-l.
-ISO basic Latin letters
 -1
 -2
 Concepts in metaphysics
