@@ -1,6 +1,6 @@
 #!/usr/bin/python
 
-import pysftp as sftp
+import pystp as sftp
 import urllib2
 from urllib2 import urlopen
 from cookielib import CookieJar
