@@ -1,4 +1,7 @@
 #!/usr/bin/python
+
+### Data of this program is added to the NewGraphsFile
+
 import urllib2
 from urllib2 import urlopen
 from cookielib import CookieJar
@@ -12,8 +15,6 @@ from collections import defaultdict
 
 # graph is a dictionary whith list as its value for implementing the data structure graph
 # each graph variable stores revelent categories of thier respective query upto given level
-
-
 
 # making connection with given category to its revelant categories
 
@@ -67,7 +68,7 @@ opener.addheaders = [('User-agent', 'Mozilla/5.0 (X11; Linux i686) AppleWebKit/5
 
 wikipedia.set_lang("en")
 
-def my_f(query):    #extracting wikipedia tags from a query
+def scrape(query):    #extracting wikipedia tags from a query
 
  #wikiterm = wikipedia.search(query)
  dx = 0
@@ -96,20 +97,20 @@ def my_f(query):    #extracting wikipedia tags from a query
  return list
 
 # Adding scraped data to graph
-def create_graph(query,lvl,graph,count):
+def create_graph(query,lvl,graph):
  lvl = lvl + 1
  templist=[]
  a=0
  if query not in graph :
-    templist = my_f(query)
+    templist = scrape(query)
  else:
     for var in graph[query]:
         templist.append(var)
         a=1
 
  if templist != 0 and len(templist) != 0 :
-  count+=len(templist)	
   if a!=1:
+   print("these things were not found")
    print(query," ",templist)
    print("\n")
   for i in templist:
@@ -117,28 +118,31 @@ def create_graph(query,lvl,graph,count):
     addEdge(graph,query, i)
   for j in templist:
    #print(j)
-   if lvl<6 and count<1000:
+   if lvl<2:
     if j !=query :
-     create_graph(j,lvl,graph,count)
+     create_graph(j,lvl,graph)
    else:
     return 0
  else:
+    return 0
+ if len(templist) == 1 and templist[0]==query :
     return 0
 
 # File Handling
 
 # Adding data to file
 def add_to_file(graph,name):
-    open("created_graph/"+name+".txt", 'w').close()
-    fout = open("created_graph/"+name+".txt","w")
-    for node in graph:
+  open("New_graphs/"+name+".txt", "w").close()
+  fout = open("New_graphs/"+name+".txt","w")
+  print("i am gonna write")
+  for node in graph:
         fout.write(node)
         fout.write("\n")
         for neighbour in graph[node]:
             fout.write(neighbour)
             fout.write("\n")
         fout.write("-1\n")
-    fout.write("-2\n")
+        fout.write("-2\n")
 
 def output_file(query,gname,path):
     fout = open("output5.txt","a")
@@ -154,12 +158,13 @@ def output_file(query,gname,path):
     fout.write("\n")
     fout.write("-1\n")
 
-# Reading data from file
+# Reading data from file , basically checking if a given query is already present or not
 def read_from_file(graph,name):
 
     try:
-        fin = open("created_graph/"+name+".txt")
+        fin = open("New_graphs/"+name+".txt")
     except :
+        print("I found this i am skipping the graph of this query")
         return 0
     query=fin.readline()
     query=query.replace("\n","")
@@ -176,7 +181,21 @@ def read_from_file(graph,name):
 
 graph = defaultdict(list)
 
-xl = ["sub blocks","ciphertext block","difficult part",
+## List containing queries , can be done manually or added from a file
+xl = ["ciphertext bits","encryption scheme","key length","block size","avoid","small block size","say","block size","m bits",
+"possible plaintext bits combinations","attacker discovers","plain text blocks","ciphertext blocks","dictionary attack",
+"plaintext_ciphertext pairs","encryption key","block size","dictionary needs","large block size","large block size",
+"such plaintexts","multiples","block size","computer processor","padding","block cipher block","ciphers process blocks",
+"block size","bit plaintext","bits needs","redundant information","final block","bits need","redundant bits","complete block",
+"too","system insecure","block cipher schemes","vast number","block ciphers schemes","prominent block ciphers","digital encryption",
+"des","popular block cipher","_broken_ block cipher","small key size","triple des","variant scheme","des","block ciphers","block ciphers",
+"advanced encryption","aes","new block cipher","encryption algorithm","rijndael","aes","design competition","idea","strong block cipher",
+"block size","key size","idea","early versions","privacy","pgp","idea","patent issues","feistel block cipher","feistel cipher",
+"specific scheme","block cipher","design model","different block ciphers","des","feistel cipher","cryptographic system","feistel",
+"cipher structure uses","encryption process","encryption process uses","feistel","multiple rounds","permutation step","feistel structure",
+"input block","encryption key","function _f_","r.","output f","xor","mathematical function","l.","real implementation","feistel cipher",
+"des","whole encryption key","dependent key","encryption key","round uses","different key","original key","permutation step","round swaps",
+"r.","current round","output l","current round","permutation steps form","algorithm design","sub blocks","ciphertext block","difficult part",
 "feistel cipher","round function _f_","unbreakable scheme","function needs","important properties","decryption process","feistel",
 "ciphertext block","feistel","reverse order","feistel cipher","number","rounds","feistel cipher","inefficient slow encryption",
 "decryption processes","number","efficiency security tradeoff","data encryption","des","symmetric key block cipher",
@@ -196,14 +215,10 @@ xl = ["sub blocks","ciphertext block","difficult part",
 "des","aes","aes","bit keys","bit keys","bit keys","rounds uses","bit round key","aes","aes","encryption process",
 "typical round","aes","sub processes","round process"
 ]
+
 for query in xl:
-     i=7
-     while i>=0:
-        count=0
-        read_from_file(graph,query)
-        create_graph(query,i,graph,count)    
-        add_to_file(graph,query)
-        show_edges(graph)
-        print("\n")
-        i=i-1
- 
+   read_from_file(graph,query)#working fine 
+   create_graph(query,0,graph) #working fine
+   add_to_file(graph,query)#working fine
+   show_edges(graph)
+   print("\n")

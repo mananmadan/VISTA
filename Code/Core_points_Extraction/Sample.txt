@@ -1,0 +1,55 @@
+What is AI ?
+Artificial Intelligence (AI) is a branch of Science which deals with helping machines
+find solutions to complex problems in a more human-like fashion.
+This generally involves borrowing characteristics from human intelligence, and
+applying them as algorithms in a computer friendly way.
+A more or less flexible or efficient approach can be taken depending on the
+requirements established, which influences how artificial the intelligent behavior
+appears
+Artificial intelligence can be viewed from a variety of perspectives.
+From the perspective of intelligence
+artificial intelligence is making machines "intelligent" -- acting as we would
+expect people to act.
+The inability to distinguish computer responses from human responses
+is called the Turing test.
+Intelligence requires knowledge
+Expert problem solving - restricting domain to allow including
+significant relevant knowledge
+From a business perspective AI is a set of very powerful tools, and
+methodologies for using those tools to solve business problems.
+From a programming perspective, AI includes the study of symbolic
+programming, problem solving, and search.
+Typically AI programs focus on symbols rather than numeric
+processing.
+Problem solving - achieve goals.
+Search - seldom access a solution directly. Search may include a
+variety of techniques.
+AI programming languages include:
+LISP, developed in the 1950s, is the early programming language
+strongly associated with AI. LISP is a functional programming language with
+procedural extensions. LISP (LISt Processor) was specifically designed for 
+processing heterogeneous lists -- typically a list of symbols. Features of LISP
+are run- time type checking, higher order functions (functions that have other
+functions as parameters), automatic memory management (garbage collection)
+and an interactive environment.
+The second language strongly associated with AI is PROLOG.
+PROLOG was developed in the 1970s. PROLOG is based on first order logic.
+PROLOG is declarative in nature and has facilities for explicitly limiting the
+search space.
+Object-oriented languages are a class of languages more recently used
+for AI programming. Important features of object-oriented languages include:
+concepts of objects and messages, objects bundle data and methods for
+manipulating the data, sender specifies what is to be done receiver decides
+how to do it, inheritance (object hierarchy where objects inherit the attributes
+of the more general class of objects). Examples of object-oriented languages
+are Smalltalk, Objective C, C++. Object oriented extensions to LISP (CLOS -
+Common LISP Object System) and PROLOG (L&O - Logic & Objects) are
+also used.
+Artificial Intelligence is a new electronic machine that stores large amount of
+information and process it at very high speed
+The computer is interrogated by a human via a teletype It passes if the human cannot
+tell if there is a computer or human at the other end
+The ability to solve problems
+It is the science and engineering of making intelligent machines, especially intelligent
+computer programs. It is related to the similar task of using computers to understand
+human intelligence
