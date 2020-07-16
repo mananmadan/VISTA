@@ -1,6 +1,5 @@
-# ProjectWork
+# VISTA
 Our task was to build a tool such that it will be able to take the notes from the class for the student.Now when the student sees anything outside in the world,he is able to upload that photo to our tool.We shall be able to tell him about the application of the notes relating to that image.**Hence helping in better understanding of the real world applications of the material studied in the class**.
-
 
 # First Step
 
@@ -10,6 +9,7 @@ We uploaded the image to the google reverse image search algorithm and extracted
 **For example on uploading a image for rock concert we get the following result**:
 
 ![rock concert](https://github.com/mananmadan/ProjectWork/blob/master/Pics/rockconcert.jpg)
+
 # Second Step
 
 Now that we had the description of the image , we had to form different categories from that result.
